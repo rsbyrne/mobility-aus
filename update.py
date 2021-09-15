@@ -57,6 +57,6 @@ and should be stable for the remainder of the COVID-19 crisis.
 )
 
 
-with open('README.md', mode='w') as file:
+with open('index.md', mode='w') as file:
     file.write(text)
 
