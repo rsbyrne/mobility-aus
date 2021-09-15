@@ -7,10 +7,18 @@ This daily-updated portal aggregates mobility and case data from various sources
 
 NOTE: This portal was recently reconstructed. Links will be readded in the coming days and should be stable for the remainder of the COVID-19 crisis.
 
-[![mel_simple_lga_facebook.png](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook.png)](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook.png)
+[![mel_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.png)
 
-[Data](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook.csv)
+[Data](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.csv)
 
 [![mel_sixtydays_sa4.png](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.png)](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.png)
 
 [Data](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.csv)
+
+[![syd_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.csv)
+
+[![syd_sixtydays_sa4.png](https://rsbyrne.github.io/mobility-aus/products/syd_sixtydays_sa4.png)](https://rsbyrne.github.io/mobility-aus/products/syd_sixtydays_sa4.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/syd_sixtydays_sa4.csv)
