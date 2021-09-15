@@ -35,7 +35,7 @@ links = '\n\n'.join(
     )
 
 text = (
-f'''
+f'''\
 ---
 title: Welcome to the Australian Crisis Mobility Portal
 ---
