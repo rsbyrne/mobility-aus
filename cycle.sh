@@ -9,4 +9,6 @@ echo "start main cycle"
 
 echo "end main cycle"
 
+docker container prune -f
+
 cd $currentDir
