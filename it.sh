@@ -8,5 +8,5 @@ SOCK='/var/run/docker.sock'
 echo "starting interactive session"
 docker run -v $MOUNTFROM:$MOUNTTO -v $SOCK:$SOCK -it --shm-size 2g $IMAGE bash
 echo "finished interactive session"
-docker rm $(docker ps -a -q)
+docker container prune -f
 cd $currentDir
