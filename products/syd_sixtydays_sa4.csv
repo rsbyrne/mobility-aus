@@ -14,7 +14,7 @@ date,name,mobility_score
 2020-04-04,Sydney - South West,0.22484912616357616
 2020-04-04,Sydney - Sutherland,0.01863342890299101
 2020-04-04,all,0.08327796606567722
-2020-04-05,Sydney - Baulkham Hills and Hawkesbury,0.08937854619899775
+2020-04-05,Sydney - Baulkham Hills and Hawkesbury,0.08809184427757338
 2020-04-05,Sydney - Blacktown,0.20449688247673203
 2020-04-05,Sydney - City and Inner South,0.017679106623004526
 2020-04-05,Sydney - Eastern Suburbs,0.0005368459965826022
@@ -224,7 +224,7 @@ date,name,mobility_score
 2020-04-18,Sydney - South West,0.23705944457444486
 2020-04-18,Sydney - Sutherland,0.12881654605207088
 2020-04-18,all,0.10104712181982825
-2020-04-19,Sydney - Baulkham Hills and Hawkesbury,0.18106802798772617
+2020-04-19,Sydney - Baulkham Hills and Hawkesbury,0.17846135569970745
 2020-04-19,Sydney - Blacktown,0.26330889634025345
 2020-04-19,Sydney - City and Inner South,0.019608861823744012
 2020-04-19,Sydney - Eastern Suburbs,0.02316615043220169
@@ -329,7 +329,7 @@ date,name,mobility_score
 2020-04-25,Sydney - South West,0.006198212945414512
 2020-04-25,Sydney - Sutherland,-0.019987569800545467
 2020-04-25,all,-0.0570765650604817
-2020-04-26,Sydney - Baulkham Hills and Hawkesbury,0.09618894984067887
+2020-04-26,Sydney - Baulkham Hills and Hawkesbury,0.0948042047106313
 2020-04-26,Sydney - Blacktown,0.23893269207596635
 2020-04-26,Sydney - City and Inner South,0.0502438068106366
 2020-04-26,Sydney - Eastern Suburbs,0.03951975853034088
@@ -434,7 +434,7 @@ date,name,mobility_score
 2020-05-02,Sydney - South West,0.4288835322800103
 2020-05-02,Sydney - Sutherland,0.26078939180791394
 2020-05-02,all,0.21416144900013526
-2020-05-03,Sydney - Baulkham Hills and Hawkesbury,0.23296770104103967
+2020-05-03,Sydney - Baulkham Hills and Hawkesbury,0.22961387619931625
 2020-05-03,Sydney - Blacktown,0.37302830846997576
 2020-05-03,Sydney - City and Inner South,0.13032680857540882
 2020-05-03,Sydney - Eastern Suburbs,0.14705573394489882
@@ -539,7 +539,7 @@ date,name,mobility_score
 2020-05-09,Sydney - South West,0.5164831071598637
 2020-05-09,Sydney - Sutherland,0.376549033424012
 2020-05-09,all,0.3141295216582193
-2020-05-10,Sydney - Baulkham Hills and Hawkesbury,0.10990252436300406
+2020-05-10,Sydney - Baulkham Hills and Hawkesbury,0.10832035732985029
 2020-05-10,Sydney - Blacktown,0.5536821031003081
 2020-05-10,Sydney - City and Inner South,0.17397539185114502
 2020-05-10,Sydney - Eastern Suburbs,0.24953598621246847
@@ -644,7 +644,7 @@ date,name,mobility_score
 2020-05-16,Sydney - South West,0.5812566508643814
 2020-05-16,Sydney - Sutherland,0.4067730149163193
 2020-05-16,all,0.3671776231488669
-2020-05-17,Sydney - Baulkham Hills and Hawkesbury,0.21300592574703914
+2020-05-17,Sydney - Baulkham Hills and Hawkesbury,0.20993947249187797
 2020-05-17,Sydney - Blacktown,0.49679529739126044
 2020-05-17,Sydney - City and Inner South,0.2639664645532813
 2020-05-17,Sydney - Eastern Suburbs,0.3319033229821395
@@ -749,7 +749,7 @@ date,name,mobility_score
 2020-05-23,Sydney - South West,0.5965694918393541
 2020-05-23,Sydney - Sutherland,0.4306303371285698
 2020-05-23,all,0.3834415618210464
-2020-05-24,Sydney - Baulkham Hills and Hawkesbury,0.3299075730757594
+2020-05-24,Sydney - Baulkham Hills and Hawkesbury,0.3251581927577588
 2020-05-24,Sydney - Blacktown,0.4983599262301923
 2020-05-24,Sydney - City and Inner South,0.23638398343772057
 2020-05-24,Sydney - Eastern Suburbs,0.2612415539074778
@@ -854,7 +854,7 @@ date,name,mobility_score
 2020-05-30,Sydney - South West,0.6997540217856492
 2020-05-30,Sydney - Sutherland,0.5211805925336771
 2020-05-30,all,0.49411838899860416
-2020-05-31,Sydney - Baulkham Hills and Hawkesbury,0.21797353386610882
+2020-05-31,Sydney - Baulkham Hills and Hawkesbury,0.21483556645924665
 2020-05-31,Sydney - Blacktown,0.5105365835472048
 2020-05-31,Sydney - City and Inner South,0.3522225583717835
 2020-05-31,Sydney - Eastern Suburbs,0.4088930613579886
@@ -959,7 +959,7 @@ date,name,mobility_score
 2020-06-06,Sydney - South West,0.8183884281494368
 2020-06-06,Sydney - Sutherland,0.5566038415094686
 2020-06-06,all,0.6259953433659953
-2020-06-07,Sydney - Baulkham Hills and Hawkesbury,0.6627334697302913
+2020-06-07,Sydney - Baulkham Hills and Hawkesbury,0.6531926966347478
 2020-06-07,Sydney - Blacktown,0.760428564388041
 2020-06-07,Sydney - City and Inner South,0.5171522131838275
 2020-06-07,Sydney - Eastern Suburbs,0.5456818214579776
@@ -1064,7 +1064,7 @@ date,name,mobility_score
 2020-06-13,Sydney - South West,0.8247031358786807
 2020-06-13,Sydney - Sutherland,0.6208485646245316
 2020-06-13,all,0.6826187402318982
-2020-06-14,Sydney - Baulkham Hills and Hawkesbury,0.7112435298661569
+2020-06-14,Sydney - Baulkham Hills and Hawkesbury,0.701004401401907
 2020-06-14,Sydney - Blacktown,0.7038066265888003
 2020-06-14,Sydney - City and Inner South,0.5767438474457325
 2020-06-14,Sydney - Eastern Suburbs,0.5443329712307597
@@ -1169,7 +1169,7 @@ date,name,mobility_score
 2020-06-20,Sydney - South West,0.8508958991924693
 2020-06-20,Sydney - Sutherland,0.7524524076894777
 2020-06-20,all,0.7515995571546659
-2020-06-21,Sydney - Baulkham Hills and Hawkesbury,0.7697052593873184
+2020-06-21,Sydney - Baulkham Hills and Hawkesbury,0.7586245103899129
 2020-06-21,Sydney - Blacktown,0.6578408822446898
 2020-06-21,Sydney - City and Inner South,0.613165055188458
 2020-06-21,Sydney - Eastern Suburbs,0.5430406585031712
@@ -1274,7 +1274,7 @@ date,name,mobility_score
 2020-06-27,Sydney - South West,0.9109069897154395
 2020-06-27,Sydney - Sutherland,0.82428160976453
 2020-06-27,all,0.7523776868713864
-2020-06-28,Sydney - Baulkham Hills and Hawkesbury,0.6623343869790258
+2020-06-28,Sydney - Baulkham Hills and Hawkesbury,0.6527993591161437
 2020-06-28,Sydney - Blacktown,0.8240984663013963
 2020-06-28,Sydney - City and Inner South,0.6534730684244072
 2020-06-28,Sydney - Eastern Suburbs,0.6260589118558718
@@ -1379,7 +1379,7 @@ date,name,mobility_score
 2020-07-04,Sydney - South West,0.9367406847740365
 2020-07-04,Sydney - Sutherland,0.7583682067987555
 2020-07-04,all,0.7736603405946537
-2020-07-05,Sydney - Baulkham Hills and Hawkesbury,0.6565724521627835
+2020-07-05,Sydney - Baulkham Hills and Hawkesbury,0.647120373653124
 2020-07-05,Sydney - Blacktown,0.8399859168257476
 2020-07-05,Sydney - City and Inner South,0.7385006957951825
 2020-07-05,Sydney - Eastern Suburbs,0.6921309349354485
@@ -1484,7 +1484,7 @@ date,name,mobility_score
 2020-07-11,Sydney - South West,0.8200458105816412
 2020-07-11,Sydney - Sutherland,0.6779811803732985
 2020-07-11,all,0.7312249749370493
-2020-07-12,Sydney - Baulkham Hills and Hawkesbury,0.9312119307300512
+2020-07-12,Sydney - Baulkham Hills and Hawkesbury,0.9178061165668187
 2020-07-12,Sydney - Blacktown,0.9144119598248581
 2020-07-12,Sydney - City and Inner South,0.7257992720185336
 2020-07-12,Sydney - Eastern Suburbs,0.7132483361184693
@@ -1589,7 +1589,7 @@ date,name,mobility_score
 2020-07-18,Sydney - South West,0.7773097539206794
 2020-07-18,Sydney - Sutherland,0.7008479355400817
 2020-07-18,all,0.7543426907457261
-2020-07-19,Sydney - Baulkham Hills and Hawkesbury,0.6404575038046281
+2020-07-19,Sydney - Baulkham Hills and Hawkesbury,0.6312374176007051
 2020-07-19,Sydney - Blacktown,0.879623966723117
 2020-07-19,Sydney - City and Inner South,0.7257657044487916
 2020-07-19,Sydney - Eastern Suburbs,0.6833150065014368
@@ -1694,7 +1694,7 @@ date,name,mobility_score
 2020-07-25,Sydney - South West,0.7147632133211034
 2020-07-25,Sydney - Sutherland,0.8357045137232532
 2020-07-25,all,0.7166810200561875
-2020-07-26,Sydney - Baulkham Hills and Hawkesbury,0.4067543962491923
+2020-07-26,Sydney - Baulkham Hills and Hawkesbury,0.40089872186804526
 2020-07-26,Sydney - Blacktown,0.6039646501226879
 2020-07-26,Sydney - City and Inner South,0.5140193557931033
 2020-07-26,Sydney - Eastern Suburbs,0.4454370004678796
@@ -1799,7 +1799,7 @@ date,name,mobility_score
 2020-08-01,Sydney - South West,0.689882940684486
 2020-08-01,Sydney - Sutherland,0.7447711192869392
 2020-08-01,all,0.7409503478829571
-2020-08-02,Sydney - Baulkham Hills and Hawkesbury,0.6308863278980004
+2020-08-02,Sydney - Baulkham Hills and Hawkesbury,0.6218040292387744
 2020-08-02,Sydney - Blacktown,0.8855700589487069
 2020-08-02,Sydney - City and Inner South,0.6321174719422444
 2020-08-02,Sydney - Eastern Suburbs,0.6708095179264068
@@ -1904,7 +1904,7 @@ date,name,mobility_score
 2020-08-08,Sydney - South West,0.6592363497626977
 2020-08-08,Sydney - Sutherland,0.7293920541635224
 2020-08-08,all,0.6597389122140431
-2020-08-09,Sydney - Baulkham Hills and Hawkesbury,0.544868686323989
+2020-08-09,Sydney - Baulkham Hills and Hawkesbury,0.5370247056884558
 2020-08-09,Sydney - Blacktown,0.723209808894604
 2020-08-09,Sydney - City and Inner South,0.5373063351945252
 2020-08-09,Sydney - Eastern Suburbs,0.510698269552203
@@ -2009,7 +2009,7 @@ date,name,mobility_score
 2020-08-15,Sydney - South West,0.7827692852683658
 2020-08-15,Sydney - Sutherland,0.7791267774954193
 2020-08-15,all,0.7468906339732988
-2020-08-16,Sydney - Baulkham Hills and Hawkesbury,0.5551443917287605
+2020-08-16,Sydney - Baulkham Hills and Hawkesbury,0.5471524810758955
 2020-08-16,Sydney - Blacktown,0.7529433913827875
 2020-08-16,Sydney - City and Inner South,0.6756686516222117
 2020-08-16,Sydney - Eastern Suburbs,0.6731500433494543
@@ -2114,7 +2114,7 @@ date,name,mobility_score
 2020-08-22,Sydney - South West,0.769916476902339
 2020-08-22,Sydney - Sutherland,0.7278962629202458
 2020-08-22,all,0.7338133051208421
-2020-08-23,Sydney - Baulkham Hills and Hawkesbury,0.6311490863834339
+2020-08-23,Sydney - Baulkham Hills and Hawkesbury,0.6220630050284442
 2020-08-23,Sydney - Blacktown,0.8283204363956236
 2020-08-23,Sydney - City and Inner South,0.6432547645557011
 2020-08-23,Sydney - Eastern Suburbs,0.6629281391670633
@@ -2219,7 +2219,7 @@ date,name,mobility_score
 2020-08-29,Sydney - South West,0.8144352471484201
 2020-08-29,Sydney - Sutherland,0.8376260601809514
 2020-08-29,all,0.7971350776341666
-2020-08-30,Sydney - Baulkham Hills and Hawkesbury,0.7110456290859919
+2020-08-30,Sydney - Baulkham Hills and Hawkesbury,0.7008093496199068
 2020-08-30,Sydney - Blacktown,0.9442662202248308
 2020-08-30,Sydney - City and Inner South,0.7257885373107145
 2020-08-30,Sydney - Eastern Suburbs,0.8563073813671462
@@ -2324,7 +2324,7 @@ date,name,mobility_score
 2020-09-05,Sydney - South West,0.9098513520788553
 2020-09-05,Sydney - Sutherland,0.8368988015546174
 2020-09-05,all,0.8224482812161632
-2020-09-06,Sydney - Baulkham Hills and Hawkesbury,0.3120692342968734
+2020-09-06,Sydney - Baulkham Hills and Hawkesbury,0.3075766563745026
 2020-09-06,Sydney - Blacktown,0.9986312759637229
 2020-09-06,Sydney - City and Inner South,0.7217112584337451
 2020-09-06,Sydney - Eastern Suburbs,0.7659623064062036
@@ -2429,7 +2429,7 @@ date,name,mobility_score
 2020-09-12,Sydney - South West,0.9255794365048952
 2020-09-12,Sydney - Sutherland,0.9023241155332841
 2020-09-12,all,0.8462759825089777
-2020-09-13,Sydney - Baulkham Hills and Hawkesbury,0.9625339051752159
+2020-09-13,Sydney - Baulkham Hills and Hawkesbury,0.948677176934553
 2020-09-13,Sydney - Blacktown,0.919184677613548
 2020-09-13,Sydney - City and Inner South,0.7167359945334922
 2020-09-13,Sydney - Eastern Suburbs,0.7313437141818039
@@ -2534,7 +2534,7 @@ date,name,mobility_score
 2020-09-19,Sydney - South West,0.8775338748591659
 2020-09-19,Sydney - Sutherland,0.8403941314470319
 2020-09-19,all,0.8071178153681161
-2020-09-20,Sydney - Baulkham Hills and Hawkesbury,0.5439340147580072
+2020-09-20,Sydney - Baulkham Hills and Hawkesbury,0.5361034897418704
 2020-09-20,Sydney - Blacktown,0.8322616966796024
 2020-09-20,Sydney - City and Inner South,0.6384551616440398
 2020-09-20,Sydney - Eastern Suburbs,0.6298829636272283
@@ -2639,7 +2639,7 @@ date,name,mobility_score
 2020-09-26,Sydney - South West,0.889629698253177
 2020-09-26,Sydney - Sutherland,0.7535602245305549
 2020-09-26,all,0.804358456552681
-2020-09-27,Sydney - Baulkham Hills and Hawkesbury,0.9144601028529954
+2020-09-27,Sydney - Baulkham Hills and Hawkesbury,0.9012954495726978
 2020-09-27,Sydney - Blacktown,0.8614902010159717
 2020-09-27,Sydney - City and Inner South,0.7710323416482111
 2020-09-27,Sydney - Eastern Suburbs,0.7584738105145584
@@ -2744,7 +2744,7 @@ date,name,mobility_score
 2020-10-03,Sydney - South West,0.8794729844084835
 2020-10-03,Sydney - Sutherland,0.7494132665989263
 2020-10-03,all,0.815318431449351
-2020-10-04,Sydney - Baulkham Hills and Hawkesbury,0.12429481115162626
+2020-10-04,Sydney - Baulkham Hills and Hawkesbury,0.12250545141001894
 2020-10-04,Sydney - Blacktown,0.9019804249143715
 2020-10-04,Sydney - City and Inner South,0.9008553223110809
 2020-10-04,Sydney - Eastern Suburbs,1.0177974722229306
@@ -2849,7 +2849,7 @@ date,name,mobility_score
 2020-10-10,Sydney - South West,0.9051401625528346
 2020-10-10,Sydney - Sutherland,0.8137729985280232
 2020-10-10,all,0.8536431733344695
-2020-10-11,Sydney - Baulkham Hills and Hawkesbury,0.5863728047045484
+2020-10-11,Sydney - Baulkham Hills and Hawkesbury,0.5779313268939282
 2020-10-11,Sydney - Blacktown,0.9385182452217828
 2020-10-11,Sydney - City and Inner South,0.7778373598813605
 2020-10-11,Sydney - Eastern Suburbs,0.8665768715805112
@@ -2954,7 +2954,7 @@ date,name,mobility_score
 2020-10-17,Sydney - South West,0.874847163539339
 2020-10-17,Sydney - Sutherland,0.8777574405072345
 2020-10-17,all,0.8266500375015998
-2020-10-18,Sydney - Baulkham Hills and Hawkesbury,0.7237069325317836
+2020-10-18,Sydney - Baulkham Hills and Hawkesbury,0.7132883797555558
 2020-10-18,Sydney - Blacktown,0.8782762282945519
 2020-10-18,Sydney - City and Inner South,0.7278941236311518
 2020-10-18,Sydney - Eastern Suburbs,0.7146080878068104
@@ -3059,7 +3059,7 @@ date,name,mobility_score
 2020-10-24,Sydney - South West,0.8709370591314637
 2020-10-24,Sydney - Sutherland,0.6537549189778967
 2020-10-24,all,0.7769013443755224
-2020-10-25,Sydney - Baulkham Hills and Hawkesbury,0.6059000454656165
+2020-10-25,Sydney - Baulkham Hills and Hawkesbury,0.5971774516682645
 2020-10-25,Sydney - Blacktown,0.747069972884531
 2020-10-25,Sydney - City and Inner South,0.6552367514540675
 2020-10-25,Sydney - Eastern Suburbs,0.6160369088246777
@@ -3164,7 +3164,7 @@ date,name,mobility_score
 2020-10-31,Sydney - South West,0.8485658905511173
 2020-10-31,Sydney - Sutherland,0.6963047370907405
 2020-10-31,all,0.7745887099870796
-2020-11-01,Sydney - Baulkham Hills and Hawkesbury,0.7332095739813818
+2020-11-01,Sydney - Baulkham Hills and Hawkesbury,0.7226542202889186
 2020-11-01,Sydney - Blacktown,0.7873050571005029
 2020-11-01,Sydney - City and Inner South,0.6880551253115883
 2020-11-01,Sydney - Eastern Suburbs,0.5721812321463646
@@ -3269,7 +3269,7 @@ date,name,mobility_score
 2020-11-07,Sydney - South West,0.9334767854699745
 2020-11-07,Sydney - Sutherland,0.7734223872621379
 2020-11-07,all,0.842561615769476
-2020-11-08,Sydney - Baulkham Hills and Hawkesbury,0.5988073620726783
+2020-11-08,Sydney - Baulkham Hills and Hawkesbury,0.5901868752096842
 2020-11-08,Sydney - Blacktown,0.7970484808563647
 2020-11-08,Sydney - City and Inner South,0.8010021414456098
 2020-11-08,Sydney - Eastern Suburbs,0.7609207465452198
@@ -3374,7 +3374,7 @@ date,name,mobility_score
 2020-11-14,Sydney - South West,0.9268945997193752
 2020-11-14,Sydney - Sutherland,0.9229987259997211
 2020-11-14,all,0.9426211364574986
-2020-11-15,Sydney - Baulkham Hills and Hawkesbury,0.9756378478472639
+2020-11-15,Sydney - Baulkham Hills and Hawkesbury,0.9615924740207037
 2020-11-15,Sydney - Blacktown,0.8907110801171315
 2020-11-15,Sydney - City and Inner South,0.8680760676176635
 2020-11-15,Sydney - Eastern Suburbs,0.9834673388406107
@@ -3479,7 +3479,7 @@ date,name,mobility_score
 2020-11-21,Sydney - South West,0.9891045063374188
 2020-11-21,Sydney - Sutherland,0.9839076648166708
 2020-11-21,all,0.9322265052907689
-2020-11-22,Sydney - Baulkham Hills and Hawkesbury,0.37227960667468135
+2020-11-22,Sydney - Baulkham Hills and Hawkesbury,0.36692023459282946
 2020-11-22,Sydney - Blacktown,0.908215579913331
 2020-11-22,Sydney - City and Inner South,0.850994835034077
 2020-11-22,Sydney - Eastern Suburbs,0.8620012525126527
@@ -3584,7 +3584,7 @@ date,name,mobility_score
 2020-11-28,Sydney - South West,0.9016062326106048
 2020-11-28,Sydney - Sutherland,0.8855118066690383
 2020-11-28,all,0.9379983809145733
-2020-11-29,Sydney - Baulkham Hills and Hawkesbury,1.0217934149755248
+2020-11-29,Sydney - Baulkham Hills and Hawkesbury,1.007083581282095
 2020-11-29,Sydney - Blacktown,0.8971404281089836
 2020-11-29,Sydney - City and Inner South,0.8491752795130845
 2020-11-29,Sydney - Eastern Suburbs,0.8886996946876454
@@ -3689,7 +3689,7 @@ date,name,mobility_score
 2020-12-05,Sydney - South West,1.0256072035224164
 2020-12-05,Sydney - Sutherland,0.9808084813908133
 2020-12-05,all,0.9709875625109053
-2020-12-06,Sydney - Baulkham Hills and Hawkesbury,0.8774213763627063
+2020-12-06,Sydney - Baulkham Hills and Hawkesbury,0.8647899360576574
 2020-12-06,Sydney - Blacktown,0.9998389830122097
 2020-12-06,Sydney - City and Inner South,0.983108385906618
 2020-12-06,Sydney - Eastern Suburbs,1.107434251073306
@@ -3794,7 +3794,7 @@ date,name,mobility_score
 2020-12-12,Sydney - South West,1.0433428973441192
 2020-12-12,Sydney - Sutherland,1.0267948250835697
 2020-12-12,all,1.0501148986617521
-2020-12-13,Sydney - Baulkham Hills and Hawkesbury,0.6487758405266845
+2020-12-13,Sydney - Baulkham Hills and Hawkesbury,0.6394360027682946
 2020-12-13,Sydney - Blacktown,1.0861787246538663
 2020-12-13,Sydney - City and Inner South,1.0095506371569163
 2020-12-13,Sydney - Eastern Suburbs,0.9997857572381115
@@ -3899,7 +3899,7 @@ date,name,mobility_score
 2020-12-19,Sydney - South West,1.0781285937899834
 2020-12-19,Sydney - Sutherland,0.9032332603766136
 2020-12-19,all,0.8778236898011873
-2020-12-20,Sydney - Baulkham Hills and Hawkesbury,0.8880252656415646
+2020-12-20,Sydney - Baulkham Hills and Hawkesbury,0.8752411707533978
 2020-12-20,Sydney - Blacktown,1.018693688191355
 2020-12-20,Sydney - City and Inner South,0.8116556978401798
 2020-12-20,Sydney - Eastern Suburbs,0.7543698972628032
@@ -4004,7 +4004,7 @@ date,name,mobility_score
 2020-12-26,Sydney - South West,1.458480930258742
 2020-12-26,Sydney - Sutherland,1.3150252386055288
 2020-12-26,all,1.0217993719214702
-2020-12-27,Sydney - Baulkham Hills and Hawkesbury,0.7323404303422384
+2020-12-27,Sydney - Baulkham Hills and Hawkesbury,0.721797588923
 2020-12-27,Sydney - Blacktown,0.815337829268981
 2020-12-27,Sydney - City and Inner South,0.6479597877487446
 2020-12-27,Sydney - Eastern Suburbs,0.8045370281510941
@@ -4109,7 +4109,7 @@ date,name,mobility_score
 2021-01-02,Sydney - South West,0.667226615981896
 2021-01-02,Sydney - Sutherland,0.22099521665302366
 2021-01-02,all,0.40647690310023354
-2021-01-03,Sydney - Baulkham Hills and Hawkesbury,0.23654433756462157
+2021-01-03,Sydney - Baulkham Hills and Hawkesbury,0.23313902312855095
 2021-01-03,Sydney - Blacktown,0.4647087057968417
 2021-01-03,Sydney - City and Inner South,0.4839652851243499
 2021-01-03,Sydney - Eastern Suburbs,0.4540989218011054
@@ -4214,7 +4214,7 @@ date,name,mobility_score
 2021-01-09,Sydney - South West,0.787333035667356
 2021-01-09,Sydney - Sutherland,0.57081669416344
 2021-01-09,all,0.6944570664364526
-2021-01-10,Sydney - Baulkham Hills and Hawkesbury,0.48447489573142427
+2021-01-10,Sydney - Baulkham Hills and Hawkesbury,0.47750034976116906
 2021-01-10,Sydney - Blacktown,0.6075404519551766
 2021-01-10,Sydney - City and Inner South,0.7178501712227648
 2021-01-10,Sydney - Eastern Suburbs,0.9577075215726769
@@ -4319,7 +4319,7 @@ date,name,mobility_score
 2021-01-16,Sydney - South West,0.8421338291350874
 2021-01-16,Sydney - Sutherland,0.720631231761895
 2021-01-16,all,0.8338966307570647
-2021-01-17,Sydney - Baulkham Hills and Hawkesbury,0.4700278646261709
+2021-01-17,Sydney - Baulkham Hills and Hawkesbury,0.4632612994686783
 2021-01-17,Sydney - Blacktown,0.6185201938921926
 2021-01-17,Sydney - City and Inner South,0.820146368001538
 2021-01-17,Sydney - Eastern Suburbs,0.9635989534007574
@@ -4424,7 +4424,7 @@ date,name,mobility_score
 2021-01-23,Sydney - South West,0.8283521397313213
 2021-01-23,Sydney - Sutherland,0.6734720105470311
 2021-01-23,all,0.8144959635582759
-2021-01-24,Sydney - Baulkham Hills and Hawkesbury,0.6578725991363916
+2021-01-24,Sydney - Baulkham Hills and Hawkesbury,0.6484018035891407
 2021-01-24,Sydney - Blacktown,0.8115351832177111
 2021-01-24,Sydney - City and Inner South,0.8517479552169888
 2021-01-24,Sydney - Eastern Suburbs,1.0250347847896464
@@ -4529,7 +4529,7 @@ date,name,mobility_score
 2021-01-30,Sydney - South West,0.8778566407110661
 2021-01-30,Sydney - Sutherland,0.7239631667162099
 2021-01-30,all,0.8013924572106733
-2021-01-31,Sydney - Baulkham Hills and Hawkesbury,0.8230891581625299
+2021-01-31,Sydney - Baulkham Hills and Hawkesbury,0.8112398895589289
 2021-01-31,Sydney - Blacktown,0.9594935128228284
 2021-01-31,Sydney - City and Inner South,0.7803923965809386
 2021-01-31,Sydney - Eastern Suburbs,0.6943944019742844
@@ -4634,7 +4634,7 @@ date,name,mobility_score
 2021-02-06,Sydney - South West,0.9043550359556811
 2021-02-06,Sydney - Sutherland,0.7751806192759164
 2021-02-06,all,0.8564589061003489
-2021-02-07,Sydney - Baulkham Hills and Hawkesbury,0.7303633740125087
+2021-02-07,Sydney - Baulkham Hills and Hawkesbury,0.7198489944813454
 2021-02-07,Sydney - Blacktown,0.8083120194148692
 2021-02-07,Sydney - City and Inner South,0.8546060976706028
 2021-02-07,Sydney - Eastern Suburbs,0.984874004133901
@@ -4739,7 +4739,7 @@ date,name,mobility_score
 2021-02-13,Sydney - South West,0.8526587546460233
 2021-02-13,Sydney - Sutherland,0.7838974602317517
 2021-02-13,all,0.8347112863256244
-2021-02-14,Sydney - Baulkham Hills and Hawkesbury,0.9891064128337629
+2021-02-14,Sydney - Baulkham Hills and Hawkesbury,0.9748671442843195
 2021-02-14,Sydney - Blacktown,0.9311316677415946
 2021-02-14,Sydney - City and Inner South,0.9777874459113822
 2021-02-14,Sydney - Eastern Suburbs,0.8782548411002981
@@ -4844,7 +4844,7 @@ date,name,mobility_score
 2021-02-20,Sydney - South West,0.9713114671235541
 2021-02-20,Sydney - Sutherland,0.7874675440054092
 2021-02-20,all,0.9327826568469575
-2021-02-21,Sydney - Baulkham Hills and Hawkesbury,0.9828122197523932
+2021-02-21,Sydney - Baulkham Hills and Hawkesbury,0.9686635629960034
 2021-02-21,Sydney - Blacktown,0.785236412469612
 2021-02-21,Sydney - City and Inner South,0.9022599915371711
 2021-02-21,Sydney - Eastern Suburbs,0.8988163105621538
@@ -4949,7 +4949,7 @@ date,name,mobility_score
 2021-02-27,Sydney - South West,0.9697753837628545
 2021-02-27,Sydney - Sutherland,0.7476949827150079
 2021-02-27,all,0.9266836757023185
-2021-02-28,Sydney - Baulkham Hills and Hawkesbury,0.323434558092506
+2021-02-28,Sydney - Baulkham Hills and Hawkesbury,0.3187783639044052
 2021-02-28,Sydney - Blacktown,0.8852054560173201
 2021-02-28,Sydney - City and Inner South,0.967604465889505
 2021-02-28,Sydney - Eastern Suburbs,1.0002142427618885
@@ -5054,7 +5054,7 @@ date,name,mobility_score
 2021-03-06,Sydney - South West,1.0470441006891922
 2021-03-06,Sydney - Sutherland,0.858097921390483
 2021-03-06,all,1.0068600216328283
-2021-03-07,Sydney - Baulkham Hills and Hawkesbury,1.0895671925654122
+2021-03-07,Sydney - Baulkham Hills and Hawkesbury,1.073881681222752
 2021-03-07,Sydney - Blacktown,0.8985732767772441
 2021-03-07,Sydney - City and Inner South,0.9907688794244188
 2021-03-07,Sydney - Eastern Suburbs,1.0555774967114835
@@ -5159,7 +5159,7 @@ date,name,mobility_score
 2021-03-13,Sydney - South West,0.9710604239632986
 2021-03-13,Sydney - Sutherland,0.808145868724851
 2021-03-13,all,0.9749508371582378
-2021-03-14,Sydney - Baulkham Hills and Hawkesbury,0.8506130531516995
+2021-03-14,Sydney - Baulkham Hills and Hawkesbury,0.8383675479782084
 2021-03-14,Sydney - Blacktown,0.8512095172384864
 2021-03-14,Sydney - City and Inner South,0.7907047851831313
 2021-03-14,Sydney - Eastern Suburbs,0.6418808988843382
@@ -5264,7 +5264,7 @@ date,name,mobility_score
 2021-03-20,Sydney - South West,0.6839005398958259
 2021-03-20,Sydney - Sutherland,0.6992535829931562
 2021-03-20,all,0.7196708223608276
-2021-03-21,Sydney - Baulkham Hills and Hawkesbury,0.5325397574870498
+2021-03-21,Sydney - Baulkham Hills and Hawkesbury,0.5248732652656632
 2021-03-21,Sydney - Blacktown,0.7265528078704032
 2021-03-21,Sydney - City and Inner South,0.7702996103219326
 2021-03-21,Sydney - Eastern Suburbs,0.6716138472818431
@@ -5369,7 +5369,7 @@ date,name,mobility_score
 2021-03-27,Sydney - South West,1.0226358875133463
 2021-03-27,Sydney - Sutherland,0.8724071255013949
 2021-03-27,all,1.0268263838702074
-2021-03-28,Sydney - Baulkham Hills and Hawkesbury,1.124849672707145
+2021-03-28,Sydney - Baulkham Hills and Hawkesbury,1.1086562314761432
 2021-03-28,Sydney - Blacktown,0.9670230751102024
 2021-03-28,Sydney - City and Inner South,1.0089199110098421
 2021-03-28,Sydney - Eastern Suburbs,0.9820392704559464
@@ -5579,7 +5579,7 @@ date,name,mobility_score
 2021-04-10,Sydney - South West,0.9801446681823565
 2021-04-10,Sydney - Sutherland,0.8361195175408525
 2021-04-10,all,0.9572863788904626
-2021-04-11,Sydney - Baulkham Hills and Hawkesbury,1.0108935871662372
+2021-04-11,Sydney - Baulkham Hills and Hawkesbury,0.9963406684147242
 2021-04-11,Sydney - Blacktown,0.9288311664465988
 2021-04-11,Sydney - City and Inner South,0.994192394434673
 2021-04-11,Sydney - Eastern Suburbs,0.8983394594677236
@@ -5684,7 +5684,7 @@ date,name,mobility_score
 2021-04-17,Sydney - South West,0.9274908235964974
 2021-04-17,Sydney - Sutherland,0.930422398276974
 2021-04-17,all,0.9779568847194517
-2021-04-18,Sydney - Baulkham Hills and Hawkesbury,0.9474256276675284
+2021-04-18,Sydney - Baulkham Hills and Hawkesbury,0.9337863996047635
 2021-04-18,Sydney - Blacktown,1.0001610169877904
 2021-04-18,Sydney - City and Inner South,1.0072257611092754
 2021-04-18,Sydney - Eastern Suburbs,0.9026175917949131
@@ -5894,7 +5894,7 @@ date,name,mobility_score
 2021-05-01,Sydney - South West,1.0095358888056105
 2021-05-01,Sydney - Sutherland,1.1107065796806754
 2021-05-01,all,1.0008579307583032
-2021-05-02,Sydney - Baulkham Hills and Hawkesbury,0.6746828000672058
+2021-05-02,Sydney - Baulkham Hills and Hawkesbury,0.6649700032930714
 2021-05-02,Sydney - Blacktown,1.0326245944789225
 2021-05-02,Sydney - City and Inner South,1.0058076055653271
 2021-05-02,Sydney - Eastern Suburbs,0.9437194395795887
@@ -5999,7 +5999,7 @@ date,name,mobility_score
 2021-05-08,Sydney - South West,0.9904641111943894
 2021-05-08,Sydney - Sutherland,1.0401495502621108
 2021-05-08,all,0.9391349988898308
-2021-05-09,Sydney - Baulkham Hills and Hawkesbury,0.6102113577463476
+2021-05-09,Sydney - Baulkham Hills and Hawkesbury,0.6014266978936458
 2021-05-09,Sydney - Blacktown,1.0700830318352423
 2021-05-09,Sydney - City and Inner South,0.9149146050512708
 2021-05-09,Sydney - Eastern Suburbs,0.806964011652027
@@ -6104,7 +6104,7 @@ date,name,mobility_score
 2021-05-15,Sydney - South West,0.9551853960429691
 2021-05-15,Sydney - Sutherland,0.9979557767724185
 2021-05-15,all,0.9712699988773404
-2021-05-16,Sydney - Baulkham Hills and Hawkesbury,1.0505037113365574
+2021-05-16,Sydney - Baulkham Hills and Hawkesbury,1.0353805615279814
 2021-05-16,Sydney - Blacktown,0.9720288183446117
 2021-05-16,Sydney - City and Inner South,0.937295843034223
 2021-05-16,Sydney - Eastern Suburbs,0.8476700807011932
@@ -6209,7 +6209,7 @@ date,name,mobility_score
 2021-05-22,Sydney - South West,0.9162750316682692
 2021-05-22,Sydney - Sutherland,1.0080618080169983
 2021-05-22,all,1.0303140165165736
-2021-05-23,Sydney - Baulkham Hills and Hawkesbury,0.6772814758311443
+2021-05-23,Sydney - Baulkham Hills and Hawkesbury,0.6675312682773451
 2021-05-23,Sydney - Blacktown,1.0724401056775328
 2021-05-23,Sydney - City and Inner South,1.0118301760844501
 2021-05-23,Sydney - Eastern Suburbs,0.8969604438298369
@@ -6314,7 +6314,7 @@ date,name,mobility_score
 2021-05-29,Sydney - South West,0.978424678372816
 2021-05-29,Sydney - Sutherland,0.9622778990233568
 2021-05-29,all,0.9651058203664644
-2021-05-30,Sydney - Baulkham Hills and Hawkesbury,0.9811675041764342
+2021-05-30,Sydney - Baulkham Hills and Hawkesbury,0.9670425248995044
 2021-05-30,Sydney - Blacktown,0.9838796820440567
 2021-05-30,Sydney - City and Inner South,0.9672787389859278
 2021-05-30,Sydney - Eastern Suburbs,0.8776130180674052
@@ -6419,7 +6419,7 @@ date,name,mobility_score
 2021-06-05,Sydney - South West,0.9649761112230413
 2021-06-05,Sydney - Sutherland,1.0369853166950538
 2021-06-05,all,0.9991420692416967
-2021-06-06,Sydney - Baulkham Hills and Hawkesbury,1.0605653755668296
+2021-06-06,Sydney - Baulkham Hills and Hawkesbury,1.045297377097715
 2021-06-06,Sydney - Blacktown,0.9668838814630716
 2021-06-06,Sydney - City and Inner South,0.9862334993770328
 2021-06-06,Sydney - Eastern Suburbs,0.8994333652029284
@@ -6524,7 +6524,7 @@ date,name,mobility_score
 2021-06-12,Sydney - South West,0.9242178363516022
 2021-06-12,Sydney - Sutherland,0.762175446160633
 2021-06-12,all,0.9496344528495576
-2021-06-13,Sydney - Baulkham Hills and Hawkesbury,0.9748412410375001
+2021-06-13,Sydney - Baulkham Hills and Hawkesbury,0.9608073352371759
 2021-06-13,Sydney - Blacktown,0.9643356023844641
 2021-06-13,Sydney - City and Inner South,1.1296263887278601
 2021-06-13,Sydney - Eastern Suburbs,1.0162342923705592
@@ -6629,7 +6629,7 @@ date,name,mobility_score
 2021-06-19,Sydney - South West,0.8819610028585432
 2021-06-19,Sydney - Sutherland,0.7930417051436516
 2021-06-19,all,0.8155274154534048
-2021-06-20,Sydney - Baulkham Hills and Hawkesbury,0.3765557011601253
+2021-06-20,Sydney - Baulkham Hills and Hawkesbury,0.3711347700216027
 2021-06-20,Sydney - Blacktown,0.8244251235031023
 2021-06-20,Sydney - City and Inner South,0.7942837791129521
 2021-06-20,Sydney - Eastern Suburbs,0.5600108129162009
@@ -8099,7 +8099,7 @@ date,name,mobility_score
 2021-09-25,Sydney - South West,0.15910288618801705
 2021-09-25,Sydney - Sutherland,0.5549098570801266
 2021-09-25,all,0.357395909288675
-2021-09-26,Sydney - Baulkham Hills and Hawkesbury,0.10509703100107382
+2021-09-26,Sydney - Baulkham Hills and Hawkesbury,0.10358404430039514
 2021-09-26,Sydney - Blacktown,0.07138522307814026
 2021-09-26,Sydney - City and Inner South,0.07164587260554592
 2021-09-26,Sydney - Eastern Suburbs,0.12339825428366978
@@ -8414,7 +8414,7 @@ date,name,mobility_score
 2021-10-16,Sydney - South West,0.700985210713303
 2021-10-16,Sydney - Sutherland,0.7620990600419894
 2021-10-16,all,0.7498468091397897
-2021-10-17,Sydney - Baulkham Hills and Hawkesbury,0.326573314280435
+2021-10-17,Sydney - Baulkham Hills and Hawkesbury,0.3218719342643068
 2021-10-17,Sydney - Blacktown,0.7506821168370953
 2021-10-17,Sydney - City and Inner South,0.6778061680749219
 2021-10-17,Sydney - Eastern Suburbs,0.8105241263399858
@@ -8519,7 +8519,7 @@ date,name,mobility_score
 2021-10-23,Sydney - South West,0.6315557813541063
 2021-10-23,Sydney - Sutherland,0.7262348371562038
 2021-10-23,all,0.7820055145412046
-2021-10-24,Sydney - Baulkham Hills and Hawkesbury,0.5291404886579933
+2021-10-24,Sydney - Baulkham Hills and Hawkesbury,0.5215229326290131
 2021-10-24,Sydney - Blacktown,0.7074289417403281
 2021-10-24,Sydney - City and Inner South,0.7467381557028171
 2021-10-24,Sydney - Eastern Suburbs,0.703447933018612
@@ -8624,7 +8624,7 @@ date,name,mobility_score
 2021-10-30,Sydney - South West,0.7083291415932619
 2021-10-30,Sydney - Sutherland,0.8328672201278781
 2021-10-30,all,0.7828051931051939
-2021-10-31,Sydney - Baulkham Hills and Hawkesbury,0.626117223768356
+2021-10-31,Sydney - Baulkham Hills and Hawkesbury,0.6171035815788093
 2021-10-31,Sydney - Blacktown,0.7488366366855304
 2021-10-31,Sydney - City and Inner South,0.8695363393583169
 2021-10-31,Sydney - Eastern Suburbs,0.7732166911385249
@@ -8729,7 +8729,7 @@ date,name,mobility_score
 2021-11-06,Sydney - South West,0.706063704484167
 2021-11-06,Sydney - Sutherland,0.6536205974036317
 2021-11-06,all,0.7635772010906057
-2021-11-07,Sydney - Baulkham Hills and Hawkesbury,0.6015168746165385
+2021-11-07,Sydney - Baulkham Hills and Hawkesbury,0.5928573813572159
 2021-11-07,Sydney - Blacktown,0.6367032402500349
 2021-11-07,Sydney - City and Inner South,0.7355113565057623
 2021-11-07,Sydney - Eastern Suburbs,0.6436589764280951
@@ -8834,7 +8834,7 @@ date,name,mobility_score
 2021-11-13,Sydney - South West,0.7176093357675296
 2021-11-13,Sydney - Sutherland,0.7048612758562547
 2021-11-13,all,0.8057147649458931
-2021-11-14,Sydney - Baulkham Hills and Hawkesbury,0.6497164595287652
+2021-11-14,Sydney - Baulkham Hills and Hawkesbury,0.640363080531132
 2021-11-14,Sydney - Blacktown,0.7234213659985071
 2021-11-14,Sydney - City and Inner South,0.8644111838067615
 2021-11-14,Sydney - Eastern Suburbs,0.7176086351607984
@@ -8939,7 +8939,7 @@ date,name,mobility_score
 2021-11-20,Sydney - South West,0.7694396390776995
 2021-11-20,Sydney - Sutherland,0.7801491853477311
 2021-11-20,all,0.8202766840660527
-2021-11-21,Sydney - Baulkham Hills and Hawkesbury,0.2905828506155518
+2021-11-21,Sydney - Baulkham Hills and Hawkesbury,0.28639959268486737
 2021-11-21,Sydney - Blacktown,0.6619698679618338
 2021-11-21,Sydney - City and Inner South,0.764428427762296
 2021-11-21,Sydney - Eastern Suburbs,0.6000540685643485
@@ -9044,3 +9044,18 @@ date,name,mobility_score
 2021-11-27,Sydney - South West,0.8019054217959427
 2021-11-27,Sydney - Sutherland,0.7233156969624581
 2021-11-27,all,0.7933989744335854
+2021-11-28,Sydney - Baulkham Hills and Hawkesbury,1.0036593315852758
+2021-11-28,Sydney - Blacktown,0.8567528171955806
+2021-11-28,Sydney - City and Inner South,0.8951872809366475
+2021-11-28,Sydney - Eastern Suburbs,0.7225123978196575
+2021-11-28,Sydney - Inner South West,0.8215603965334974
+2021-11-28,Sydney - Inner West,0.8423740765534206
+2021-11-28,Sydney - North Sydney and Hornsby,0.6833116364302615
+2021-11-28,Sydney - Northern Beaches,0.6770059827248488
+2021-11-28,Sydney - Outer South West,0.7427080126920963
+2021-11-28,Sydney - Outer West and Blue Mountains,0.9892129775616105
+2021-11-28,Sydney - Parramatta,0.796301167589371
+2021-11-28,Sydney - Ryde,0.7948098105731791
+2021-11-28,Sydney - South West,0.7820176186459454
+2021-11-28,Sydney - Sutherland,0.834631606420142
+2021-11-28,all,0.8290388108406842
