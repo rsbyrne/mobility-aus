@@ -14,7 +14,7 @@ date,name,mobility_score
 2020-04-05,Melbourne - Inner South,-0.027797315203132462
 2020-04-05,Melbourne - North East,0.04587795001419356
 2020-04-05,Melbourne - North West,0.1088183203446688
-2020-04-05,Melbourne - Outer East,0.01860424929519643
+2020-04-05,Melbourne - Outer East,0.018298589451226456
 2020-04-05,Melbourne - South East,0.006710496022271874
 2020-04-05,Melbourne - West,0.024534937442293757
 2020-04-05,Mornington Peninsula,-0.0016842593290678498
@@ -154,7 +154,7 @@ date,name,mobility_score
 2020-04-19,Melbourne - Inner South,0.08476262888653442
 2020-04-19,Melbourne - North East,0.21646688801944206
 2020-04-19,Melbourne - North West,0.3132864152981173
-2020-04-19,Melbourne - Outer East,0.1307030897545189
+2020-04-19,Melbourne - Outer East,0.1285556939963318
 2020-04-19,Melbourne - South East,0.09712890814788255
 2020-04-19,Melbourne - West,0.11889631221556111
 2020-04-19,Mornington Peninsula,0.041453464835731174
@@ -224,7 +224,7 @@ date,name,mobility_score
 2020-04-26,Melbourne - Inner South,0.07172492475197337
 2020-04-26,Melbourne - North East,0.1810995115359142
 2020-04-26,Melbourne - North West,0.29194833572375245
-2020-04-26,Melbourne - Outer East,0.13156323849902957
+2020-04-26,Melbourne - Outer East,0.12940171086554528
 2020-04-26,Melbourne - South East,0.08999858124145645
 2020-04-26,Melbourne - West,0.14952865857404699
 2020-04-26,Mornington Peninsula,0.0523181332380608
@@ -294,7 +294,7 @@ date,name,mobility_score
 2020-05-03,Melbourne - Inner South,0.165844691215101
 2020-05-03,Melbourne - North East,0.2747688819318633
 2020-05-03,Melbourne - North West,0.38571997386730883
-2020-05-03,Melbourne - Outer East,0.2568778813034974
+2020-05-03,Melbourne - Outer East,0.25265748778625735
 2020-05-03,Melbourne - South East,0.15112690626579264
 2020-05-03,Melbourne - West,0.22888506570145453
 2020-05-03,Mornington Peninsula,0.13526717751078152
@@ -364,7 +364,7 @@ date,name,mobility_score
 2020-05-10,Melbourne - Inner South,0.19466581395650207
 2020-05-10,Melbourne - North East,0.31461234129980087
 2020-05-10,Melbourne - North West,0.544186535288751
-2020-05-10,Melbourne - Outer East,0.26959774593065455
+2020-05-10,Melbourne - Outer East,0.26516837048807235
 2020-05-10,Melbourne - South East,0.2749116310742184
 2020-05-10,Melbourne - West,0.29248664919771705
 2020-05-10,Mornington Peninsula,0.24004088166283985
@@ -434,7 +434,7 @@ date,name,mobility_score
 2020-05-17,Melbourne - Inner South,0.3953824491562018
 2020-05-17,Melbourne - North East,0.5842109251551699
 2020-05-17,Melbourne - North West,0.667851932018487
-2020-05-17,Melbourne - Outer East,0.41065477344396156
+2020-05-17,Melbourne - Outer East,0.403907891482494
 2020-05-17,Melbourne - South East,0.48132856954938835
 2020-05-17,Melbourne - West,0.43340813281721347
 2020-05-17,Mornington Peninsula,0.36891416918960296
@@ -504,7 +504,7 @@ date,name,mobility_score
 2020-05-24,Melbourne - Inner South,0.3999018996523098
 2020-05-24,Melbourne - North East,0.34811881780962745
 2020-05-24,Melbourne - North West,0.6424954975879876
-2020-05-24,Melbourne - Outer East,0.38775153451195
+2020-05-24,Melbourne - Outer East,0.38138094295206143
 2020-05-24,Melbourne - South East,0.6010484016657511
 2020-05-24,Melbourne - West,0.5091630136384022
 2020-05-24,Mornington Peninsula,0.2758916127409386
@@ -574,7 +574,7 @@ date,name,mobility_score
 2020-05-31,Melbourne - Inner South,0.49076887111099743
 2020-05-31,Melbourne - North East,0.4911967305774473
 2020-05-31,Melbourne - North West,0.6675150624784741
-2020-05-31,Melbourne - Outer East,0.7320850077193668
+2020-05-31,Melbourne - Outer East,0.7200571647421156
 2020-05-31,Melbourne - South East,0.449048944456224
 2020-05-31,Melbourne - West,0.508443110971633
 2020-05-31,Mornington Peninsula,0.29965877373404215
@@ -644,7 +644,7 @@ date,name,mobility_score
 2020-06-07,Melbourne - Inner South,0.647371445982604
 2020-06-07,Melbourne - North East,0.7795840178882378
 2020-06-07,Melbourne - North West,0.8573490095308914
-2020-06-07,Melbourne - Outer East,0.5775180520403604
+2020-06-07,Melbourne - Outer East,0.5680296779127315
 2020-06-07,Melbourne - South East,0.7832926738262793
 2020-06-07,Melbourne - West,0.7253461896657174
 2020-06-07,Mornington Peninsula,0.6077996086795382
@@ -714,7 +714,7 @@ date,name,mobility_score
 2020-06-14,Melbourne - Inner South,0.5942244095074015
 2020-06-14,Melbourne - North East,0.6950102517766542
 2020-06-14,Melbourne - North West,0.7637336576448549
-2020-06-14,Melbourne - Outer East,0.7432618094996104
+2020-06-14,Melbourne - Outer East,0.7310503364583869
 2020-06-14,Melbourne - South East,0.814606634660253
 2020-06-14,Melbourne - West,0.6741832234064175
 2020-06-14,Mornington Peninsula,0.34804064732143486
@@ -784,7 +784,7 @@ date,name,mobility_score
 2020-06-21,Melbourne - Inner South,0.629254618667019
 2020-06-21,Melbourne - North East,0.5877349394379245
 2020-06-21,Melbourne - North West,0.6030397072783061
-2020-06-21,Melbourne - Outer East,0.803910671391976
+2020-06-21,Melbourne - Outer East,0.7907027635379938
 2020-06-21,Melbourne - South East,0.7118490771244834
 2020-06-21,Melbourne - West,0.7293683133791108
 2020-06-21,Mornington Peninsula,0.4209109314286646
@@ -854,7 +854,7 @@ date,name,mobility_score
 2020-06-28,Melbourne - Inner South,0.6051508074926499
 2020-06-28,Melbourne - North East,0.6079326857864567
 2020-06-28,Melbourne - North West,0.6275419761108906
-2020-06-28,Melbourne - Outer East,0.4135258887226958
+2020-06-28,Melbourne - Outer East,0.40673183556747605
 2020-06-28,Melbourne - South East,0.6824256053625944
 2020-06-28,Melbourne - West,0.705756363131142
 2020-06-28,Mornington Peninsula,0.36449878807167074
@@ -924,7 +924,7 @@ date,name,mobility_score
 2020-07-05,Melbourne - Inner South,0.4979376463720476
 2020-07-05,Melbourne - North East,0.6663626098279788
 2020-07-05,Melbourne - North West,0.22114281266190325
-2020-07-05,Melbourne - Outer East,0.8607291427336262
+2020-07-05,Melbourne - Outer East,0.8465877317423051
 2020-07-05,Melbourne - South East,0.6656855785403776
 2020-07-05,Melbourne - West,0.38238391123910775
 2020-07-05,Mornington Peninsula,0.2920212380938416
@@ -994,7 +994,7 @@ date,name,mobility_score
 2020-07-12,Melbourne - Inner South,0.13497581705491324
 2020-07-12,Melbourne - North East,0.19890479483891682
 2020-07-12,Melbourne - North West,0.15958007586271936
-2020-07-12,Melbourne - Outer East,0.1215009354627662
+2020-07-12,Melbourne - Outer East,0.11950472715645502
 2020-07-12,Melbourne - South East,0.18032765042647322
 2020-07-12,Melbourne - West,0.15325779913010795
 2020-07-12,Mornington Peninsula,0.11633145367108991
@@ -1064,7 +1064,7 @@ date,name,mobility_score
 2020-07-19,Melbourne - Inner South,0.06635868863991416
 2020-07-19,Melbourne - North East,0.23056520215921597
 2020-07-19,Melbourne - North West,0.1514335085338634
-2020-07-19,Melbourne - Outer East,0.2093611342404301
+2020-07-19,Melbourne - Outer East,0.20592142051643536
 2020-07-19,Melbourne - South East,0.12306792521374468
 2020-07-19,Melbourne - West,0.0793518620005419
 2020-07-19,Mornington Peninsula,0.007921917658477691
@@ -1134,7 +1134,7 @@ date,name,mobility_score
 2020-07-26,Melbourne - Inner South,0.04340136442537893
 2020-07-26,Melbourne - North East,0.12495661025628127
 2020-07-26,Melbourne - North West,0.22593893899670742
-2020-07-26,Melbourne - Outer East,0.2834696435132125
+2020-07-26,Melbourne - Outer East,0.27881235873747884
 2020-07-26,Melbourne - South East,0.09379946105352718
 2020-07-26,Melbourne - West,0.11874830461859538
 2020-07-26,Mornington Peninsula,0.009022396740071468
@@ -1204,7 +1204,7 @@ date,name,mobility_score
 2020-08-02,Melbourne - Inner South,0.1905029775240941
 2020-08-02,Melbourne - North East,0.3869434351092463
 2020-08-02,Melbourne - North West,0.29564407706608703
-2020-08-02,Melbourne - Outer East,0.4757225508937039
+2020-08-02,Melbourne - Outer East,0.4679066332303821
 2020-08-02,Melbourne - South East,0.24600547201350498
 2020-08-02,Melbourne - West,0.22941584819742392
 2020-08-02,Mornington Peninsula,0.23537187665264028
@@ -1274,7 +1274,7 @@ date,name,mobility_score
 2020-08-09,Melbourne - Inner South,-0.02468391376420165
 2020-08-09,Melbourne - North East,0.022365285828795305
 2020-08-09,Melbourne - North West,-0.06582835166887702
-2020-08-09,Melbourne - Outer East,-0.01860424929519643
+2020-08-09,Melbourne - Outer East,-0.018298589451226456
 2020-08-09,Melbourne - South East,-0.11168911499741634
 2020-08-09,Melbourne - West,-0.04481632914727968
 2020-08-09,Mornington Peninsula,-0.07433695895246908
@@ -1344,7 +1344,7 @@ date,name,mobility_score
 2020-08-16,Melbourne - Inner South,-0.013038023579043266
 2020-08-16,Melbourne - North East,-0.07166774859773707
 2020-08-16,Melbourne - North West,0.01912695290428656
-2020-08-16,Melbourne - Outer East,0.027395621040540975
+2020-08-16,Melbourne - Outer East,0.02694552272591162
 2020-08-16,Melbourne - South East,-0.07639915129613922
 2020-08-16,Melbourne - West,-0.03257456627169922
 2020-08-16,Mornington Peninsula,0.097355072692542
@@ -1414,7 +1414,7 @@ date,name,mobility_score
 2020-08-23,Melbourne - Inner South,-0.025947580099691808
 2020-08-23,Melbourne - North East,0.10569559953059944
 2020-08-23,Melbourne - North West,-0.0010810293520888007
-2020-08-23,Melbourne - Outer East,-0.01860424929519643
+2020-08-23,Melbourne - Outer East,-0.018298589451226456
 2020-08-23,Melbourne - South East,-0.1254273432573807
 2020-08-23,Melbourne - West,-0.045455708646990244
 2020-08-23,Mornington Peninsula,-0.03491868099656949
@@ -1484,7 +1484,7 @@ date,name,mobility_score
 2020-08-30,Melbourne - Inner South,0.025715001337133624
 2020-08-30,Melbourne - North East,-0.02315024616878496
 2020-08-30,Melbourne - North West,0.0973860038458626
-2020-08-30,Melbourne - Outer East,0.07815993031795836
+2020-08-30,Melbourne - Outer East,0.07687579615448745
 2020-08-30,Melbourne - South East,-0.06303025851683516
 2020-08-30,Melbourne - West,-0.0014157772800890561
 2020-08-30,Mornington Peninsula,0.11702481019943624
@@ -1554,7 +1554,7 @@ date,name,mobility_score
 2020-09-06,Melbourne - Inner South,0.015281637703848308
 2020-09-06,Melbourne - North East,0.04815382978394967
 2020-09-06,Melbourne - North West,0.22930873872507002
-2020-09-06,Melbourne - Outer East,-0.01860424929519643
+2020-09-06,Melbourne - Outer East,-0.018298589451226456
 2020-09-06,Melbourne - South East,-0.006710496022271874
 2020-09-06,Melbourne - West,0.03586862166503451
 2020-09-06,Mornington Peninsula,0.03259560966051089
@@ -1624,7 +1624,7 @@ date,name,mobility_score
 2020-09-13,Melbourne - Inner South,0.0010800794817348676
 2020-09-13,Melbourne - North East,0.24335738150676314
 2020-09-13,Melbourne - North West,0.29889966731445256
-2020-09-13,Melbourne - Outer East,0.17960032829133996
+2020-09-13,Melbourne - Outer East,0.17664957185653657
 2020-09-13,Melbourne - South East,0.17813197938477143
 2020-09-13,Melbourne - West,0.2113062892745744
 2020-09-13,Mornington Peninsula,0.3452308332282072
@@ -1694,7 +1694,7 @@ date,name,mobility_score
 2020-09-20,Melbourne - Inner South,0.07094005377583582
 2020-09-20,Melbourne - North East,0.09601158446430877
 2020-09-20,Melbourne - North West,0.09901167938421636
-2020-09-20,Melbourne - Outer East,0.07527200964279768
+2020-09-20,Melbourne - Outer East,0.07403532277854111
 2020-09-20,Melbourne - South East,0.12349871106492179
 2020-09-20,Melbourne - West,0.10998906461066801
 2020-09-20,Mornington Peninsula,0.14852075322730543
@@ -1764,7 +1764,7 @@ date,name,mobility_score
 2020-09-27,Melbourne - Inner South,0.04939131822817389
 2020-09-27,Melbourne - North East,0.06696373350316782
 2020-09-27,Melbourne - North West,0.21870091961256471
-2020-09-27,Melbourne - Outer East,0.033828259882200146
+2020-09-27,Melbourne - Outer East,0.0332724760677982
 2020-09-27,Melbourne - South East,0.12211736173779007
 2020-09-27,Melbourne - West,0.14155136470983654
 2020-09-27,Mornington Peninsula,0.11193282803436796
@@ -1834,7 +1834,7 @@ date,name,mobility_score
 2020-10-04,Melbourne - Inner South,0.005812584739268361
 2020-10-04,Melbourne - North East,0.1355068118498786
 2020-10-04,Melbourne - North West,0.08166759252514486
-2020-10-04,Melbourne - Outer East,0.12717528068240905
+2020-10-04,Melbourne - Outer East,0.125085845315605
 2020-10-04,Melbourne - South East,0.20439522129482948
 2020-10-04,Melbourne - West,0.1253140899376199
 2020-10-04,Mornington Peninsula,0.1428766477435167
@@ -1904,7 +1904,7 @@ date,name,mobility_score
 2020-10-11,Melbourne - Inner South,0.08502281762059112
 2020-10-11,Melbourne - North East,0.19045718261852246
 2020-10-11,Melbourne - North West,0.31346345542704857
-2020-10-11,Melbourne - Outer East,-0.01860424929519643
+2020-10-11,Melbourne - Outer East,-0.018298589451226456
 2020-10-11,Melbourne - South East,0.2449797353007026
 2020-10-11,Melbourne - West,0.15668124478542772
 2020-10-11,Mornington Peninsula,0.2670655989702942
@@ -1974,7 +1974,7 @@ date,name,mobility_score
 2020-10-18,Melbourne - Inner South,0.11259296731223734
 2020-10-18,Melbourne - North East,0.1825636672715061
 2020-10-18,Melbourne - North West,0.31417234448635234
-2020-10-18,Melbourne - Outer East,0.11149796278885407
+2020-10-18,Melbourne - Outer East,0.10966609903728575
 2020-10-18,Melbourne - South East,0.22519378193075415
 2020-10-18,Melbourne - West,0.19758746587939616
 2020-10-18,Mornington Peninsula,0.12661365406187752
@@ -2044,7 +2044,7 @@ date,name,mobility_score
 2020-10-25,Melbourne - Inner South,0.14120122189399187
 2020-10-25,Melbourne - North East,0.18467322682250373
 2020-10-25,Melbourne - North West,0.3633989639459465
-2020-10-25,Melbourne - Outer East,0.02861164143337245
+2020-10-25,Melbourne - Outer East,0.028141564424755523
 2020-10-25,Melbourne - South East,0.32152993191422796
 2020-10-25,Melbourne - West,0.1051320008663955
 2020-10-25,Mornington Peninsula,0.09782844846950284
@@ -2114,7 +2114,7 @@ date,name,mobility_score
 2020-11-01,Melbourne - Inner South,0.5290301411141732
 2020-11-01,Melbourne - North East,0.780100645154537
 2020-11-01,Melbourne - North West,0.9350170018301409
-2020-11-01,Melbourne - Outer East,0.6872701797512135
+2020-11-01,Melbourne - Outer East,0.6759786251942548
 2020-11-01,Melbourne - South East,0.6438413834803506
 2020-11-01,Melbourne - West,0.727159863255848
 2020-11-01,Mornington Peninsula,0.3551473280837261
@@ -2184,7 +2184,7 @@ date,name,mobility_score
 2020-11-08,Melbourne - Inner South,0.7127943409175606
 2020-11-08,Melbourne - North East,0.6827842693158769
 2020-11-08,Melbourne - North West,0.8313493979482942
-2020-11-08,Melbourne - Outer East,0.5275218060483272
+2020-11-08,Melbourne - Outer East,0.5188548488188772
 2020-11-08,Melbourne - South East,0.8712055148074116
 2020-11-08,Melbourne - West,0.7650082015856808
 2020-11-08,Mornington Peninsula,0.796686277413467
@@ -2254,7 +2254,7 @@ date,name,mobility_score
 2020-11-15,Melbourne - Inner South,0.6891061351705334
 2020-11-15,Melbourne - North East,0.7124844226210716
 2020-11-15,Melbourne - North West,0.7091933354039806
-2020-11-15,Melbourne - Outer East,0.6804590922812089
+2020-11-15,Melbourne - Outer East,0.6692794409728207
 2020-11-15,Melbourne - South East,0.8337557801320465
 2020-11-15,Melbourne - West,0.6419664259624671
 2020-11-15,Mornington Peninsula,0.614463107176582
@@ -2324,7 +2324,7 @@ date,name,mobility_score
 2020-11-22,Melbourne - Inner South,0.6211422851291764
 2020-11-22,Melbourne - North East,0.7580267181522897
 2020-11-22,Melbourne - North West,0.7996431347476315
-2020-11-22,Melbourne - Outer East,1.0037674091718947
+2020-11-22,Melbourne - Outer East,0.9872759407551152
 2020-11-22,Melbourne - South East,0.7217289143188684
 2020-11-22,Melbourne - West,0.7476987427615863
 2020-11-22,Mornington Peninsula,0.9429048451147272
@@ -2394,7 +2394,7 @@ date,name,mobility_score
 2020-11-29,Melbourne - Inner South,0.8806629918873637
 2020-11-29,Melbourne - North East,0.9935891368028704
 2020-11-29,Melbourne - North West,0.8083080786231114
-2020-11-29,Melbourne - Outer East,0.9962325908281052
+2020-11-29,Melbourne - Outer East,0.9798649162480325
 2020-11-29,Melbourne - South East,0.8855594490153897
 2020-11-29,Melbourne - West,0.9946190895109127
 2020-11-29,Mornington Peninsula,0.8596529513215128
@@ -2464,7 +2464,7 @@ date,name,mobility_score
 2020-12-06,Melbourne - Inner South,0.878907799206863
 2020-12-06,Melbourne - North East,0.9177447452999888
 2020-12-06,Melbourne - North West,0.9154434340202202
-2020-12-06,Melbourne - Outer East,0.7541025548599967
+2020-12-06,Melbourne - Outer East,0.7417129730177786
 2020-12-06,Melbourne - South East,0.9948866740283401
 2020-12-06,Melbourne - West,0.8860789432693523
 2020-12-06,Mornington Peninsula,0.6792293478404822
@@ -2534,7 +2534,7 @@ date,name,mobility_score
 2020-12-13,Melbourne - Inner South,0.9330448389755075
 2020-12-13,Melbourne - North East,0.8852343858079684
 2020-12-13,Melbourne - North West,0.9345966623981676
-2020-12-13,Melbourne - Outer East,0.9521948137171571
+2020-12-13,Melbourne - Outer East,0.9365506609447605
 2020-12-13,Melbourne - South East,0.9464325413541026
 2020-12-13,Melbourne - West,1.05286129062899
 2020-12-13,Mornington Peninsula,0.900880157723537
@@ -2604,7 +2604,7 @@ date,name,mobility_score
 2020-12-20,Melbourne - Inner South,0.9231097884284722
 2020-12-20,Melbourne - North East,1.1231469036263262
 2020-12-20,Melbourne - North West,1.0075069997966324
-2020-12-20,Melbourne - Outer East,0.8945605341214816
+2020-12-20,Melbourne - Outer East,0.8798632878664625
 2020-12-20,Melbourne - South East,1.117286346160034
 2020-12-20,Melbourne - West,0.9771377938240007
 2020-12-20,Mornington Peninsula,1.0249995798290792
@@ -2674,7 +2674,7 @@ date,name,mobility_score
 2020-12-27,Melbourne - Inner South,0.9898159132774091
 2020-12-27,Melbourne - North East,0.7348000122892023
 2020-12-27,Melbourne - North West,0.8524143398275056
-2020-12-27,Melbourne - Outer East,0.7815458167430318
+2020-12-27,Melbourne - Outer East,0.7687053538675562
 2020-12-27,Melbourne - South East,0.8703397147378653
 2020-12-27,Melbourne - West,0.7794701911870349
 2020-12-27,Mornington Peninsula,0.7634950565943598
@@ -2744,7 +2744,7 @@ date,name,mobility_score
 2021-01-03,Melbourne - Inner South,0.5018545206749939
 2021-01-03,Melbourne - North East,0.630618695348413
 2021-01-03,Melbourne - North West,0.5693069588023139
-2021-01-03,Melbourne - Outer East,0.6353791036909326
+2021-01-03,Melbourne - Outer East,0.6249400972782366
 2021-01-03,Melbourne - South East,0.6533530382857818
 2021-01-03,Melbourne - West,0.6143733460856784
 2021-01-03,Mornington Peninsula,0.6931249173342101
@@ -2814,7 +2814,7 @@ date,name,mobility_score
 2021-01-10,Melbourne - Inner South,0.6487492800562422
 2021-01-10,Melbourne - North East,0.6436074371369468
 2021-01-10,Melbourne - North West,0.6883380421613511
-2021-01-10,Melbourne - Outer East,0.4702534099602571
+2021-01-10,Melbourne - Outer East,0.46252734793893635
 2021-01-10,Melbourne - South East,0.6331830092176318
 2021-01-10,Melbourne - West,0.7866997294143463
 2021-01-10,Mornington Peninsula,0.7277218368859973
@@ -2884,7 +2884,7 @@ date,name,mobility_score
 2021-01-17,Melbourne - Inner South,0.7268344087998675
 2021-01-17,Melbourne - North East,0.9401978158956625
 2021-01-17,Melbourne - North West,0.9483468348995205
-2021-01-17,Melbourne - Outer East,0.6455821449325689
+2021-01-17,Melbourne - Outer East,0.6349755069242919
 2021-01-17,Melbourne - South East,0.8563216948427649
 2021-01-17,Melbourne - West,0.8680374012232881
 2021-01-17,Mornington Peninsula,0.870050565857439
@@ -2954,7 +2954,7 @@ date,name,mobility_score
 2021-01-24,Melbourne - Inner South,0.7387953815834122
 2021-01-24,Melbourne - North East,0.4988531171301664
 2021-01-24,Melbourne - North West,0.8447609747627566
-2021-01-24,Melbourne - Outer East,0.5903670354175165
+2021-01-24,Melbourne - Outer East,0.5806675579988104
 2021-01-24,Melbourne - South East,0.7740209456360149
 2021-01-24,Melbourne - West,0.8124549584512951
 2021-01-24,Mornington Peninsula,0.9649095847632725
@@ -3024,7 +3024,7 @@ date,name,mobility_score
 2021-01-31,Melbourne - Inner South,0.8259679768907642
 2021-01-31,Melbourne - North East,0.8165980434211396
 2021-01-31,Melbourne - North West,0.9875402353917456
-2021-01-31,Melbourne - Outer East,0.6970336078290341
+2021-01-31,Melbourne - Outer East,0.6855816443324011
 2021-01-31,Melbourne - South East,0.9246715235431614
 2021-01-31,Melbourne - West,0.9288532038643521
 2021-01-31,Mornington Peninsula,0.8700755372869741
@@ -3094,7 +3094,7 @@ date,name,mobility_score
 2021-02-07,Melbourne - Inner South,0.8976501884463914
 2021-02-07,Melbourne - North East,0.7315689609137196
 2021-02-07,Melbourne - North West,0.679052650077199
-2021-02-07,Melbourne - Outer East,0.745937982252669
+2021-02-07,Melbourne - Outer East,0.7336825408398572
 2021-02-07,Melbourne - South East,0.843826394490196
 2021-02-07,Melbourne - West,0.8596271518216396
 2021-02-07,Mornington Peninsula,0.8653430593093732
@@ -3164,7 +3164,7 @@ date,name,mobility_score
 2021-02-14,Melbourne - Inner South,0.052558073447979865
 2021-02-14,Melbourne - North East,0.029949364530471163
 2021-02-14,Melbourne - North West,0.09915412417344593
-2021-02-14,Melbourne - Outer East,0.07329468079040123
+2021-02-14,Melbourne - Outer East,0.07209048059190101
 2021-02-14,Melbourne - South East,0.13574528302393973
 2021-02-14,Melbourne - West,-0.019316908005016484
 2021-02-14,Mornington Peninsula,0.0016842593290678498
@@ -3234,7 +3234,7 @@ date,name,mobility_score
 2021-02-21,Melbourne - Inner South,0.8951510555490076
 2021-02-21,Melbourne - North East,0.6653890462157769
 2021-02-21,Melbourne - North West,0.7062847435687576
-2021-02-21,Melbourne - Outer East,0.4850343652241299
+2021-02-21,Melbourne - Outer East,0.4770654584414863
 2021-02-21,Melbourne - South East,0.9327327034994267
 2021-02-21,Melbourne - West,0.9395421847894809
 2021-02-21,Mornington Peninsula,0.8747943313393903
@@ -3304,7 +3304,7 @@ date,name,mobility_score
 2021-02-28,Melbourne - Inner South,1.0049664262599025
 2021-02-28,Melbourne - North East,0.7446349389848727
 2021-02-28,Melbourne - North West,1.070617839729238
-2021-02-28,Melbourne - Outer East,0.7309200827036623
+2021-02-28,Melbourne - Outer East,0.7189113789452469
 2021-02-28,Melbourne - South East,1.0483793718348726
 2021-02-28,Melbourne - West,1.012241370128546
 2021-02-28,Mornington Peninsula,0.9585510544511762
@@ -3374,7 +3374,7 @@ date,name,mobility_score
 2021-03-07,Melbourne - Inner South,1.109903081852109
 2021-03-07,Melbourne - North East,0.9752613525983693
 2021-03-07,Melbourne - North West,1.0353096888739228
-2021-03-07,Melbourne - Outer East,0.5196357608532549
+2021-03-07,Melbourne - Outer East,0.5110983679671772
 2021-03-07,Melbourne - South East,1.0582683563824935
 2021-03-07,Melbourne - West,1.0131781112423002
 2021-03-07,Mornington Peninsula,1.0532758904533277
@@ -3444,7 +3444,7 @@ date,name,mobility_score
 2021-03-14,Melbourne - Inner South,0.9577155622464213
 2021-03-14,Melbourne - North East,0.9866801382967567
 2021-03-14,Melbourne - North West,1.0077481184273138
-2021-03-14,Melbourne - Outer East,0.8209867485291497
+2021-03-14,Melbourne - Outer East,0.8074982880449296
 2021-03-14,Melbourne - South East,0.9321312555717626
 2021-03-14,Melbourne - West,0.9744877271574262
 2021-03-14,Mornington Peninsula,0.774101974290994
@@ -3514,7 +3514,7 @@ date,name,mobility_score
 2021-03-21,Melbourne - Inner South,0.8446950020910338
 2021-03-21,Melbourne - North East,0.7851620224652527
 2021-03-21,Melbourne - North West,0.7828349440986091
-2021-03-21,Melbourne - Outer East,0.7675432468073099
+2021-03-21,Melbourne - Outer East,0.754932840155755
 2021-03-21,Melbourne - South East,0.8188598110405138
 2021-03-21,Melbourne - West,0.8642506708023129
 2021-03-21,Mornington Peninsula,0.869669189806717
@@ -3584,7 +3584,7 @@ date,name,mobility_score
 2021-03-28,Melbourne - Inner South,0.8259278341903769
 2021-03-28,Melbourne - North East,1.2474791003553232
 2021-03-28,Melbourne - North West,0.9924930002033681
-2021-03-28,Melbourne - Outer East,1.1429165440770919
+2021-03-28,Melbourne - Outer East,1.1241389149994432
 2021-03-28,Melbourne - South East,1.00511332597166
 2021-03-28,Melbourne - West,1.0459142425657757
 2021-03-28,Mornington Peninsula,0.9984190055204064
@@ -3724,7 +3724,7 @@ date,name,mobility_score
 2021-04-11,Melbourne - Inner South,0.8891308224688245
 2021-04-11,Melbourne - North East,1.0228707237383607
 2021-04-11,Melbourne - North West,0.826307877480493
-2021-04-11,Melbourne - Outer East,0.7528048532709851
+2021-04-11,Melbourne - Outer East,0.7404365921098072
 2021-04-11,Melbourne - South East,0.7850139271858373
 2021-04-11,Melbourne - West,0.8306231414134163
 2021-04-11,Mornington Peninsula,0.6409981656914111
@@ -3794,7 +3794,7 @@ date,name,mobility_score
 2021-04-18,Melbourne - Inner South,0.8026040419810841
 2021-04-18,Melbourne - North East,1.0627352975487827
 2021-04-18,Melbourne - North West,0.8948315420716292
-2021-04-18,Melbourne - Outer East,1.0562049481108904
+2021-04-18,Melbourne - Outer East,1.0388519533989111
 2021-04-18,Melbourne - South East,0.9022437418468727
 2021-04-18,Melbourne - West,0.8219757550014861
 2021-04-18,Mornington Peninsula,0.9783221708590445
@@ -3934,7 +3934,7 @@ date,name,mobility_score
 2021-05-02,Melbourne - Inner South,1.0612875288019201
 2021-05-02,Melbourne - North East,0.8994226372341795
 2021-05-02,Melbourne - North West,0.9843879070333027
-2021-05-02,Melbourne - Outer East,0.8885408783855593
+2021-05-02,Melbourne - Outer East,0.8739425324948494
 2021-05-02,Melbourne - South East,0.8912697109165157
 2021-05-02,Melbourne - West,0.9775662807925
 2021-05-02,Mornington Peninsula,0.7733723069437749
@@ -4004,7 +4004,7 @@ date,name,mobility_score
 2021-05-09,Melbourne - Inner South,1.0248376229157667
 2021-05-09,Melbourne - North East,1.34614057354066
 2021-05-09,Melbourne - North West,1.2110503490532112
-2021-05-09,Melbourne - Outer East,0.8264900169618868
+2021-05-09,Melbourne - Outer East,0.812911140135476
 2021-05-09,Melbourne - South East,1.07582605367775
 2021-05-09,Melbourne - West,1.2287251898287428
 2021-05-09,Mornington Peninsula,1.0015809944795937
@@ -4074,7 +4074,7 @@ date,name,mobility_score
 2021-05-16,Melbourne - Inner South,0.8242742154439011
 2021-05-16,Melbourne - North East,0.9817701681757823
 2021-05-16,Melbourne - North West,0.9368085361225419
-2021-05-16,Melbourne - Outer East,0.8814418646272257
+2021-05-16,Melbourne - Outer East,0.8669601524906266
 2021-05-16,Melbourne - South East,0.8800305248949508
 2021-05-16,Melbourne - West,1.0053809104890874
 2021-05-16,Mornington Peninsula,0.46790821133656363
@@ -4144,7 +4144,7 @@ date,name,mobility_score
 2021-05-23,Melbourne - Inner South,0.8318477943535094
 2021-05-23,Melbourne - North East,1.0064108631971296
 2021-05-23,Melbourne - North West,1.0133918470847738
-2021-05-23,Melbourne - Outer East,0.8090875151356421
+2021-05-23,Melbourne - Outer East,0.7957945539572371
 2021-05-23,Melbourne - South East,1.0868986984292648
 2021-05-23,Melbourne - West,0.9540524025316002
 2021-05-23,Mornington Peninsula,0.9315579299154705
@@ -4214,7 +4214,7 @@ date,name,mobility_score
 2021-05-30,Melbourne - Inner South,0.028079823511930883
 2021-05-30,Melbourne - North East,0.018281862402180812
 2021-05-30,Melbourne - North West,0.01996222703701469
-2021-05-30,Melbourne - Outer East,0.026578093998712103
+2021-05-30,Melbourne - Outer East,0.026141427303068374
 2021-05-30,Melbourne - South East,0.10904584652480133
 2021-05-30,Melbourne - West,0.057349413713737245
 2021-05-30,Mornington Peninsula,0.01732978670588133
@@ -4284,7 +4284,7 @@ date,name,mobility_score
 2021-06-06,Melbourne - Inner South,0.12060133954873552
 2021-06-06,Melbourne - North East,0.011389257159476527
 2021-06-06,Melbourne - North West,0.04706136582615553
-2021-06-06,Melbourne - Outer East,0.027064643471927403
+2021-06-06,Melbourne - Outer East,0.026619982976925957
 2021-06-06,Melbourne - South East,0.04253673487062747
 2021-06-06,Melbourne - West,0.026853897837695824
 2021-06-06,Mornington Peninsula,0.022155865572143
@@ -4354,7 +4354,7 @@ date,name,mobility_score
 2021-06-13,Melbourne - Inner South,0.755134931705842
 2021-06-13,Melbourne - North East,0.9124096003378135
 2021-06-13,Melbourne - North West,0.6415854568150483
-2021-06-13,Melbourne - Outer East,1.0296406133190943
+2021-06-13,Melbourne - Outer East,1.012724059244885
 2021-06-13,Melbourne - South East,0.6052283722655821
 2021-06-13,Melbourne - West,0.7504993927867692
 2021-06-13,Mornington Peninsula,1.1673902620584093
@@ -4424,7 +4424,7 @@ date,name,mobility_score
 2021-06-20,Melbourne - Inner South,0.8201659072308958
 2021-06-20,Melbourne - North East,0.7301340484279258
 2021-06-20,Melbourne - North West,0.8548476094816865
-2021-06-20,Melbourne - Outer East,0.9649374338456382
+2021-06-20,Melbourne - Outer East,0.9490839252847635
 2021-06-20,Melbourne - South East,0.8792405711067085
 2021-06-20,Melbourne - West,0.744532890889709
 2021-06-20,Mornington Peninsula,0.8732530014159668
@@ -4494,7 +4494,7 @@ date,name,mobility_score
 2021-06-27,Melbourne - Inner South,0.9112936524175681
 2021-06-27,Melbourne - North East,0.7463130039468786
 2021-06-27,Melbourne - North West,0.8122688846378827
-2021-06-27,Melbourne - Outer East,0.9892128562294116
+2021-06-27,Melbourne - Outer East,0.9729605128808282
 2021-06-27,Melbourne - South East,0.8230795893984719
 2021-06-27,Melbourne - West,0.8178247028085643
 2021-06-27,Mornington Peninsula,1.0418152126853206
@@ -4564,7 +4564,7 @@ date,name,mobility_score
 2021-07-04,Melbourne - Inner South,0.7220371191006577
 2021-07-04,Melbourne - North East,0.5881260648019171
 2021-07-04,Melbourne - North West,0.8863480080429832
-2021-07-04,Melbourne - Outer East,0.7750341689354683
+2021-07-04,Melbourne - Outer East,0.7623006896432197
 2021-07-04,Melbourne - South East,0.7287268934929888
 2021-07-04,Melbourne - West,0.7397377067252142
 2021-07-04,Mornington Peninsula,0.769065253744755
@@ -4634,7 +4634,7 @@ date,name,mobility_score
 2021-07-11,Melbourne - Inner South,1.0645373083588838
 2021-07-11,Melbourne - North East,0.8237972824742704
 2021-07-11,Melbourne - North West,0.9354839066383804
-2021-07-11,Melbourne - Outer East,0.775681760985134
+2021-07-11,Melbourne - Outer East,0.7629376420330036
 2021-07-11,Melbourne - South East,0.9682175690775177
 2021-07-11,Melbourne - West,0.7649511370379191
 2021-07-11,Mornington Peninsula,0.9784404182882909
@@ -4704,7 +4704,7 @@ date,name,mobility_score
 2021-07-18,Melbourne - Inner South,0.026375356124634826
 2021-07-18,Melbourne - North East,0.040496474912663435
 2021-07-18,Melbourne - North West,-0.01479551790772181
-2021-07-18,Melbourne - Outer East,-0.01860424929519643
+2021-07-18,Melbourne - Outer East,-0.018298589451226456
 2021-07-18,Melbourne - South East,0.09263721740995112
 2021-07-18,Melbourne - West,0.028414075932741985
 2021-07-18,Mornington Peninsula,0.031425710644749055
@@ -4774,7 +4774,7 @@ date,name,mobility_score
 2021-07-25,Melbourne - Inner South,0.03746700307322243
 2021-07-25,Melbourne - North East,0.1101654100518265
 2021-07-25,Melbourne - North West,-0.026203888271616793
-2021-07-25,Melbourne - Outer East,0.09023726802805114
+2021-07-25,Melbourne - Outer East,0.08875470838116163
 2021-07-25,Melbourne - South East,0.013931202058058076
 2021-07-25,Melbourne - West,0.017653620454221627
 2021-07-25,Mornington Peninsula,0.07259104262346783
@@ -4844,7 +4844,7 @@ date,name,mobility_score
 2021-08-01,Melbourne - Inner South,0.7246393859937453
 2021-08-01,Melbourne - North East,0.787317454609835
 2021-08-01,Melbourne - North West,0.8375115910188473
-2021-08-01,Melbourne - Outer East,0.9894916613973945
+2021-08-01,Melbourne - Outer East,0.9732347373993696
 2021-08-01,Melbourne - South East,0.7955359030053628
 2021-08-01,Melbourne - West,0.7641216441372314
 2021-08-01,Mornington Peninsula,1.1915914239368928
@@ -4914,7 +4914,7 @@ date,name,mobility_score
 2021-08-08,Melbourne - Inner South,0.06484306658291228
 2021-08-08,Melbourne - North East,0.048068424523120906
 2021-08-08,Melbourne - North West,0.09320916350272973
-2021-08-08,Melbourne - Outer East,0.028378581762974676
+2021-08-08,Melbourne - Outer East,0.02791233382487595
 2021-08-08,Melbourne - South East,0.09579072631632529
 2021-08-08,Melbourne - West,0.0014157772800890897
 2021-08-08,Mornington Peninsula,0.2602997152343808
@@ -4984,7 +4984,7 @@ date,name,mobility_score
 2021-08-15,Melbourne - Inner South,0.047412400985994065
 2021-08-15,Melbourne - North East,-0.062751687850825
 2021-08-15,Melbourne - North West,0.21820595650947747
-2021-08-15,Melbourne - Outer East,-0.01860424929519643
+2021-08-15,Melbourne - Outer East,-0.018298589451226456
 2021-08-15,Melbourne - South East,0.17580396987636102
 2021-08-15,Melbourne - West,0.07054449018704233
 2021-08-15,Mornington Peninsula,0.12960255580040778
@@ -5054,7 +5054,7 @@ date,name,mobility_score
 2021-08-22,Melbourne - Inner South,-0.0010800794817348676
 2021-08-22,Melbourne - North East,-0.08651736940242759
 2021-08-22,Melbourne - North West,-0.04367708412332568
-2021-08-22,Melbourne - Outer East,0.05299634000981624
+2021-08-22,Melbourne - Outer East,0.052125632852470065
 2021-08-22,Melbourne - South East,-0.03935208607452206
 2021-08-22,Melbourne - West,0.010639468843641503
 2021-08-22,Mornington Peninsula,0.13058861541873432
@@ -5124,7 +5124,7 @@ date,name,mobility_score
 2021-08-29,Melbourne - Inner South,-0.009437156194222505
 2021-08-29,Melbourne - North East,0.07600503090097514
 2021-08-29,Melbourne - North West,0.001081029352088763
-2021-08-29,Melbourne - Outer East,0.13263658485710875
+2021-08-29,Melbourne - Outer East,0.1304574226028918
 2021-08-29,Melbourne - South East,0.056510089773710546
 2021-08-29,Melbourne - West,-0.029004000721732284
 2021-08-29,Mornington Peninsula,0.010560896813227348
@@ -5194,7 +5194,7 @@ date,name,mobility_score
 2021-09-05,Melbourne - Inner South,0.012641412846239545
 2021-09-05,Melbourne - North East,0.01625551954577698
 2021-09-05,Melbourne - North West,0.04728656149907814
-2021-09-05,Melbourne - Outer East,0.07104030588209652
+2021-09-05,Melbourne - Outer East,0.06987314409733655
 2021-09-05,Melbourne - South East,0.0963888076568485
 2021-09-05,Melbourne - West,0.04801097348620126
 2021-09-05,Mornington Peninsula,0.016659413869818174
@@ -5264,7 +5264,7 @@ date,name,mobility_score
 2021-09-12,Melbourne - Inner South,0.08081742698259271
 2021-09-12,Melbourne - North East,0.06560649486031844
 2021-09-12,Melbourne - North West,-0.005255134043801465
-2021-09-12,Melbourne - Outer East,0.03237939603368663
+2021-09-12,Melbourne - Outer East,0.03184741643147532
 2021-09-12,Melbourne - South East,0.029229205332957756
 2021-09-12,Melbourne - West,0.009340651494068715
 2021-09-12,Mornington Peninsula,-0.0315990873524166
@@ -5334,7 +5334,7 @@ date,name,mobility_score
 2021-09-19,Melbourne - Inner South,0.044045541004958104
 2021-09-19,Melbourne - North East,0.021211706959800042
 2021-09-19,Melbourne - North West,0.1117966527461694
-2021-09-19,Melbourne - Outer East,0.08012865009154659
+2021-09-19,Melbourne - Outer East,0.07881217070579515
 2021-09-19,Melbourne - South East,0.090461997044727
 2021-09-19,Melbourne - West,0.06783085412450827
 2021-09-19,Mornington Peninsula,0.19240488403957948
@@ -5404,7 +5404,7 @@ date,name,mobility_score
 2021-09-26,Melbourne - Inner South,0.06757541982816931
 2021-09-26,Melbourne - North East,-0.03668830060187117
 2021-09-26,Melbourne - North West,0.08059290939323786
-2021-09-26,Melbourne - Outer East,0.14980459639481125
+2021-09-26,Melbourne - Outer East,0.14734337106754983
 2021-09-26,Melbourne - South East,0.12153293753335868
 2021-09-26,Melbourne - West,0.08277974185678116
 2021-09-26,Mornington Peninsula,0.4111724871872404
@@ -5474,7 +5474,7 @@ date,name,mobility_score
 2021-10-03,Melbourne - Inner South,0.010456257516560761
 2021-10-03,Melbourne - North East,0.11348071266869475
 2021-10-03,Melbourne - North West,0.08827893224893447
-2021-10-03,Melbourne - Outer East,0.047533080768859454
+2021-10-03,Melbourne - Outer East,0.04675213261982702
 2021-10-03,Melbourne - South East,0.10483183697306388
 2021-10-03,Melbourne - West,0.021259575152367618
 2021-10-03,Mornington Peninsula,-0.07433695895246908
@@ -5544,7 +5544,7 @@ date,name,mobility_score
 2021-10-10,Melbourne - Inner South,0.005771914336735217
 2021-10-10,Melbourne - North East,0.06847300701531481
 2021-10-10,Melbourne - North West,0.15772163522604915
-2021-10-10,Melbourne - Outer East,0.2020549069311349
+2021-10-10,Melbourne - Outer East,0.19873523139110197
 2021-10-10,Melbourne - South East,0.2393216400368001
 2021-10-10,Melbourne - West,0.1008105200052669
 2021-10-10,Mornington Peninsula,0.21634683909536634
@@ -5614,7 +5614,7 @@ date,name,mobility_score
 2021-10-17,Melbourne - Inner South,0.08423577404050758
 2021-10-17,Melbourne - North East,-0.011389257159476527
 2021-10-17,Melbourne - North West,0.026562178739201754
-2021-10-17,Melbourne - Outer East,0.08176259939184817
+2021-10-17,Melbourne - Outer East,0.08041927491924263
 2021-10-17,Melbourne - South East,0.14616207389114932
 2021-10-17,Melbourne - West,0.095390667895991
 2021-10-17,Mornington Peninsula,-0.030576938667422917
@@ -5684,7 +5684,7 @@ date,name,mobility_score
 2021-10-24,Melbourne - Inner South,0.31469143613073425
 2021-10-24,Melbourne - North East,0.22215455867221484
 2021-10-24,Melbourne - North West,0.4415756178316333
-2021-10-24,Melbourne - Outer East,0.3930980652212666
+2021-10-24,Melbourne - Outer East,0.3866396324528208
 2021-10-24,Melbourne - South East,0.45955097800627165
 2021-10-24,Melbourne - West,0.27761838758830415
 2021-10-24,Mornington Peninsula,0.17184847599539946
@@ -5754,7 +5754,7 @@ date,name,mobility_score
 2021-10-31,Melbourne - Inner South,0.762109911727029
 2021-10-31,Melbourne - North East,0.7220768965848743
 2021-10-31,Melbourne - North West,0.7771233669576937
-2021-10-31,Melbourne - Outer East,0.7539785241592437
+2021-10-31,Melbourne - Outer East,0.7415909800882916
 2021-10-31,Melbourne - South East,0.7425492286100279
 2021-10-31,Melbourne - West,0.7234186956165279
 2021-10-31,Mornington Peninsula,0.8925712424588026
@@ -5824,7 +5824,7 @@ date,name,mobility_score
 2021-11-07,Melbourne - Inner South,0.8989578381908253
 2021-11-07,Melbourne - North East,0.762686568837469
 2021-11-07,Melbourne - North West,0.8372296557536346
-2021-11-07,Melbourne - Outer East,0.8000490112409478
+2021-11-07,Melbourne - Outer East,0.7869045488085196
 2021-11-07,Melbourne - South East,0.6213849992157474
 2021-11-07,Melbourne - West,0.565944180936406
 2021-11-07,Mornington Peninsula,0.763360853291229
@@ -5894,7 +5894,7 @@ date,name,mobility_score
 2021-11-14,Melbourne - Inner South,0.762226720456466
 2021-11-14,Melbourne - North East,0.6628536631860872
 2021-11-14,Melbourne - North West,0.6753549147503378
-2021-11-14,Melbourne - Outer East,0.88984797613012
+2021-11-14,Melbourne - Outer East,0.8752281551835603
 2021-11-14,Melbourne - South East,0.5680204805746601
 2021-11-14,Melbourne - West,0.6154789186622384
 2021-11-14,Mornington Peninsula,0.7782723915440752
@@ -5964,7 +5964,7 @@ date,name,mobility_score
 2021-11-21,Melbourne - Inner South,0.8689341484168394
 2021-11-21,Melbourne - North East,0.851712656925734
 2021-11-21,Melbourne - North West,0.8534345652131975
-2021-11-21,Melbourne - Outer East,0.5591407913877402
+2021-11-21,Melbourne - Outer East,0.5499543477779487
 2021-11-21,Melbourne - South East,0.7271239153079034
 2021-11-21,Melbourne - West,0.6933742149830898
 2021-11-21,Mornington Peninsula,0.8027609379065991
@@ -6034,7 +6034,7 @@ date,name,mobility_score
 2021-11-28,Melbourne - Inner South,1.0406018671838106
 2021-11-28,Melbourne - North East,0.9502762056970959
 2021-11-28,Melbourne - North West,0.944204911268586
-2021-11-28,Melbourne - Outer East,1.203351525430801
+2021-11-28,Melbourne - Outer East,1.1835809755059954
 2021-11-28,Melbourne - South East,0.810973358655569
 2021-11-28,Melbourne - West,0.7364456976422293
 2021-11-28,Mornington Peninsula,0.6928186634584224
@@ -6104,7 +6104,7 @@ date,name,mobility_score
 2021-12-05,Melbourne - Inner South,0.7380542734389046
 2021-12-05,Melbourne - North East,0.7094743107670373
 2021-12-05,Melbourne - North West,0.6664159889190114
-2021-12-05,Melbourne - Outer East,0.6620747265923242
+2021-12-05,Melbourne - Outer East,0.6511971225344747
 2021-12-05,Melbourne - South East,0.3882840326778646
 2021-12-05,Melbourne - West,0.48775073588734363
 2021-12-05,Mornington Peninsula,0.46606914854053905
@@ -6174,7 +6174,7 @@ date,name,mobility_score
 2021-12-12,Melbourne - Inner South,0.9950335737400975
 2021-12-12,Melbourne - North East,0.7433446160342886
 2021-12-12,Melbourne - North West,0.7193331499906893
-2021-12-12,Melbourne - Outer East,1.0984290507461885
+2021-12-12,Melbourne - Outer East,1.0803823321210055
 2021-12-12,Melbourne - South East,0.7843272805400844
 2021-12-12,Melbourne - West,0.7176727331146473
 2021-12-12,Mornington Peninsula,0.7628975733754122
@@ -6239,3 +6239,13 @@ date,name,mobility_score
 2021-12-18,Melbourne - West,0.87882585174677
 2021-12-18,Mornington Peninsula,0.8552954678367918
 2021-12-18,all,0.9087303199388146
+2021-12-19,Melbourne - Inner,0.8967269388652074
+2021-12-19,Melbourne - Inner East,0.748973056409142
+2021-12-19,Melbourne - Inner South,0.8592159343485796
+2021-12-19,Melbourne - North East,0.5856986140787411
+2021-12-19,Melbourne - North West,0.8635213788387041
+2021-12-19,Melbourne - Outer East,1.2303795501370727
+2021-12-19,Melbourne - South East,0.7622465735597301
+2021-12-19,Melbourne - West,0.7452606405452294
+2021-12-19,Mornington Peninsula,0.7228323270460952
+2021-12-19,all,0.8779623745156012
