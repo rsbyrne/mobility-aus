@@ -92,60 +92,60 @@ date,name,mobility_score
 2020-04-10,Sydney - Baulkham Hills and Hawkesbury,0.0
 2020-04-10,Sydney - Blacktown,-0.5574476784569903
 2020-04-10,Sydney - City and Inner South,-0.40234610106405727
-2020-04-10,Sydney - Eastern Suburbs,-0.8661455929054839
+2020-04-10,Sydney - Eastern Suburbs,-0.7715340881706955
 2020-04-10,Sydney - Inner South West,-0.46514866653293946
 2020-04-10,Sydney - Inner West,-0.2892182741981442
-2020-04-10,Sydney - North Sydney and Hornsby,-0.5760006152743579
+2020-04-10,Sydney - North Sydney and Hornsby,-0.4300923197395507
 2020-04-10,Sydney - Northern Beaches,-0.6521738068762384
-2020-04-10,Sydney - Outer South West,-0.8621686711417949
+2020-04-10,Sydney - Outer South West,-0.8542652007052094
 2020-04-10,Sydney - Outer West and Blue Mountains,-0.46975816607087795
 2020-04-10,Sydney - Parramatta,-0.4955583029274956
-2020-04-10,Sydney - Ryde,-0.5307408326298829
+2020-04-10,Sydney - Ryde,-0.47176447509668384
 2020-04-10,Sydney - South West,-0.425991000154423
 2020-04-10,Sydney - Sutherland,-0.42966262266673966
 2020-04-10,all,-0.4249362607265289
 2020-04-11,Sydney - Baulkham Hills and Hawkesbury,0.07441422114294981
 2020-04-11,Sydney - Blacktown,0.0077523185968774765
 2020-04-11,Sydney - City and Inner South,-0.2530109365774595
-2020-04-11,Sydney - Eastern Suburbs,-0.5904508504985927
+2020-04-11,Sydney - Eastern Suburbs,-0.5098167623843236
 2020-04-11,Sydney - Inner South West,-0.08875714911923653
 2020-04-11,Sydney - Inner West,-0.049773754852628166
-2020-04-11,Sydney - North Sydney and Hornsby,-0.35080718024546403
+2020-04-11,Sydney - North Sydney and Hornsby,-0.22574760136231523
 2020-04-11,Sydney - Northern Beaches,0.019653497359741232
-2020-04-11,Sydney - Outer South West,0.21481580420964244
+2020-04-11,Sydney - Outer South West,0.2181483058110673
 2020-04-11,Sydney - Outer West and Blue Mountains,0.025139428050014092
 2020-04-11,Sydney - Parramatta,-0.17264834571301643
-2020-04-11,Sydney - Ryde,0.07553611061318326
+2020-04-11,Sydney - Ryde,0.11115384008430361
 2020-04-11,Sydney - South West,-0.18184251810340624
 2020-04-11,Sydney - Sutherland,0.019987569800545363
 2020-04-11,all,-0.13004432430448595
 2020-04-12,Sydney - Baulkham Hills and Hawkesbury,0.0
 2020-04-12,Sydney - Blacktown,-0.47293835501903264
 2020-04-12,Sydney - City and Inner South,-0.44407278473813244
-2020-04-12,Sydney - Eastern Suburbs,-0.7803230538056898
+2020-04-12,Sydney - Eastern Suburbs,-0.690062656291721
 2020-04-12,Sydney - Inner South West,-0.41231174207889104
 2020-04-12,Sydney - Inner West,-0.3169568299385642
-2020-04-12,Sydney - North Sydney and Hornsby,-0.5480246533049152
+2020-04-12,Sydney - North Sydney and Hornsby,-0.4047064106465769
 2020-04-12,Sydney - Northern Beaches,-0.5903550022654503
-2020-04-12,Sydney - Outer South West,-0.7702194771890837
+2020-04-12,Sydney - Outer South West,-0.7627062601958813
 2020-04-12,Sydney - Outer West and Blue Mountains,-0.46346319040603184
 2020-04-12,Sydney - Parramatta,-0.45853310168168643
-2020-04-12,Sydney - Ryde,-0.47131114650604944
+2020-04-12,Sydney - Ryde,-0.4146244949388847
 2020-04-12,Sydney - South West,-0.41737831168892087
 2020-04-12,Sydney - Sutherland,-0.44620447657131823
 2020-04-12,all,-0.4087376660535434
 2020-04-13,Sydney - Baulkham Hills and Hawkesbury,0.07370736556334449
 2020-04-13,Sydney - Blacktown,-0.5417460996592057
 2020-04-13,Sydney - City and Inner South,-0.36410734420289953
-2020-04-13,Sydney - Eastern Suburbs,-0.8131585435537648
+2020-04-13,Sydney - Eastern Suburbs,-0.721233423252046
 2020-04-13,Sydney - Inner South West,-0.24076439786447315
 2020-04-13,Sydney - Inner West,-0.215430809790583
-2020-04-13,Sydney - North Sydney and Hornsby,-0.46235412486829397
+2020-04-13,Sydney - North Sydney and Hornsby,-0.32696737707144563
 2020-04-13,Sydney - Northern Beaches,-0.44918561510695104
-2020-04-13,Sydney - Outer South West,-0.464141973164196
+2020-04-13,Sydney - Outer South West,-0.457927819216062
 2020-04-13,Sydney - Outer West and Blue Mountains,-0.3403458921983867
 2020-04-13,Sydney - Parramatta,-0.31592981109474894
-2020-04-13,Sydney - Ryde,-0.3265105080841747
+2020-04-13,Sydney - Ryde,-0.27540273312405267
 2020-04-13,Sydney - South West,-0.3998825536891635
 2020-04-13,Sydney - Sutherland,-0.603180935434236
 2020-04-13,all,-0.3441009406189713
@@ -317,15 +317,15 @@ date,name,mobility_score
 2020-04-25,Sydney - Baulkham Hills and Hawkesbury,0.07594830033333178
 2020-04-25,Sydney - Blacktown,-0.007752318596877662
 2020-04-25,Sydney - City and Inner South,-0.1714279093504195
-2020-04-25,Sydney - Eastern Suburbs,-0.3537894541498849
+2020-04-25,Sydney - Eastern Suburbs,-0.28515383545103046
 2020-04-25,Sydney - Inner South West,0.034682861998627766
 2020-04-25,Sydney - Inner West,-0.02941101085124209
-2020-04-25,Sydney - North Sydney and Hornsby,-0.22343017968766868
+2020-04-25,Sydney - North Sydney and Hornsby,-0.11016333797834936
 2020-04-25,Sydney - Northern Beaches,-0.01965349735974103
-2020-04-25,Sydney - Outer South West,0.07625322021295948
+2020-04-25,Sydney - Outer South West,0.08017381316357625
 2020-04-25,Sydney - Outer West and Blue Mountains,-0.15299872542213297
 2020-04-25,Sydney - Parramatta,-0.05129770780924593
-2020-04-25,Sydney - Ryde,-0.15936400698121464
+2020-04-25,Sydney - Ryde,-0.11469604965667207
 2020-04-25,Sydney - South West,0.006198212945414512
 2020-04-25,Sydney - Sutherland,-0.019987569800545467
 2020-04-25,all,-0.0570765650604817
@@ -977,15 +977,15 @@ date,name,mobility_score
 2020-06-08,Sydney - Baulkham Hills and Hawkesbury,0.0
 2020-06-08,Sydney - Blacktown,-0.33818207396608546
 2020-06-08,Sydney - City and Inner South,0.12319006559641633
-2020-06-08,Sydney - Eastern Suburbs,-0.24533483806052758
+2020-06-08,Sydney - Eastern Suburbs,-0.18219774769872105
 2020-06-08,Sydney - Inner South West,-0.0346828619986279
 2020-06-08,Sydney - Inner West,0.029411010851242
-2020-06-08,Sydney - North Sydney and Hornsby,-0.07648239916597509
+2020-06-08,Sydney - North Sydney and Hornsby,0.02317981575529523
 2020-06-08,Sydney - Northern Beaches,-0.09304802082987723
-2020-06-08,Sydney - Outer South West,-0.5915967078033143
+2020-06-08,Sydney - Outer South West,-0.5848416067633116
 2020-06-08,Sydney - Outer West and Blue Mountains,-0.025139428050014092
 2020-06-08,Sydney - Parramatta,0.051297707809245786
-2020-06-08,Sydney - Ryde,0.0034031146332136066
+2020-06-08,Sydney - Ryde,0.04179998298282503
 2020-06-08,Sydney - South West,-0.006198212945414327
 2020-06-08,Sydney - Sutherland,-0.4764101430149881
 2020-06-08,all,0.010444657264057812
@@ -2762,15 +2762,15 @@ date,name,mobility_score
 2020-10-05,Sydney - Baulkham Hills and Hawkesbury,0.9685776809285442
 2020-10-05,Sydney - Blacktown,0.6675762230102862
 2020-10-05,Sydney - City and Inner South,0.7654172530001022
-2020-10-05,Sydney - Eastern Suburbs,0.9207588053591831
+2020-10-05,Sydney - Eastern Suburbs,0.9247762457402828
 2020-10-05,Sydney - Inner South West,0.9784886007455446
 2020-10-05,Sydney - Inner West,0.8220857236765681
-2020-10-05,Sydney - North Sydney and Hornsby,1.0338747809656317
+2020-10-05,Sydney - North Sydney and Hornsby,1.0307386073471652
 2020-10-05,Sydney - Northern Beaches,1.2468476203233674
-2020-10-05,Sydney - Outer South West,1.139074624980226
+2020-10-05,Sydney - Outer South West,1.1384843604117985
 2020-10-05,Sydney - Outer West and Blue Mountains,0.9953812155768251
 2020-10-05,Sydney - Parramatta,0.9280879909140544
-2020-10-05,Sydney - Ryde,1.1139424576114558
+2020-10-05,Sydney - Ryde,1.1095524844853328
 2020-10-05,Sydney - South West,0.5926546283512106
 2020-10-05,Sydney - Sutherland,0.7515919757660317
 2020-10-05,all,0.8989469726286258
@@ -3977,30 +3977,30 @@ date,name,mobility_score
 2020-12-25,Sydney - Baulkham Hills and Hawkesbury,0.0
 2020-12-25,Sydney - Blacktown,0.9803771357769491
 2020-12-25,Sydney - City and Inner South,0.4654985474582139
-2020-12-25,Sydney - Eastern Suburbs,0.6181477857790778
+2020-12-25,Sydney - Eastern Suburbs,0.637507268078368
 2020-12-25,Sydney - Inner South West,0.9041759539708132
 2020-12-25,Sydney - Inner West,0.5871865970186837
-2020-12-25,Sydney - North Sydney and Hornsby,0.07648239916597493
+2020-12-25,Sydney - North Sydney and Hornsby,0.16198292354910104
 2020-12-25,Sydney - Northern Beaches,0.90961512550312
-2020-12-25,Sydney - Outer South West,0.3921253535378772
+2020-12-25,Sydney - Outer South West,0.3947053127928664
 2020-12-25,Sydney - Outer West and Blue Mountains,0.6475894630163231
 2020-12-25,Sydney - Parramatta,0.7944439194537901
-2020-12-25,Sydney - Ryde,-0.07674062919417378
+2020-12-25,Sydney - Ryde,-0.03525598400523116
 2020-12-25,Sydney - South West,1.2109456489099824
 2020-12-25,Sydney - Sutherland,1.117342481089199
 2020-12-25,all,0.6497759322619526
 2020-12-26,Sydney - Baulkham Hills and Hawkesbury,1.8105503405156493
 2020-12-26,Sydney - Blacktown,1.8491864705906966
 2020-12-26,Sydney - City and Inner South,0.7636049873879083
-2020-12-26,Sydney - Eastern Suburbs,0.6472958608017116
+2020-12-26,Sydney - Eastern Suburbs,0.6651775681361235
 2020-12-26,Sydney - Inner South West,1.2397967717231801
 2020-12-26,Sydney - Inner West,1.1321975961349044
-2020-12-26,Sydney - North Sydney and Hornsby,0.6807481588390614
+2020-12-26,Sydney - North Sydney and Hornsby,0.7103049315577271
 2020-12-26,Sydney - Northern Beaches,0.6035413200180042
-2020-12-26,Sydney - Outer South West,1.6070444487591982
+2020-12-26,Sydney - Outer South West,1.6044680130534466
 2020-12-26,Sydney - Outer West and Blue Mountains,1.7706117693638002
 2020-12-26,Sydney - Parramatta,1.5079500286593697
-2020-12-26,Sydney - Ryde,0.9549130815683383
+2020-12-26,Sydney - Ryde,0.9566501896174701
 2020-12-26,Sydney - South West,1.458480930258742
 2020-12-26,Sydney - Sutherland,1.3150252386055288
 2020-12-26,all,1.0217993719214702
@@ -4022,15 +4022,15 @@ date,name,mobility_score
 2020-12-28,Sydney - Baulkham Hills and Hawkesbury,1.0314223190714558
 2020-12-28,Sydney - Blacktown,0.8167489215317206
 2020-12-28,Sydney - City and Inner South,0.5770487837718253
-2020-12-28,Sydney - Eastern Suburbs,0.4364933455494365
+2020-12-28,Sydney - Eastern Suburbs,0.465062505805913
 2020-12-28,Sydney - Inner South West,0.8615705796106855
 2020-12-28,Sydney - Inner West,0.8261918986918696
-2020-12-28,Sydney - North Sydney and Hornsby,0.5953177381623561
+2020-12-28,Sydney - North Sydney and Hornsby,0.6327837762372347
 2020-12-28,Sydney - Northern Beaches,-0.17653910348340454
-2020-12-28,Sydney - Outer South West,0.9997024555077074
+2020-12-28,Sydney - Outer South West,0.9997037183546958
 2020-12-28,Sydney - Outer West and Blue Mountains,0.9870335788766207
 2020-12-28,Sydney - Parramatta,0.9200562356468726
-2020-12-28,Sydney - Ryde,0.9632139782382226
+2020-12-28,Sydney - Ryde,0.9646312694774714
 2020-12-28,Sydney - South West,0.7487644526781457
 2020-12-28,Sydney - Sutherland,0.8289851214739706
 2020-12-28,all,0.6857792978256156
@@ -4082,15 +4082,15 @@ date,name,mobility_score
 2021-01-01,Sydney - Baulkham Hills and Hawkesbury,0.0
 2021-01-01,Sydney - Blacktown,0.4306837127066199
 2021-01-01,Sydney - City and Inner South,0.5348878331621587
-2021-01-01,Sydney - Eastern Suburbs,0.38844107416653934
+2021-01-01,Sydney - Eastern Suburbs,0.41944643110495966
 2021-01-01,Sydney - Inner South West,0.6484722452484946
 2021-01-01,Sydney - Inner West,0.5514696892581511
-2021-01-01,Sydney - North Sydney and Hornsby,0.28303161074476696
+2021-01-01,Sydney - North Sydney and Hornsby,0.3494095262193468
 2021-01-01,Sydney - Northern Beaches,0.20029968672482013
-2021-01-01,Sydney - Outer South West,0.2866647067173727
+2021-01-01,Sydney - Outer South West,0.28969226511699686
 2021-01-01,Sydney - Outer West and Blue Mountains,0.20590397931385165
 2021-01-01,Sydney - Parramatta,0.43185717243761995
-2021-01-01,Sydney - Ryde,0.13503286539952164
+2021-01-01,Sydney - Ryde,0.16835830488428571
 2021-01-01,Sydney - South West,0.5861632314909584
 2021-01-01,Sydney - Sutherland,0.22114226346321825
 2021-01-01,all,0.47688185053798576
@@ -4442,7 +4442,7 @@ date,name,mobility_score
 2021-01-25,Sydney - Baulkham Hills and Hawkesbury,1.632951876116853
 2021-01-25,Sydney - Blacktown,1.982688285334214
 2021-01-25,Sydney - City and Inner South,1.7482621399423963
-2021-01-25,Sydney - Eastern Suburbs,1.9642520027788788
+2021-01-25,Sydney - Eastern Suburbs,1.915365499349956
 2021-01-25,Sydney - Inner South West,2.0
 2021-01-25,Sydney - Inner West,1.9085969447505173
 2021-01-25,Sydney - North Sydney and Hornsby,2.0
@@ -4457,15 +4457,15 @@ date,name,mobility_score
 2021-01-26,Sydney - Baulkham Hills and Hawkesbury,0.2036482263349226
 2021-01-26,Sydney - Blacktown,0.4864031038180921
 2021-01-26,Sydney - City and Inner South,0.8583195733564019
-2021-01-26,Sydney - Eastern Suburbs,1.302631770378808
+2021-01-26,Sydney - Eastern Suburbs,1.2872886764182168
 2021-01-26,Sydney - Inner South West,0.8288831579004299
 2021-01-26,Sydney - Inner West,0.9690771897403058
-2021-01-26,Sydney - North Sydney and Hornsby,1.0677891983717356
+2021-01-26,Sydney - North Sydney and Hornsby,1.0615131815388557
 2021-01-26,Sydney - Northern Beaches,1.811758283828619
-2021-01-26,Sydney - Outer South West,0.9401442814666807
+2021-01-26,Sydney - Outer South West,0.9403983228482268
 2021-01-26,Sydney - Outer West and Blue Mountains,1.0046187844231749
 2021-01-26,Sydney - Parramatta,0.6763633576422574
-2021-01-26,Sydney - Ryde,1.0359685787956874
+2021-01-26,Sydney - Ryde,1.0345827819855433
 2021-01-26,Sydney - South West,0.7210464745922058
 2021-01-26,Sydney - Sutherland,1.2862245871975089
 2021-01-26,all,1.0086211979803097
@@ -5447,22 +5447,22 @@ date,name,mobility_score
 2021-04-02,Sydney - Baulkham Hills and Hawkesbury,0.0
 2021-04-02,Sydney - Blacktown,0.6422970219700309
 2021-04-02,Sydney - City and Inner South,1.1707375182110336
-2021-04-02,Sydney - Eastern Suburbs,1.1254809851450442
+2021-04-02,Sydney - Eastern Suburbs,1.119119238845447
 2021-04-02,Sydney - Inner South West,1.047086026587965
 2021-04-02,Sydney - Inner West,1.0087706398445804
-2021-04-02,Sydney - North Sydney and Hornsby,0.8868356992653811
+2021-04-02,Sydney - North Sydney and Hornsby,0.8973126052231253
 2021-04-02,Sydney - Northern Beaches,0.9459529741614058
-2021-04-02,Sydney - Outer South West,0.1272881177416064
+2021-04-02,Sydney - Outer South West,0.1309921068957451
 2021-04-02,Sydney - Outer West and Blue Mountains,0.35913319170095465
 2021-04-02,Sydney - Parramatta,1.1785145326949884
-2021-04-02,Sydney - Ryde,0.44157656775446136
+2021-04-02,Sydney - Ryde,0.463091496534696
 2021-04-02,Sydney - South West,0.8835251042791061
 2021-04-02,Sydney - Sutherland,0.7065582115224882
 2021-04-02,all,0.9913788020196902
 2021-04-03,Sydney - Baulkham Hills and Hawkesbury,1.5668072400672146
 2021-04-03,Sydney - Blacktown,2.0
 2021-04-03,Sydney - City and Inner South,1.4675879276476818
-2021-04-03,Sydney - Eastern Suburbs,1.9057951248341298
+2021-04-03,Sydney - Eastern Suburbs,1.8598723200605942
 2021-04-03,Sydney - Inner South West,2.0
 2021-04-03,Sydney - Inner West,1.9664701306011698
 2021-04-03,Sydney - North Sydney and Hornsby,2.0
@@ -5470,37 +5470,37 @@ date,name,mobility_score
 2021-04-03,Sydney - Outer South West,2.0
 2021-04-03,Sydney - Outer West and Blue Mountains,2.0
 2021-04-03,Sydney - Parramatta,1.9906290292602495
-2021-04-03,Sydney - Ryde,1.8120915128539912
+2021-04-03,Sydney - Ryde,1.7808032644511123
 2021-04-03,Sydney - South West,1.8278688481138776
 2021-04-03,Sydney - Sutherland,2.0
 2021-04-03,all,1.9284869057359864
 2021-04-04,Sydney - Baulkham Hills and Hawkesbury,0.0
 2021-04-04,Sydney - Blacktown,0.6142536288096824
 2021-04-04,Sydney - City and Inner South,1.2296857567994963
-2021-04-04,Sydney - Eastern Suburbs,1.0347555280029175
+2021-04-04,Sydney - Eastern Suburbs,1.0329934614124492
 2021-04-04,Sydney - Inner South West,1.0008758079903461
 2021-04-04,Sydney - Inner West,1.0436630668088396
-2021-04-04,Sydney - North Sydney and Hornsby,0.7319950114303172
+2021-04-04,Sydney - North Sydney and Hornsby,0.7568072803457202
 2021-04-04,Sydney - Northern Beaches,0.6996615563618998
-2021-04-04,Sydney - Outer South West,-0.07625322021295972
+2021-04-04,Sydney - Outer South West,-0.0716853549921269
 2021-04-04,Sydney - Outer West and Blue Mountains,0.5641753972429627
 2021-04-04,Sydney - Parramatta,0.8599314167538302
-2021-04-04,Sydney - Ryde,0.039450713789809765
+2021-04-04,Sydney - Ryde,0.0764587408341165
 2021-04-04,Sydney - South West,1.0360930887086506
 2021-04-04,Sydney - Sutherland,0.35537373175093945
 2021-04-04,all,0.9308287877923634
 2021-04-05,Sydney - Baulkham Hills and Hawkesbury,1.0715105771791302
 2021-04-05,Sydney - Blacktown,1.0476930931959074
 2021-04-05,Sydney - City and Inner South,0.9805109102512652
-2021-04-05,Sydney - Eastern Suburbs,0.9652444719970821
+2021-04-05,Sydney - Eastern Suburbs,0.9670065385875503
 2021-04-05,Sydney - Inner South West,1.0086114411728033
 2021-04-05,Sydney - Inner West,0.9701615240431039
-2021-04-05,Sydney - North Sydney and Hornsby,1.0613055052839
+2021-04-05,Sydney - North Sydney and Hornsby,1.0556297576374964
 2021-04-05,Sydney - Northern Beaches,1.0540470258385946
-2021-04-05,Sydney - Outer South West,1.1073158019823053
+2021-04-05,Sydney - Outer South West,1.106860329134174
 2021-04-05,Sydney - Outer West and Blue Mountains,1.2693231614979728
 2021-04-05,Sydney - Parramatta,1.0615584218322323
-2021-04-05,Sydney - Ryde,1.3541273838707812
+2021-04-05,Sydney - Ryde,1.3404835698702244
 2021-04-05,Sydney - South West,0.9639069112913491
 2021-04-05,Sydney - Sutherland,0.882657518910801
 2021-04-05,all,1.0261073388898667
@@ -5792,15 +5792,15 @@ date,name,mobility_score
 2021-04-25,Sydney - Baulkham Hills and Hawkesbury,0.3961950985038014
 2021-04-25,Sydney - Blacktown,1.2194830296659056
 2021-04-25,Sydney - City and Inner South,1.3538922196481735
-2021-04-25,Sydney - Eastern Suburbs,1.33774437951331
+2021-04-25,Sydney - Eastern Suburbs,1.3206211153462732
 2021-04-25,Sydney - Inner South West,0.9991241920096542
 2021-04-25,Sydney - Inner West,1.044574216271694
-2021-04-25,Sydney - North Sydney and Hornsby,1.0333096053576032
+2021-04-25,Sydney - North Sydney and Hornsby,1.030225756471022
 2021-04-25,Sydney - Northern Beaches,1.2706642634854495
-2021-04-25,Sydney - Outer South West,1.0002975444922926
+2021-04-25,Sydney - Outer South West,1.000296281645304
 2021-04-25,Sydney - Outer West and Blue Mountains,1.204173050317709
 2021-04-25,Sydney - Parramatta,0.96948272909866
-2021-04-25,Sydney - Ryde,0.964031421204313
+2021-04-25,Sydney - Ryde,0.9654172180144569
 2021-04-25,Sydney - South West,1.1207618875174516
 2021-04-25,Sydney - Sutherland,1.1712376844661534
 2021-04-25,all,1.1849976467600933
@@ -6542,15 +6542,15 @@ date,name,mobility_score
 2021-06-14,Sydney - Baulkham Hills and Hawkesbury,1.2694758087579192
 2021-06-14,Sydney - Blacktown,1.0196228642230505
 2021-06-14,Sydney - City and Inner South,1.0194890897487352
-2021-06-14,Sydney - Eastern Suburbs,0.7667791998932583
+2021-06-14,Sydney - Eastern Suburbs,0.7786032349082302
 2021-06-14,Sydney - Inner South West,0.9924197579467986
 2021-06-14,Sydney - Inner West,0.9912293601554193
-2021-06-14,Sydney - North Sydney and Hornsby,0.9666903946423973
+2021-06-14,Sydney - North Sydney and Hornsby,0.9697742435289782
 2021-06-14,Sydney - Northern Beaches,0.8668395151867194
-2021-06-14,Sydney - Outer South West,0.8124349214654754
+2021-06-14,Sydney - Outer South West,0.8132309906272578
 2021-06-14,Sydney - Outer West and Blue Mountains,0.9134134969497708
 2021-06-14,Sydney - Parramatta,1.0305172709013404
-2021-06-14,Sydney - Ryde,1.1103596225843233
+2021-06-14,Sydney - Ryde,1.1061076888669874
 2021-06-14,Sydney - South West,0.7583980112924992
 2021-06-14,Sydney - Sutherland,0.8674137024685832
 2021-06-14,all,0.9585625988423725
@@ -8222,15 +8222,15 @@ date,name,mobility_score
 2021-10-04,Sydney - Baulkham Hills and Hawkesbury,0.0
 2021-10-04,Sydney - Blacktown,-0.4122958638563336
 2021-10-04,Sydney - City and Inner South,-0.12319006559641633
-2021-10-04,Sydney - Eastern Suburbs,0.24533483806052733
+2021-10-04,Sydney - Eastern Suburbs,0.28359552190719894
 2021-10-04,Sydney - Inner South West,-0.16834327686673356
 2021-10-04,Sydney - Inner West,-0.07149325689650765
-2021-10-04,Sydney - North Sydney and Hornsby,0.08713381909539432
+2021-10-04,Sydney - North Sydney and Hornsby,0.17164822043271405
 2021-10-04,Sydney - Northern Beaches,0.05836293356527366
-2021-10-04,Sydney - Outer South West,-0.4621440559492227
+2021-10-04,Sydney - Outer South West,-0.4559383816194434
 2021-10-04,Sydney - Outer West and Blue Mountains,-0.33006609134656373
 2021-10-04,Sydney - Parramatta,-0.33001433306405065
-2021-10-04,Sydney - Ryde,-0.0034031146332137462
+2021-10-04,Sydney - Ryde,0.03525598400523116
 2021-10-04,Sydney - South West,-0.37660969925155796
 2021-10-04,Sydney - Sutherland,-0.09220974824658436
 2021-10-04,all,-0.010444657264057812
@@ -9449,3 +9449,18 @@ date,name,mobility_score
 2021-12-24,Sydney - South West,0.5908362369419274
 2021-12-24,Sydney - Sutherland,0.3885678748228056
 2021-12-24,all,0.30322476519051744
+2021-12-25,Sydney - Baulkham Hills and Hawkesbury,0.0
+2021-12-25,Sydney - Blacktown,0.4319110418530179
+2021-12-25,Sydney - City and Inner South,0.2357892759339044
+2021-12-25,Sydney - Eastern Suburbs,0.1821977476987213
+2021-12-25,Sydney - Inner South West,0.41108721687716615
+2021-12-25,Sydney - Inner West,0.2772136643110816
+2021-12-25,Sydney - North Sydney and Hornsby,-0.02317981575529523
+2021-12-25,Sydney - Northern Beaches,0.3967591174792123
+2021-12-25,Sydney - Outer South West,0.0716853549921269
+2021-12-25,Sydney - Outer West and Blue Mountains,0.317821862916862
+2021-12-25,Sydney - Parramatta,0.19312841825448496
+2021-12-25,Sydney - Ryde,-0.37538190398514937
+2021-12-25,Sydney - South West,0.5777691303692113
+2021-12-25,Sydney - Sutherland,0.5605362213306917
+2021-12-25,all,0.28339775937284467
