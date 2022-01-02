@@ -201,7 +201,7 @@ date,name,mobility_score
 2020-04-17,Sydney - Inner South West,0.17785868303330932
 2020-04-17,Sydney - Inner West,0.07560442851932518
 2020-04-17,Sydney - North Sydney and Hornsby,0.02728178277126779
-2020-04-17,Sydney - Northern Beaches,-0.06251027410432135
+2020-04-17,Sydney - Northern Beaches,-0.06038582239513867
 2020-04-17,Sydney - Outer South West,0.15283743225837876
 2020-04-17,Sydney - Outer West and Blue Mountains,0.12149298287054607
 2020-04-17,Sydney - Parramatta,0.21615728329051448
@@ -306,7 +306,7 @@ date,name,mobility_score
 2020-04-24,Sydney - Inner South West,0.180571529494798
 2020-04-24,Sydney - Inner West,0.08241551011751636
 2020-04-24,Sydney - North Sydney and Hornsby,0.03700762233398063
-2020-04-24,Sydney - Northern Beaches,0.04808230376258872
+2020-04-24,Sydney - Northern Beaches,0.049985629524287895
 2020-04-24,Sydney - Outer South West,0.24466776432704354
 2020-04-24,Sydney - Outer West and Blue Mountains,0.18942214069244773
 2020-04-24,Sydney - Parramatta,0.2396281662819968
@@ -411,7 +411,7 @@ date,name,mobility_score
 2020-05-01,Sydney - Inner South West,0.23334315298273475
 2020-05-01,Sydney - Inner West,0.1553869724762875
 2020-05-01,Sydney - North Sydney and Hornsby,0.0954342914700919
-2020-05-01,Sydney - Northern Beaches,0.0964473610947471
+2020-05-01,Sydney - Northern Beaches,0.09825398263511473
 2020-05-01,Sydney - Outer South West,0.35662757506714327
 2020-05-01,Sydney - Outer West and Blue Mountains,0.26205835981978615
 2020-05-01,Sydney - Parramatta,0.2879979192976713
@@ -516,7 +516,7 @@ date,name,mobility_score
 2020-05-08,Sydney - Inner South West,0.28669098095058215
 2020-05-08,Sydney - Inner West,0.1944367957935739
 2020-05-08,Sydney - North Sydney and Hornsby,0.14688263197932117
-2020-05-08,Sydney - Northern Beaches,0.16816330075079244
+2020-05-08,Sydney - Northern Beaches,0.16982652880660637
 2020-05-08,Sydney - Outer South West,0.34482450907293344
 2020-05-08,Sydney - Outer West and Blue Mountains,0.4158999150224703
 2020-05-08,Sydney - Parramatta,0.3529751608951071
@@ -621,7 +621,7 @@ date,name,mobility_score
 2020-05-15,Sydney - Inner South West,0.3226578010526847
 2020-05-15,Sydney - Inner West,0.2743373415360172
 2020-05-15,Sydney - North Sydney and Hornsby,0.17235202034427885
-2020-05-15,Sydney - Northern Beaches,0.2571328190641397
+2020-05-15,Sydney - Northern Beaches,0.2586181557151808
 2020-05-15,Sydney - Outer South West,0.446915059748481
 2020-05-15,Sydney - Outer West and Blue Mountains,0.436681729787487
 2020-05-15,Sydney - Parramatta,0.396063689569439
@@ -726,7 +726,7 @@ date,name,mobility_score
 2020-05-22,Sydney - Inner South West,0.3685483963499408
 2020-05-22,Sydney - Inner West,0.2910261139817918
 2020-05-22,Sydney - North Sydney and Hornsby,0.22491460198446672
-2020-05-22,Sydney - Northern Beaches,0.2899551208662254
+2020-05-22,Sydney - Northern Beaches,0.2913748304858277
 2020-05-22,Sydney - Outer South West,0.5944967438241414
 2020-05-22,Sydney - Outer West and Blue Mountains,0.5094743066550328
 2020-05-22,Sydney - Parramatta,0.4676296400860649
@@ -831,7 +831,7 @@ date,name,mobility_score
 2020-05-29,Sydney - Inner South West,0.491181467573631
 2020-05-29,Sydney - Inner West,0.3610074052431698
 2020-05-29,Sydney - North Sydney and Hornsby,0.34496910916125223
-2020-05-29,Sydney - Northern Beaches,0.4347371044009197
+2020-05-29,Sydney - Northern Beaches,0.4358673275657784
 2020-05-29,Sydney - Outer South West,0.6546576630243376
 2020-05-29,Sydney - Outer West and Blue Mountains,0.6477220546569465
 2020-05-29,Sydney - Parramatta,0.5447934527680163
@@ -936,7 +936,7 @@ date,name,mobility_score
 2020-06-05,Sydney - Inner South West,0.6458906085976462
 2020-06-05,Sydney - Inner West,0.5076054629465546
 2020-06-05,Sydney - North Sydney and Hornsby,0.43731279620499525
-2020-06-05,Sydney - Northern Beaches,0.6020847247059548
+2020-06-05,Sydney - Northern Beaches,0.6028803422235557
 2020-06-05,Sydney - Outer South West,0.7381564517494473
 2020-06-05,Sydney - Outer West and Blue Mountains,0.693159538619761
 2020-06-05,Sydney - Parramatta,0.6656973393276087
@@ -1041,7 +1041,7 @@ date,name,mobility_score
 2020-06-12,Sydney - Inner South West,0.5730266054602913
 2020-06-12,Sydney - Inner West,0.49492833834637656
 2020-06-12,Sydney - North Sydney and Hornsby,0.446172759831029
-2020-06-12,Sydney - Northern Beaches,0.4427431965327025
+2020-06-12,Sydney - Northern Beaches,0.44385741179954097
 2020-06-12,Sydney - Outer South West,0.6839194875563943
 2020-06-12,Sydney - Outer West and Blue Mountains,0.6922891397639819
 2020-06-12,Sydney - Parramatta,0.6568061377090807
@@ -1146,7 +1146,7 @@ date,name,mobility_score
 2020-06-19,Sydney - Inner South West,0.7131021499888427
 2020-06-19,Sydney - Inner West,0.6056482219241635
 2020-06-19,Sydney - North Sydney and Hornsby,0.6065211528340795
-2020-06-19,Sydney - Northern Beaches,0.768486218463454
+2020-06-19,Sydney - Northern Beaches,0.7689491220803618
 2020-06-19,Sydney - Outer South West,0.8743732127630085
 2020-06-19,Sydney - Outer West and Blue Mountains,0.7953410201587993
 2020-06-19,Sydney - Parramatta,0.7963970831283317
@@ -1251,7 +1251,7 @@ date,name,mobility_score
 2020-06-26,Sydney - Inner South West,0.761002473920311
 2020-06-26,Sydney - Inner West,0.6615720286722128
 2020-06-26,Sydney - North Sydney and Hornsby,0.6034361229259046
-2020-06-26,Sydney - Northern Beaches,0.7413345773412445
+2020-06-26,Sydney - Northern Beaches,0.7418517697041486
 2020-06-26,Sydney - Outer South West,0.848593710844059
 2020-06-26,Sydney - Outer West and Blue Mountains,0.8545580467097269
 2020-06-26,Sydney - Parramatta,0.8014263337183667
@@ -1356,7 +1356,7 @@ date,name,mobility_score
 2020-07-03,Sydney - Inner South West,0.7568853403203203
 2020-07-03,Sydney - Inner West,0.6747501711331629
 2020-07-03,Sydney - North Sydney and Hornsby,0.6725747185309741
-2020-07-03,Sydney - Northern Beaches,0.7256919142906025
+2020-07-03,Sydney - Northern Beaches,0.7262403836049527
 2020-07-03,Sydney - Outer South West,0.9562542733911104
 2020-07-03,Sydney - Outer West and Blue Mountains,0.8486352963572227
 2020-07-03,Sydney - Parramatta,0.8075478331629558
@@ -1461,7 +1461,7 @@ date,name,mobility_score
 2020-07-10,Sydney - Inner South West,0.7535587665102256
 2020-07-10,Sydney - Inner West,0.6590219493244063
 2020-07-10,Sydney - North Sydney and Hornsby,0.6185425378259679
-2020-07-10,Sydney - Northern Beaches,0.6480554914917335
+2020-07-10,Sydney - Northern Beaches,0.6487591920872577
 2020-07-10,Sydney - Outer South West,0.7388378842188273
 2020-07-10,Sydney - Outer West and Blue Mountains,0.8108296026240209
 2020-07-10,Sydney - Parramatta,0.7787764323912927
@@ -1566,7 +1566,7 @@ date,name,mobility_score
 2020-07-17,Sydney - Inner South West,0.720253294358557
 2020-07-17,Sydney - Inner West,0.6438902486854664
 2020-07-17,Sydney - North Sydney and Hornsby,0.5771810846923423
-2020-07-17,Sydney - Northern Beaches,0.6068989945116068
+2020-07-17,Sydney - Northern Beaches,0.6076849860670251
 2020-07-17,Sydney - Outer South West,0.5374496358741513
 2020-07-17,Sydney - Outer West and Blue Mountains,0.7545503951777573
 2020-07-17,Sydney - Parramatta,0.742292915496704
@@ -1671,7 +1671,7 @@ date,name,mobility_score
 2020-07-24,Sydney - Inner South West,0.7898779445112992
 2020-07-24,Sydney - Inner West,0.6632033246693659
 2020-07-24,Sydney - North Sydney and Hornsby,0.7039979186110297
-2020-07-24,Sydney - Northern Beaches,0.7903595606976787
+2020-07-24,Sydney - Northern Beaches,0.7907787293405091
 2020-07-24,Sydney - Outer South West,0.8869430444061371
 2020-07-24,Sydney - Outer West and Blue Mountains,0.850061482025835
 2020-07-24,Sydney - Parramatta,0.7993960197929654
@@ -1776,7 +1776,7 @@ date,name,mobility_score
 2020-07-31,Sydney - Inner South West,0.7709328310300824
 2020-07-31,Sydney - Inner West,0.6992835760567997
 2020-07-31,Sydney - North Sydney and Hornsby,0.6163391766276193
-2020-07-31,Sydney - Northern Beaches,0.7773889694065835
+2020-07-31,Sydney - Northern Beaches,0.7778340722878953
 2020-07-31,Sydney - Outer South West,0.8114743387903015
 2020-07-31,Sydney - Outer West and Blue Mountains,0.888973401532589
 2020-07-31,Sydney - Parramatta,0.7781738915652349
@@ -1881,7 +1881,7 @@ date,name,mobility_score
 2020-08-07,Sydney - Inner South West,0.6755408226993367
 2020-08-07,Sydney - Inner West,0.5758822632488472
 2020-08-07,Sydney - North Sydney and Hornsby,0.5707242037725482
-2020-08-07,Sydney - Northern Beaches,0.5686102731965598
+2020-08-07,Sydney - Northern Beaches,0.5694728216958709
 2020-08-07,Sydney - Outer South West,0.7483912422832711
 2020-08-07,Sydney - Outer West and Blue Mountains,0.7440230454927176
 2020-08-07,Sydney - Parramatta,0.6901663432855861
@@ -1986,7 +1986,7 @@ date,name,mobility_score
 2020-08-14,Sydney - Inner South West,0.7536780165209049
 2020-08-14,Sydney - Inner West,0.6311228630488454
 2020-08-14,Sydney - North Sydney and Hornsby,0.6150555134057131
-2020-08-14,Sydney - Northern Beaches,0.7157991538366616
+2020-08-14,Sydney - Northern Beaches,0.7163674033756054
 2020-08-14,Sydney - Outer South West,0.8500910176358947
 2020-08-14,Sydney - Outer West and Blue Mountains,0.8561638328782684
 2020-08-14,Sydney - Parramatta,0.7008180677683191
@@ -2091,7 +2091,7 @@ date,name,mobility_score
 2020-08-21,Sydney - Inner South West,0.771927623763582
 2020-08-21,Sydney - Inner West,0.6439682022244476
 2020-08-21,Sydney - North Sydney and Hornsby,0.6457024495602127
-2020-08-21,Sydney - Northern Beaches,0.6985399690819155
+2020-08-21,Sydney - Northern Beaches,0.699142727750272
 2020-08-21,Sydney - Outer South West,0.8340948461501876
 2020-08-21,Sydney - Outer West and Blue Mountains,0.8477617700194341
 2020-08-21,Sydney - Parramatta,0.7183822860566648
@@ -2196,7 +2196,7 @@ date,name,mobility_score
 2020-08-28,Sydney - Inner South West,0.7684242350938087
 2020-08-28,Sydney - Inner West,0.6721422676097352
 2020-08-28,Sydney - North Sydney and Hornsby,0.6443479527711745
-2020-08-28,Sydney - Northern Beaches,0.789755526872955
+2020-08-28,Sydney - Northern Beaches,0.7901759032600516
 2020-08-28,Sydney - Outer South West,0.8269958290584265
 2020-08-28,Sydney - Outer West and Blue Mountains,0.8296674531684299
 2020-08-28,Sydney - Parramatta,0.8195412711476715
@@ -2301,7 +2301,7 @@ date,name,mobility_score
 2020-09-04,Sydney - Inner South West,0.7493989979122134
 2020-09-04,Sydney - Inner West,0.7074402348384805
 2020-09-04,Sydney - North Sydney and Hornsby,0.6275388390081154
-2020-09-04,Sydney - Northern Beaches,0.7741432880741196
+2020-09-04,Sydney - Northern Beaches,0.7745948805804469
 2020-09-04,Sydney - Outer South West,0.890215597991073
 2020-09-04,Sydney - Outer West and Blue Mountains,0.7229648998764872
 2020-09-04,Sydney - Parramatta,0.7449725596492804
@@ -2406,7 +2406,7 @@ date,name,mobility_score
 2020-09-11,Sydney - Inner South West,0.8049209585504092
 2020-09-11,Sydney - Inner West,0.722457613258192
 2020-09-11,Sydney - North Sydney and Hornsby,0.7124940297736262
-2020-09-11,Sydney - Northern Beaches,0.8614479477099656
+2020-09-11,Sydney - Northern Beaches,0.8617249776375552
 2020-09-11,Sydney - Outer South West,0.8841313186848118
 2020-09-11,Sydney - Outer West and Blue Mountains,0.9726775569536873
 2020-09-11,Sydney - Parramatta,0.8232670088489915
@@ -2511,7 +2511,7 @@ date,name,mobility_score
 2020-09-18,Sydney - Inner South West,0.7889082404112183
 2020-09-18,Sydney - Inner West,0.7356646731250198
 2020-09-18,Sydney - North Sydney and Hornsby,0.6876768475548548
-2020-09-18,Sydney - Northern Beaches,0.8057940897522671
+2020-09-18,Sydney - Northern Beaches,0.8061823976002142
 2020-09-18,Sydney - Outer South West,0.9480454320287794
 2020-09-18,Sydney - Outer West and Blue Mountains,0.8625624608527338
 2020-09-18,Sydney - Parramatta,0.8315869344788915
@@ -2616,7 +2616,7 @@ date,name,mobility_score
 2020-09-25,Sydney - Inner South West,0.781263286793102
 2020-09-25,Sydney - Inner West,0.7347126893323601
 2020-09-25,Sydney - North Sydney and Hornsby,0.6913998739543323
-2020-09-25,Sydney - Northern Beaches,0.7645136228184303
+2020-09-25,Sydney - Northern Beaches,0.7649844694998088
 2020-09-25,Sydney - Outer South West,0.901000085510019
 2020-09-25,Sydney - Outer West and Blue Mountains,0.8980230688436217
 2020-09-25,Sydney - Parramatta,0.768675627507206
@@ -2721,7 +2721,7 @@ date,name,mobility_score
 2020-10-02,Sydney - Inner South West,0.812767868021235
 2020-10-02,Sydney - Inner West,0.6623509344011532
 2020-10-02,Sydney - North Sydney and Hornsby,0.7073502005656416
-2020-10-02,Sydney - Northern Beaches,0.6893292485610462
+2020-10-02,Sydney - Northern Beaches,0.6899504237392757
 2020-10-02,Sydney - Outer South West,0.7632523301415525
 2020-10-02,Sydney - Outer West and Blue Mountains,0.8117211256666484
 2020-10-02,Sydney - Parramatta,0.8180118541602396
@@ -2826,7 +2826,7 @@ date,name,mobility_score
 2020-10-09,Sydney - Inner South West,0.8048892702658065
 2020-10-09,Sydney - Inner West,0.7082683241280225
 2020-10-09,Sydney - North Sydney and Hornsby,0.7069035304626153
-2020-10-09,Sydney - Northern Beaches,0.7979762291256375
+2020-10-09,Sydney - Northern Beaches,0.7983801685093684
 2020-10-09,Sydney - Outer South West,0.755158847190682
 2020-10-09,Sydney - Outer West and Blue Mountains,0.7008593692990771
 2020-10-09,Sydney - Parramatta,0.7937757553294587
@@ -2931,7 +2931,7 @@ date,name,mobility_score
 2020-10-16,Sydney - Inner South West,0.8254073852373099
 2020-10-16,Sydney - Inner West,0.7593080561487441
 2020-10-16,Sydney - North Sydney and Hornsby,0.6851684799542058
-2020-10-16,Sydney - Northern Beaches,0.7880886297534561
+2020-10-16,Sydney - Northern Beaches,0.7885123390423804
 2020-10-16,Sydney - Outer South West,0.8418710531694775
 2020-10-16,Sydney - Outer West and Blue Mountains,0.8729311233627739
 2020-10-16,Sydney - Parramatta,0.8318131017269405
@@ -3036,7 +3036,7 @@ date,name,mobility_score
 2020-10-23,Sydney - Inner South West,0.8259770081078708
 2020-10-23,Sydney - Inner West,0.773618059824609
 2020-10-23,Sydney - North Sydney and Hornsby,0.7103950426420587
-2020-10-23,Sydney - Northern Beaches,0.750722269018819
+2020-10-23,Sydney - Northern Beaches,0.751220691024282
 2020-10-23,Sydney - Outer South West,0.8535696847148023
 2020-10-23,Sydney - Outer West and Blue Mountains,0.8471631948761312
 2020-10-23,Sydney - Parramatta,0.8369069149040609
@@ -3141,7 +3141,7 @@ date,name,mobility_score
 2020-10-30,Sydney - Inner South West,0.830433070891316
 2020-10-30,Sydney - Inner West,0.7849287514761597
 2020-10-30,Sydney - North Sydney and Hornsby,0.7660243369394487
-2020-10-30,Sydney - Northern Beaches,0.8272931431197573
+2020-10-30,Sydney - Northern Beaches,0.8276384643709764
 2020-10-30,Sydney - Outer South West,0.8928930027755728
 2020-10-30,Sydney - Outer West and Blue Mountains,0.8671644382505939
 2020-10-30,Sydney - Parramatta,0.856979911531977
@@ -3246,7 +3246,7 @@ date,name,mobility_score
 2020-11-06,Sydney - Inner South West,0.8364743316900346
 2020-11-06,Sydney - Inner West,0.7819357669506022
 2020-11-06,Sydney - North Sydney and Hornsby,0.7295527269130149
-2020-11-06,Sydney - Northern Beaches,0.7610196292158243
+2020-11-06,Sydney - Northern Beaches,0.7614974620138192
 2020-11-06,Sydney - Outer South West,0.9855859492395936
 2020-11-06,Sydney - Outer West and Blue Mountains,0.8200310681313874
 2020-11-06,Sydney - Parramatta,0.8949175432735831
@@ -3351,7 +3351,7 @@ date,name,mobility_score
 2020-11-13,Sydney - Inner South West,0.8515876561898806
 2020-11-13,Sydney - Inner West,0.821556456449505
 2020-11-13,Sydney - North Sydney and Hornsby,0.7394090231156745
-2020-11-13,Sydney - Northern Beaches,0.7546989069369708
+2020-11-13,Sydney - Northern Beaches,0.755189377795581
 2020-11-13,Sydney - Outer South West,0.8338516904512491
 2020-11-13,Sydney - Outer West and Blue Mountains,0.8694367888176872
 2020-11-13,Sydney - Parramatta,0.8784894699117943
@@ -3456,7 +3456,7 @@ date,name,mobility_score
 2020-11-20,Sydney - Inner South West,0.866772294974538
 2020-11-20,Sydney - Inner West,0.8081562184466754
 2020-11-20,Sydney - North Sydney and Hornsby,0.8045881813379698
-2020-11-20,Sydney - Northern Beaches,0.7609471689812457
+2020-11-20,Sydney - Northern Beaches,0.7614251466609165
 2020-11-20,Sydney - Outer South West,0.9059671697187875
 2020-11-20,Sydney - Outer West and Blue Mountains,0.7446051770804685
 2020-11-20,Sydney - Parramatta,0.8645126940982956
@@ -3561,7 +3561,7 @@ date,name,mobility_score
 2020-11-27,Sydney - Inner South West,0.9707946175758301
 2020-11-27,Sydney - Inner West,0.9607296491184641
 2020-11-27,Sydney - North Sydney and Hornsby,0.888163221947968
-2020-11-27,Sydney - Northern Beaches,0.9942892797302119
+2020-11-27,Sydney - Northern Beaches,0.9943006981133875
 2020-11-27,Sydney - Outer South West,0.9492405091151529
 2020-11-27,Sydney - Outer West and Blue Mountains,1.0118087723217044
 2020-11-27,Sydney - Parramatta,1.0347242308419555
@@ -3666,7 +3666,7 @@ date,name,mobility_score
 2020-12-04,Sydney - Inner South West,0.9493794504878044
 2020-12-04,Sydney - Inner West,0.9088618879388362
 2020-12-04,Sydney - North Sydney and Hornsby,0.9057387121761342
-2020-12-04,Sydney - Northern Beaches,1.0152314420146824
+2020-12-04,Sydney - Northern Beaches,1.0152009872851517
 2020-12-04,Sydney - Outer South West,0.9581695620341932
 2020-12-04,Sydney - Outer West and Blue Mountains,0.9400750272997657
 2020-12-04,Sydney - Parramatta,0.9543239658232179
@@ -3771,7 +3771,7 @@ date,name,mobility_score
 2020-12-11,Sydney - Inner South West,1.008910868512435
 2020-12-11,Sydney - Inner West,0.9865752647558481
 2020-12-11,Sydney - North Sydney and Hornsby,0.9294510611135968
-2020-12-11,Sydney - Northern Beaches,0.932167215173951
+2020-12-11,Sydney - Northern Beaches,0.9323028444277799
 2020-12-11,Sydney - Outer South West,1.0212319710194229
 2020-12-11,Sydney - Outer West and Blue Mountains,1.097779375598306
 2020-12-11,Sydney - Parramatta,1.0538286882603418
@@ -3876,7 +3876,7 @@ date,name,mobility_score
 2020-12-18,Sydney - Inner South West,0.8988801120052099
 2020-12-18,Sydney - Inner West,0.8589559579344545
 2020-12-18,Sydney - North Sydney and Hornsby,0.7481329398829251
-2020-12-18,Sydney - Northern Beaches,0.18342402205182015
+2020-12-18,Sydney - Northern Beaches,0.18505673683520604
 2020-12-18,Sydney - Outer South West,0.926347309312648
 2020-12-18,Sydney - Outer West and Blue Mountains,0.973194134009372
 2020-12-18,Sydney - Parramatta,0.9491712456054837
@@ -4191,7 +4191,7 @@ date,name,mobility_score
 2021-01-08,Sydney - Inner South West,0.5528235253186112
 2021-01-08,Sydney - Inner West,0.5179585976465391
 2021-01-08,Sydney - North Sydney and Hornsby,0.45689666867640477
-2021-01-08,Sydney - Northern Beaches,0.3602615012070049
+2021-01-08,Sydney - Northern Beaches,0.3615406357060444
 2021-01-08,Sydney - Outer South West,0.5079321006656863
 2021-01-08,Sydney - Outer West and Blue Mountains,0.5412262318070028
 2021-01-08,Sydney - Parramatta,0.5597882919955122
@@ -4296,7 +4296,7 @@ date,name,mobility_score
 2021-01-15,Sydney - Inner South West,0.7211276691189638
 2021-01-15,Sydney - Inner West,0.6682788920680133
 2021-01-15,Sydney - North Sydney and Hornsby,0.6229639620099173
-2021-01-15,Sydney - Northern Beaches,0.6583765661510796
+2021-01-15,Sydney - Northern Beaches,0.6590596301229071
 2021-01-15,Sydney - Outer South West,0.7060448297007365
 2021-01-15,Sydney - Outer West and Blue Mountains,0.6404037737376784
 2021-01-15,Sydney - Parramatta,0.713106235343611
@@ -4401,7 +4401,7 @@ date,name,mobility_score
 2021-01-22,Sydney - Inner South West,0.7530537969010839
 2021-01-22,Sydney - Inner West,0.7542649000180666
 2021-01-22,Sydney - North Sydney and Hornsby,0.7150751810694166
-2021-01-22,Sydney - Northern Beaches,0.7674175153397489
+2021-01-22,Sydney - Northern Beaches,0.7678825557907496
 2021-01-22,Sydney - Outer South West,0.6815489988700207
 2021-01-22,Sydney - Outer West and Blue Mountains,0.6246120446075177
 2021-01-22,Sydney - Parramatta,0.7622992228550423
@@ -4506,7 +4506,7 @@ date,name,mobility_score
 2021-01-29,Sydney - Inner South West,0.8004256162446942
 2021-01-29,Sydney - Inner West,0.7745561035891969
 2021-01-29,Sydney - North Sydney and Hornsby,0.7157672695711181
-2021-01-29,Sydney - Northern Beaches,0.7114445144262467
+2021-01-29,Sydney - Northern Beaches,0.7120214709126561
 2021-01-29,Sydney - Outer South West,0.8370946371363426
 2021-01-29,Sydney - Outer West and Blue Mountains,0.7914843161070896
 2021-01-29,Sydney - Parramatta,0.8319072924624817
@@ -4611,7 +4611,7 @@ date,name,mobility_score
 2021-02-05,Sydney - Inner South West,0.9021642929813939
 2021-02-05,Sydney - Inner West,0.843170874514672
 2021-02-05,Sydney - North Sydney and Hornsby,0.8694625505374736
-2021-02-05,Sydney - Northern Beaches,0.8326899530456807
+2021-02-05,Sydney - Northern Beaches,0.8330244835663528
 2021-02-05,Sydney - Outer South West,0.7794128762190283
 2021-02-05,Sydney - Outer West and Blue Mountains,0.9396198757499215
 2021-02-05,Sydney - Parramatta,0.8697131532719549
@@ -4716,7 +4716,7 @@ date,name,mobility_score
 2021-02-12,Sydney - Inner South West,0.8642006997457509
 2021-02-12,Sydney - Inner West,0.8352115112201244
 2021-02-12,Sydney - North Sydney and Hornsby,0.8834206669212755
-2021-02-12,Sydney - Northern Beaches,0.879121249827436
+2021-02-12,Sydney - Northern Beaches,0.8793629426125947
 2021-02-12,Sydney - Outer South West,0.9207630844769985
 2021-02-12,Sydney - Outer West and Blue Mountains,0.855075771667739
 2021-02-12,Sydney - Parramatta,0.8790326790182675
@@ -4821,7 +4821,7 @@ date,name,mobility_score
 2021-02-19,Sydney - Inner South West,0.8821128768065316
 2021-02-19,Sydney - Inner West,0.878864332180028
 2021-02-19,Sydney - North Sydney and Hornsby,0.8799386472910712
-2021-02-19,Sydney - Northern Beaches,0.8373197017506542
+2021-02-19,Sydney - Northern Beaches,0.8376449752525575
 2021-02-19,Sydney - Outer South West,0.8527227401968013
 2021-02-19,Sydney - Outer West and Blue Mountains,0.8798462579526085
 2021-02-19,Sydney - Parramatta,0.9178655574215285
@@ -4926,7 +4926,7 @@ date,name,mobility_score
 2021-02-26,Sydney - Inner South West,0.942805928886968
 2021-02-26,Sydney - Inner West,0.9513739917152921
 2021-02-26,Sydney - North Sydney and Hornsby,0.9190998151229246
-2021-02-26,Sydney - Northern Beaches,0.9218299725833802
+2021-02-26,Sydney - Northern Beaches,0.9219862707881125
 2021-02-26,Sydney - Outer South West,0.9540254985402417
 2021-02-26,Sydney - Outer West and Blue Mountains,0.8057388564488364
 2021-02-26,Sydney - Parramatta,0.9244917432479902
@@ -5031,7 +5031,7 @@ date,name,mobility_score
 2021-03-05,Sydney - Inner South West,0.9330184790337431
 2021-03-05,Sydney - Inner West,0.9708696045054507
 2021-03-05,Sydney - North Sydney and Hornsby,0.9124556841644583
-2021-03-05,Sydney - Northern Beaches,0.8688864076675203
+2021-03-05,Sydney - Northern Beaches,0.8691485646575435
 2021-03-05,Sydney - Outer South West,0.9878531990824042
 2021-03-05,Sydney - Outer West and Blue Mountains,0.9594010683515434
 2021-03-05,Sydney - Parramatta,0.9651819071811655
@@ -5136,7 +5136,7 @@ date,name,mobility_score
 2021-03-12,Sydney - Inner South West,0.9566912705656992
 2021-03-12,Sydney - Inner West,0.9218364361060754
 2021-03-12,Sydney - North Sydney and Hornsby,0.9247417817422794
-2021-03-12,Sydney - Northern Beaches,0.947984752571106
+2021-03-12,Sydney - Northern Beaches,0.9480887552184188
 2021-03-12,Sydney - Outer South West,0.9152098472491919
 2021-03-12,Sydney - Outer West and Blue Mountains,0.9438153210636505
 2021-03-12,Sydney - Parramatta,0.9014605580353996
@@ -5241,7 +5241,7 @@ date,name,mobility_score
 2021-03-19,Sydney - Inner South West,0.907363992344655
 2021-03-19,Sydney - Inner West,0.8557502440354114
 2021-03-19,Sydney - North Sydney and Hornsby,0.9235553279671124
-2021-03-19,Sydney - Northern Beaches,0.9066751059683142
+2021-03-19,Sydney - Northern Beaches,0.9068617057927744
 2021-03-19,Sydney - Outer South West,0.9327984891068732
 2021-03-19,Sydney - Outer West and Blue Mountains,0.9116846995134129
 2021-03-19,Sydney - Parramatta,0.8861004359885581
@@ -5346,7 +5346,7 @@ date,name,mobility_score
 2021-03-26,Sydney - Inner South West,1.0033731429215202
 2021-03-26,Sydney - Inner West,1.0143898981861144
 2021-03-26,Sydney - North Sydney and Hornsby,0.9804000149117225
-2021-03-26,Sydney - Northern Beaches,0.9728117191743972
+2021-03-26,Sydney - Northern Beaches,0.9728660811801843
 2021-03-26,Sydney - Outer South West,1.0791564655591037
 2021-03-26,Sydney - Outer West and Blue Mountains,1.0114511613241137
 2021-03-26,Sydney - Parramatta,0.9773786366214683
@@ -5556,7 +5556,7 @@ date,name,mobility_score
 2021-04-09,Sydney - Inner South West,0.8298894226262349
 2021-04-09,Sydney - Inner West,0.8402099519232585
 2021-04-09,Sydney - North Sydney and Hornsby,0.901880068677983
-2021-04-09,Sydney - Northern Beaches,0.8107764223811128
+2021-04-09,Sydney - Northern Beaches,0.8111547682312072
 2021-04-09,Sydney - Outer South West,0.8220625573906953
 2021-04-09,Sydney - Outer West and Blue Mountains,0.892265836058411
 2021-04-09,Sydney - Parramatta,0.8829624516584204
@@ -5661,7 +5661,7 @@ date,name,mobility_score
 2021-04-16,Sydney - Inner South West,0.9050828761737224
 2021-04-16,Sydney - Inner West,0.9577387340908585
 2021-04-16,Sydney - North Sydney and Hornsby,0.9938282350731794
-2021-04-16,Sydney - Northern Beaches,0.8583467956951398
+2021-04-16,Sydney - Northern Beaches,0.8586300262664869
 2021-04-16,Sydney - Outer South West,0.8935489354456996
 2021-04-16,Sydney - Outer West and Blue Mountains,0.8934468909381819
 2021-04-16,Sydney - Parramatta,0.9312006568986875
@@ -5766,7 +5766,7 @@ date,name,mobility_score
 2021-04-23,Sydney - Inner South West,1.0204611768498362
 2021-04-23,Sydney - Inner West,1.0020107145935144
 2021-04-23,Sydney - North Sydney and Hornsby,1.0384931475026524
-2021-04-23,Sydney - Northern Beaches,1.0057107202697881
+2021-04-23,Sydney - Northern Beaches,1.0056993018866125
 2021-04-23,Sydney - Outer South West,0.9810855097338168
 2021-04-23,Sydney - Outer West and Blue Mountains,1.0907264074291219
 2021-04-23,Sydney - Parramatta,0.9830573505592557
@@ -5871,7 +5871,7 @@ date,name,mobility_score
 2021-04-30,Sydney - Inner South West,1.0288865191940975
 2021-04-30,Sydney - Inner West,1.0529828034268922
 2021-04-30,Sydney - North Sydney and Hornsby,1.1138686280785564
-2021-04-30,Sydney - Northern Beaches,1.0865932326672607
+2021-04-30,Sydney - Northern Beaches,1.0864200925615817
 2021-04-30,Sydney - Outer South West,0.9486905328160752
 2021-04-30,Sydney - Outer West and Blue Mountains,1.0631367991008143
 2021-04-30,Sydney - Parramatta,1.014201449805673
@@ -5976,7 +5976,7 @@ date,name,mobility_score
 2021-05-07,Sydney - Inner South West,0.9255449440240993
 2021-05-07,Sydney - Inner West,0.9168808372562989
 2021-05-07,Sydney - North Sydney and Hornsby,0.9144989404489061
-2021-05-07,Sydney - Northern Beaches,0.8903085001166167
+2021-05-07,Sydney - Northern Beaches,0.8905278243905457
 2021-05-07,Sydney - Outer South West,0.9226074526156841
 2021-05-07,Sydney - Outer West and Blue Mountains,0.9476545117277371
 2021-05-07,Sydney - Parramatta,0.917657533323788
@@ -6081,7 +6081,7 @@ date,name,mobility_score
 2021-05-14,Sydney - Inner South West,0.9788499612846743
 2021-05-14,Sydney - Inner West,0.9586854838783976
 2021-05-14,Sydney - North Sydney and Hornsby,1.0229186437731415
-2021-05-14,Sydney - Northern Beaches,1.0206195548967483
+2021-05-14,Sydney - Northern Beaches,1.0205783268261022
 2021-05-14,Sydney - Outer South West,1.0492707840596234
 2021-05-14,Sydney - Outer West and Blue Mountains,0.9795248855911669
 2021-05-14,Sydney - Parramatta,0.9563733523677693
@@ -6186,7 +6186,7 @@ date,name,mobility_score
 2021-05-21,Sydney - Inner South West,1.0420945835531057
 2021-05-21,Sydney - Inner West,1.022439661402968
 2021-05-21,Sydney - North Sydney and Hornsby,1.0001924579718027
-2021-05-21,Sydney - Northern Beaches,1.022915177888884
+2021-05-21,Sydney - Northern Beaches,1.0228693598012677
 2021-05-21,Sydney - Outer South West,1.061612507958272
 2021-05-21,Sydney - Outer West and Blue Mountains,0.9543972111783893
 2021-05-21,Sydney - Parramatta,1.0018834659191511
@@ -6291,7 +6291,7 @@ date,name,mobility_score
 2021-05-28,Sydney - Inner South West,1.0068285099118626
 2021-05-28,Sydney - Inner West,1.0304152966351328
 2021-05-28,Sydney - North Sydney and Hornsby,1.031588703630419
-2021-05-28,Sydney - Northern Beaches,1.0300463706851626
+2021-05-28,Sydney - Northern Beaches,1.0299862940297997
 2021-05-28,Sydney - Outer South West,1.0121468009175956
 2021-05-28,Sydney - Outer West and Blue Mountains,0.9885488386758863
 2021-05-28,Sydney - Parramatta,1.032678199291245
@@ -6396,7 +6396,7 @@ date,name,mobility_score
 2021-06-04,Sydney - Inner South West,0.986223022458176
 2021-06-04,Sydney - Inner West,1.0413580284642006
 2021-06-04,Sydney - North Sydney and Hornsby,1.000900190021498
-2021-06-04,Sydney - Northern Beaches,0.9835323064179136
+2021-06-04,Sydney - Northern Beaches,0.9835652329887236
 2021-06-04,Sydney - Outer South West,0.9700785746915099
 2021-06-04,Sydney - Outer West and Blue Mountains,0.9077077787875569
 2021-06-04,Sydney - Parramatta,0.9981165340808488
@@ -6501,7 +6501,7 @@ date,name,mobility_score
 2021-06-11,Sydney - Inner South West,0.9789543945610103
 2021-06-11,Sydney - Inner West,0.9868510845692712
 2021-06-11,Sydney - North Sydney and Hornsby,0.969220994307586
-2021-06-11,Sydney - Northern Beaches,0.9405439895209372
+2021-06-11,Sydney - Northern Beaches,0.9406628697107687
 2021-06-11,Sydney - Outer South West,1.0130067199771517
 2021-06-11,Sydney - Outer West and Blue Mountains,0.9773228032311128
 2021-06-11,Sydney - Parramatta,0.9936355410183713
@@ -6606,7 +6606,7 @@ date,name,mobility_score
 2021-06-18,Sydney - Inner South West,0.9966268570784798
 2021-06-18,Sydney - Inner West,0.9979892854064859
 2021-06-18,Sydney - North Sydney and Hornsby,0.9998075420281973
-2021-06-18,Sydney - Northern Beaches,0.9012219757253479
+2021-06-18,Sydney - Northern Beaches,0.9014194788908367
 2021-06-18,Sydney - Outer South West,0.9792909524691549
 2021-06-18,Sydney - Outer West and Blue Mountains,1.0894066875430817
 2021-06-18,Sydney - Parramatta,1.014656894866348
@@ -6711,7 +6711,7 @@ date,name,mobility_score
 2021-06-25,Sydney - Inner South West,0.7131105018657745
 2021-06-25,Sydney - Inner West,0.597607787608701
 2021-06-25,Sydney - North Sydney and Hornsby,0.5380466735878081
-2021-06-25,Sydney - Northern Beaches,0.6469185951391032
+2021-06-25,Sydney - Northern Beaches,0.6476245689186694
 2021-06-25,Sydney - Outer South West,0.687568899396414
 2021-06-25,Sydney - Outer West and Blue Mountains,0.7931168386865162
 2021-06-25,Sydney - Parramatta,0.7550464963579571
@@ -6816,7 +6816,7 @@ date,name,mobility_score
 2021-07-02,Sydney - Inner South West,0.21150589626539074
 2021-07-02,Sydney - Inner West,0.12417232904516813
 2021-07-02,Sydney - North Sydney and Hornsby,0.06391448661263817
-2021-07-02,Sydney - Northern Beaches,0.09337366053770575
+2021-07-02,Sydney - Northern Beaches,0.095186427833612
 2021-07-02,Sydney - Outer South West,0.142859860284648
 2021-07-02,Sydney - Outer West and Blue Mountains,0.20226704489686737
 2021-07-02,Sydney - Parramatta,0.2217421955962838
@@ -6921,7 +6921,7 @@ date,name,mobility_score
 2021-07-09,Sydney - Inner South West,0.0840335973592646
 2021-07-09,Sydney - Inner West,0.06530933975128439
 2021-07-09,Sydney - North Sydney and Hornsby,0.039779874212054867
-2021-07-09,Sydney - Northern Beaches,0.052486088286102475
+2021-07-09,Sydney - Northern Beaches,0.05438060883642076
 2021-07-09,Sydney - Outer South West,0.0776154059696088
 2021-07-09,Sydney - Outer West and Blue Mountains,0.17120680552509684
 2021-07-09,Sydney - Parramatta,0.14758136427048096
@@ -7026,7 +7026,7 @@ date,name,mobility_score
 2021-07-16,Sydney - Inner South West,0.09001952687705025
 2021-07-16,Sydney - Inner West,0.0693989218925126
 2021-07-16,Sydney - North Sydney and Hornsby,0.01689045973697265
-2021-07-16,Sydney - Northern Beaches,0.016870070869232433
+2021-07-16,Sydney - Northern Beaches,0.018835804386539992
 2021-07-16,Sydney - Outer South West,0.01497291882501692
 2021-07-16,Sydney - Outer West and Blue Mountains,0.0416400398476479
 2021-07-16,Sydney - Parramatta,0.1326246685305474
@@ -7131,7 +7131,7 @@ date,name,mobility_score
 2021-07-23,Sydney - Inner South West,-0.06632130380070357
 2021-07-23,Sydney - Inner West,-0.07690833447122693
 2021-07-23,Sydney - North Sydney and Hornsby,-0.05299746953371663
-2021-07-23,Sydney - Northern Beaches,-0.1563344827450335
+2021-07-23,Sydney - Northern Beaches,-0.1540224328494921
 2021-07-23,Sydney - Outer South West,-0.08777785152858948
 2021-07-23,Sydney - Outer West and Blue Mountains,-0.014081023597386997
 2021-07-23,Sydney - Parramatta,0.0046850339697024805
@@ -7236,7 +7236,7 @@ date,name,mobility_score
 2021-07-30,Sydney - Inner South West,-0.03988830778700352
 2021-07-30,Sydney - Inner West,-0.032717575090474474
 2021-07-30,Sydney - North Sydney and Hornsby,-0.04047920805485291
-2021-07-30,Sydney - Northern Beaches,-0.12450170845483172
+2021-07-30,Sydney - Northern Beaches,-0.12225330706547144
 2021-07-30,Sydney - Outer South West,0.0038297484908610224
 2021-07-30,Sydney - Outer West and Blue Mountains,-0.04370124432712093
 2021-07-30,Sydney - Parramatta,-0.032425489629508086
@@ -7341,7 +7341,7 @@ date,name,mobility_score
 2021-08-06,Sydney - Inner South West,0.0007819845569286735
 2021-08-06,Sydney - Inner West,-0.001023456157872242
 2021-08-06,Sydney - North Sydney and Hornsby,-0.020178318749851022
-2021-08-06,Sydney - Northern Beaches,0.019483374292093025
+2021-08-06,Sydney - Northern Beaches,0.021443882601646255
 2021-08-06,Sydney - Outer South West,-0.0038297484908610224
 2021-08-06,Sydney - Outer West and Blue Mountains,0.028326739442903242
 2021-08-06,Sydney - Parramatta,-0.015760134384770308
@@ -7446,7 +7446,7 @@ date,name,mobility_score
 2021-08-13,Sydney - Inner South West,-0.04412337390653333
 2021-08-13,Sydney - Inner West,-0.013794823457248178
 2021-08-13,Sydney - North Sydney and Hornsby,-0.020270647187958023
-2021-08-13,Sydney - Northern Beaches,0.0008271064207763703
+2021-08-13,Sydney - Northern Beaches,0.002824917278015172
 2021-08-13,Sydney - Outer South West,-0.027791209945763017
 2021-08-13,Sydney - Outer West and Blue Mountains,-0.024042461188387612
 2021-08-13,Sydney - Parramatta,-0.019444327850147502
@@ -7551,7 +7551,7 @@ date,name,mobility_score
 2021-08-20,Sydney - Inner South West,-0.031137899556208635
 2021-08-20,Sydney - Inner West,-0.01265579096461703
 2021-08-20,Sydney - North Sydney and Hornsby,-0.021883138456902523
-2021-08-20,Sydney - Northern Beaches,-0.003179834570539776
+2021-08-20,Sydney - Northern Beaches,-0.0011740119765252792
 2021-08-20,Sydney - Outer South West,-0.02971673810316931
 2021-08-20,Sydney - Outer West and Blue Mountains,-0.013035418482305782
 2021-08-20,Sydney - Parramatta,-0.004685033969702524
@@ -7656,7 +7656,7 @@ date,name,mobility_score
 2021-08-27,Sydney - Inner South West,-0.013413632615291217
 2021-08-27,Sydney - Inner West,-0.0354488480850769
 2021-08-27,Sydney - North Sydney and Hornsby,0.008802720093352952
-2021-08-27,Sydney - Northern Beaches,-0.06141565314020771
+2021-08-27,Sydney - Northern Beaches,-0.05929339008692304
 2021-08-27,Sydney - Outer South West,-0.08583649413364318
 2021-08-27,Sydney - Outer West and Blue Mountains,-0.02111627988016005
 2021-08-27,Sydney - Parramatta,-0.0406043793767497
@@ -7761,7 +7761,7 @@ date,name,mobility_score
 2021-09-03,Sydney - Inner South West,-0.0007819845569287533
 2021-09-03,Sydney - Inner West,0.004380176203770204
 2021-09-03,Sydney - North Sydney and Hornsby,0.03446985330064642
-2021-09-03,Sydney - Northern Beaches,-0.0008271064207762764
+2021-09-03,Sydney - Northern Beaches,0.0011740119765251856
 2021-09-03,Sydney - Outer South West,-0.0278344683996126
 2021-09-03,Sydney - Outer West and Blue Mountains,-0.008081633324560822
 2021-09-03,Sydney - Parramatta,0.012656162488019712
@@ -7866,7 +7866,7 @@ date,name,mobility_score
 2021-09-10,Sydney - Inner South West,0.007316491333413652
 2021-09-10,Sydney - Inner West,0.0268007987214662
 2021-09-10,Sydney - North Sydney and Hornsby,-0.008802720093352952
-2021-09-10,Sydney - Northern Beaches,0.010372783424202872
+2021-09-10,Sydney - Northern Beaches,0.012351508037929977
 2021-09-10,Sydney - Outer South West,0.038734112687108815
 2021-09-10,Sydney - Outer West and Blue Mountains,0.008081633324560822
 2021-09-10,Sydney - Parramatta,-0.012539418737092795
@@ -7971,7 +7971,7 @@ date,name,mobility_score
 2021-09-17,Sydney - Inner South West,0.03711749487682069
 2021-09-17,Sydney - Inner West,0.008067498677855616
 2021-09-17,Sydney - North Sydney and Hornsby,0.031918158848266015
-2021-09-17,Sydney - Northern Beaches,0.002417215681111481
+2021-09-17,Sydney - Northern Beaches,0.004411847171130748
 2021-09-17,Sydney - Outer South West,0.024532654457197364
 2021-09-17,Sydney - Outer West and Blue Mountains,0.032854745890374314
 2021-09-17,Sydney - Parramatta,0.06063851614972017
@@ -8076,7 +8076,7 @@ date,name,mobility_score
 2021-09-24,Sydney - Inner South West,0.040152651918822085
 2021-09-24,Sydney - Inner West,0.001023456157872184
 2021-09-24,Sydney - North Sydney and Hornsby,0.053751459250591285
-2021-09-24,Sydney - Northern Beaches,0.0765027135064848
+2021-09-24,Sydney - Northern Beaches,0.07834921366420854
 2021-09-24,Sydney - Outer South West,0.07086727600565546
 2021-09-24,Sydney - Outer West and Blue Mountains,0.06917910200915589
 2021-09-24,Sydney - Parramatta,0.0720343424026096
@@ -8181,7 +8181,7 @@ date,name,mobility_score
 2021-10-01,Sydney - Inner South West,0.07498812650474428
 2021-10-01,Sydney - Inner West,0.049330759061025985
 2021-10-01,Sydney - North Sydney and Hornsby,0.026069244397443514
-2021-10-01,Sydney - Northern Beaches,0.039851133609723165
+2021-10-01,Sydney - Northern Beaches,0.04177091730498404
 2021-10-01,Sydney - Outer South West,0.03288505072836137
 2021-10-01,Sydney - Outer West and Blue Mountains,0.03973869834840675
 2021-10-01,Sydney - Parramatta,0.05724960558566451
@@ -8286,7 +8286,7 @@ date,name,mobility_score
 2021-10-08,Sydney - Inner South West,0.1053265736994685
 2021-10-08,Sydney - Inner West,0.13175450206402736
 2021-10-08,Sydney - North Sydney and Hornsby,0.0801817540415723
-2021-10-08,Sydney - Northern Beaches,0.0920188695035107
+2021-10-08,Sydney - Northern Beaches,0.09383434565616718
 2021-10-08,Sydney - Outer South West,0.15448640591270682
 2021-10-08,Sydney - Outer West and Blue Mountains,0.037759132902699145
 2021-10-08,Sydney - Parramatta,0.13193285515606892
@@ -8391,7 +8391,7 @@ date,name,mobility_score
 2021-10-15,Sydney - Inner South West,0.4066207382335717
 2021-10-15,Sydney - Inner West,0.4060679032038331
 2021-10-15,Sydney - North Sydney and Hornsby,0.3787609062595881
-2021-10-15,Sydney - Northern Beaches,0.4508242889999653
+2021-10-15,Sydney - Northern Beaches,0.4519223464082658
 2021-10-15,Sydney - Outer South West,0.5038520735241181
 2021-10-15,Sydney - Outer West and Blue Mountains,0.5696857594937961
 2021-10-15,Sydney - Parramatta,0.4183965653373653
@@ -8496,7 +8496,7 @@ date,name,mobility_score
 2021-10-22,Sydney - Inner South West,0.5028353111775206
 2021-10-22,Sydney - Inner West,0.5376754756713934
 2021-10-22,Sydney - North Sydney and Hornsby,0.4464362675534182
-2021-10-22,Sydney - Northern Beaches,0.5760200850510422
+2021-10-22,Sydney - Northern Beaches,0.5768678178936556
 2021-10-22,Sydney - Outer South West,0.4725155802707879
 2021-10-22,Sydney - Outer West and Blue Mountains,0.5981154833467474
 2021-10-22,Sydney - Parramatta,0.4830209369038146
@@ -8601,7 +8601,7 @@ date,name,mobility_score
 2021-10-29,Sydney - Inner South West,0.5781570332010112
 2021-10-29,Sydney - Inner West,0.5672206920893061
 2021-10-29,Sydney - North Sydney and Hornsby,0.546150389302727
-2021-10-29,Sydney - Northern Beaches,0.5767336876673298
+2021-10-29,Sydney - Northern Beaches,0.5775799936867541
 2021-10-29,Sydney - Outer South West,0.5216753294270433
 2021-10-29,Sydney - Outer West and Blue Mountains,0.5355996354626039
 2021-10-29,Sydney - Parramatta,0.530089481175785
@@ -8706,7 +8706,7 @@ date,name,mobility_score
 2021-11-05,Sydney - Inner South West,0.579361136118576
 2021-11-05,Sydney - Inner West,0.5678744513230349
 2021-11-05,Sydney - North Sydney and Hornsby,0.5582361716228527
-2021-11-05,Sydney - Northern Beaches,0.5942139546351978
+2021-11-05,Sydney - Northern Beaches,0.5950253094791446
 2021-11-05,Sydney - Outer South West,0.4700773716628446
 2021-11-05,Sydney - Outer West and Blue Mountains,0.5883928671427554
 2021-11-05,Sydney - Parramatta,0.558388997357657
@@ -8811,7 +8811,7 @@ date,name,mobility_score
 2021-11-12,Sydney - Inner South West,0.6116903952219314
 2021-11-12,Sydney - Inner West,0.6474021148993555
 2021-11-12,Sydney - North Sydney and Hornsby,0.5561352761269329
-2021-11-12,Sydney - Northern Beaches,0.6537976403908047
+2021-11-12,Sydney - Northern Beaches,0.6544898597627207
 2021-11-12,Sydney - Outer South West,0.5173014848605507
 2021-11-12,Sydney - Outer West and Blue Mountains,0.7053382562559393
 2021-11-12,Sydney - Parramatta,0.5786971040035132
@@ -8916,7 +8916,7 @@ date,name,mobility_score
 2021-11-19,Sydney - Inner South West,0.5890773729242929
 2021-11-19,Sydney - Inner West,0.704185872068209
 2021-11-19,Sydney - North Sydney and Hornsby,0.6741998196105248
-2021-11-19,Sydney - Northern Beaches,0.6791663675958851
+2021-11-19,Sydney - Northern Beaches,0.6798078630951156
 2021-11-19,Sydney - Outer South West,0.5293851953897433
 2021-11-19,Sydney - Outer West and Blue Mountains,0.7131351879724411
 2021-11-19,Sydney - Parramatta,0.6330108395447265
@@ -9021,7 +9021,7 @@ date,name,mobility_score
 2021-11-26,Sydney - Inner South West,0.639851936482395
 2021-11-26,Sydney - Inner West,0.6697996522095879
 2021-11-26,Sydney - North Sydney and Hornsby,0.6226937610515173
-2021-11-26,Sydney - Northern Beaches,0.67055349031385
+2021-11-26,Sydney - Northern Beaches,0.671212206956545
 2021-11-26,Sydney - Outer South West,0.6763103804530924
 2021-11-26,Sydney - Outer West and Blue Mountains,0.6667251313239243
 2021-11-26,Sydney - Parramatta,0.6330729737086588
@@ -9126,7 +9126,7 @@ date,name,mobility_score
 2021-12-03,Sydney - Inner South West,0.6314519924439411
 2021-12-03,Sydney - Inner West,0.630849507349046
 2021-12-03,Sydney - North Sydney and Hornsby,0.6066626010059258
-2021-12-03,Sydney - Northern Beaches,0.5987971957917311
+2021-12-03,Sydney - Northern Beaches,0.5995993866071071
 2021-12-03,Sydney - Outer South West,0.5709229694919301
 2021-12-03,Sydney - Outer West and Blue Mountains,0.5687328807311193
 2021-12-03,Sydney - Parramatta,0.5142013763161543
@@ -9231,7 +9231,7 @@ date,name,mobility_score
 2021-12-10,Sydney - Inner South West,0.6704138723691011
 2021-12-10,Sydney - Inner West,0.7673576624257998
 2021-12-10,Sydney - North Sydney and Hornsby,0.7246913827333051
-2021-12-10,Sydney - Northern Beaches,0.7964682704458577
+2021-12-10,Sydney - Northern Beaches,0.7968752249396284
 2021-12-10,Sydney - Outer South West,0.6212688328726685
 2021-12-10,Sydney - Outer West and Blue Mountains,0.7708766579241166
 2021-12-10,Sydney - Parramatta,0.673995130781772
@@ -9336,7 +9336,7 @@ date,name,mobility_score
 2021-12-17,Sydney - Inner South West,0.7137453145505344
 2021-12-17,Sydney - Inner West,0.7277497303330138
 2021-12-17,Sydney - North Sydney and Hornsby,0.6616548845863689
-2021-12-17,Sydney - Northern Beaches,0.6531389592029331
+2021-12-17,Sydney - Northern Beaches,0.6538324955845849
 2021-12-17,Sydney - Outer South West,0.7032984248352299
 2021-12-17,Sydney - Outer West and Blue Mountains,0.858024219994731
 2021-12-17,Sydney - Parramatta,0.7088613748864852
@@ -9441,7 +9441,7 @@ date,name,mobility_score
 2021-12-24,Sydney - Inner South West,0.40972265757795545
 2021-12-24,Sydney - Inner West,0.31782103622718344
 2021-12-24,Sydney - North Sydney and Hornsby,0.1636634486139784
-2021-12-24,Sydney - Northern Beaches,0.18830223678941618
+2021-12-24,Sydney - Northern Beaches,0.18992519775499003
 2021-12-24,Sydney - Outer South West,0.5075270419395778
 2021-12-24,Sydney - Outer West and Blue Mountains,0.41066262060428005
 2021-12-24,Sydney - Parramatta,0.460476838947517
@@ -9539,3 +9539,18 @@ date,name,mobility_score
 2021-12-30,Sydney - South West,0.28863626280122606
 2021-12-30,Sydney - Sutherland,-0.013354465707564272
 2021-12-30,all,0.15046549983989416
+2021-12-31,Sydney - Baulkham Hills and Hawkesbury,0.09097944214326487
+2021-12-31,Sydney - Blacktown,0.2464436947592153
+2021-12-31,Sydney - City and Inner South,0.2161894350527061
+2021-12-31,Sydney - Eastern Suburbs,0.24526162998215037
+2021-12-31,Sydney - Inner South West,0.2337626855340023
+2021-12-31,Sydney - Inner West,0.25072662525177425
+2021-12-31,Sydney - North Sydney and Hornsby,0.1520506876781716
+2021-12-31,Sydney - Northern Beaches,-0.039212495832498286
+2021-12-31,Sydney - Outer South West,0.11140789285649334
+2021-12-31,Sydney - Outer West and Blue Mountains,0.2042934741008165
+2021-12-31,Sydney - Parramatta,0.31947121752612023
+2021-12-31,Sydney - Ryde,0.0456080635404834
+2021-12-31,Sydney - South West,0.30219628613361843
+2021-12-31,Sydney - Sutherland,0.029033747887529614
+2021-12-31,all,0.18494367555660823
