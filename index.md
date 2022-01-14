@@ -6,6 +6,14 @@ This daily-updated portal aggregates mobility and case data from various sources
 
 NOTE: This portal was recently reconstructed. Links will be readded in the coming days and should be stable for the remainder of the COVID-19 crisis.
 
+[![dashboard_mel.png](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel.png)](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel.csv)
+
+[![dashboard_mel_lga.png](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel_lga.png)](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel_lga.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel_lga.csv)
+
 [![mel_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.png)
 
 [Data](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.csv)
