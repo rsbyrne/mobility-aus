@@ -26,11 +26,11 @@ This daily-updated portal aggregates mobility and case data from various sources
 
 This data explorer gives a small interactive preview of the millions of data points provided through this portal. The full data may be accessed using the permalink below, and many more channels can be added upon request.
 
-[Data](https://vicriskportal.org/products/dashboard_mel_lga.csv)
+[Data](https://rsbyrne.github.io/mobility-aus/products/dashboard_mel_lga.csv)
 
 <iframe id="dashboard_mel"
     title="Melbourne Interactive Dashboard"
     width="800"
     height="1500"
-    src="https://vicriskportal.org/products/dashboard_mel.html">
+    src="https://rsbyrne.github.io/mobility-aus/products/dashboard_mel.html">
 </iframe>
