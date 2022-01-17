@@ -57,6 +57,6 @@ and should be stable for the remainder of the COVID-19 crisis.
 )
 
 
-with open('index.md', mode='w') as file:
-    file.write(text)
+#with open('index.md', mode='w') as file:
+#    file.write(text)
 
