@@ -9,6 +9,10 @@ This daily-updated portal aggregates mobility and case data from various sources
 
 [Data](https://rsbyrne.github.io/mobility-aus/products/mel_simple_lga_facebook_mobility_score.csv)
 
+[![mel_smooth_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/mel_smooth_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/mel_smooth_simple_lga_facebook_mobility_score.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/mel_smooth_simple_lga_facebook_mobility_score.csv)
+
 [![mel_sixtydays_sa4.png](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.png)](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.png)
 
 [Data](https://rsbyrne.github.io/mobility-aus/products/mel_sixtydays_sa4.csv)
@@ -16,6 +20,10 @@ This daily-updated portal aggregates mobility and case data from various sources
 [![syd_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.png)
 
 [Data](https://rsbyrne.github.io/mobility-aus/products/syd_simple_lga_facebook_mobility_score.csv)
+
+[![syd_smooth_simple_lga_facebook_mobility_score.png](https://rsbyrne.github.io/mobility-aus/products/syd_smooth_simple_lga_facebook_mobility_score.png)](https://rsbyrne.github.io/mobility-aus/products/syd_smooth_simple_lga_facebook_mobility_score.png)
+
+[Data](https://rsbyrne.github.io/mobility-aus/products/syd_smooth_simple_lga_facebook_mobility_score.csv)
 
 [![syd_sixtydays_sa4.png](https://rsbyrne.github.io/mobility-aus/products/syd_sixtydays_sa4.png)](https://rsbyrne.github.io/mobility-aus/products/syd_sixtydays_sa4.png)
 
