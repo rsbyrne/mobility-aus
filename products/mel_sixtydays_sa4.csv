@@ -42,7 +42,7 @@ date,name,mobility_score
 2020-04-08,Melbourne - Inner,0.06876356794154499
 2020-04-08,Melbourne - Inner East,0.08170983652819613
 2020-04-08,Melbourne - Inner South,0.0935786302801076
-2020-04-08,Melbourne - North East,0.14949638360162437
+2020-04-08,Melbourne - North East,0.15267008643376817
 2020-04-08,Melbourne - North West,0.09675621055092529
 2020-04-08,Melbourne - Outer East,0.13190010251534384
 2020-04-08,Melbourne - South East,0.12771550666907105
@@ -112,7 +112,7 @@ date,name,mobility_score
 2020-04-15,Melbourne - Inner,0.047254618129605644
 2020-04-15,Melbourne - Inner East,0.0586824184281411
 2020-04-15,Melbourne - Inner South,0.07715122990543985
-2020-04-15,Melbourne - North East,0.12108007404847661
+2020-04-15,Melbourne - North East,0.12435981396308435
 2020-04-15,Melbourne - North West,0.08179385573687112
 2020-04-15,Melbourne - Outer East,0.17630644143371751
 2020-04-15,Melbourne - South East,0.02231527411189394
@@ -182,7 +182,7 @@ date,name,mobility_score
 2020-04-22,Melbourne - Inner,0.09720538185126835
 2020-04-22,Melbourne - Inner East,0.12305767258545867
 2020-04-22,Melbourne - Inner South,0.1105106941239258
-2020-04-22,Melbourne - North East,0.14023820321638622
+2020-04-22,Melbourne - North East,0.14344645347753868
 2020-04-22,Melbourne - North West,0.22557213216619143
 2020-04-22,Melbourne - Outer East,0.17600947834607142
 2020-04-22,Melbourne - South East,0.13369202358220902
@@ -252,7 +252,7 @@ date,name,mobility_score
 2020-04-29,Melbourne - Inner,0.0866557437173048
 2020-04-29,Melbourne - Inner East,0.061872064708716264
 2020-04-29,Melbourne - Inner South,0.1596476827139218
-2020-04-29,Melbourne - North East,0.11084624009279
+2020-04-29,Melbourne - North East,0.11416416814344164
 2020-04-29,Melbourne - North West,0.14436104560512716
 2020-04-29,Melbourne - Outer East,0.09297035041001572
 2020-04-29,Melbourne - South East,0.10549654959984081
@@ -322,7 +322,7 @@ date,name,mobility_score
 2020-05-06,Melbourne - Inner,0.16365012199538556
 2020-05-06,Melbourne - Inner East,0.15987599317352452
 2020-05-06,Melbourne - Inner South,0.24671119938832994
-2020-05-06,Melbourne - North East,0.3249677073013264
+2020-05-06,Melbourne - North East,0.32748662886476254
 2020-05-06,Melbourne - North West,0.2838951065230069
 2020-05-06,Melbourne - Outer East,0.22157672210447402
 2020-05-06,Melbourne - South East,0.20244994022586643
@@ -392,7 +392,7 @@ date,name,mobility_score
 2020-05-13,Melbourne - Inner,0.20716345189934482
 2020-05-13,Melbourne - Inner East,0.1532304323416661
 2020-05-13,Melbourne - Inner South,0.2818752323893102
-2020-05-13,Melbourne - North East,0.27799823394186474
+2020-05-13,Melbourne - North East,0.28069242477841283
 2020-05-13,Melbourne - North West,0.2888153051597383
 2020-05-13,Melbourne - Outer East,0.3494941880216175
 2020-05-13,Melbourne - South East,0.23871212312003479
@@ -462,7 +462,7 @@ date,name,mobility_score
 2020-05-20,Melbourne - Inner,0.24079992375930995
 2020-05-20,Melbourne - Inner East,0.27444210237974087
 2020-05-20,Melbourne - Inner South,0.22242355354158513
-2020-05-20,Melbourne - North East,0.32742816433716726
+2020-05-20,Melbourne - North East,0.32993790456461325
 2020-05-20,Melbourne - North West,0.3589367126843798
 2020-05-20,Melbourne - Outer East,0.16350432132388032
 2020-05-20,Melbourne - South East,0.2762636234249162
@@ -532,7 +532,7 @@ date,name,mobility_score
 2020-05-27,Melbourne - Inner,0.29970235156982616
 2020-05-27,Melbourne - Inner East,0.2873007303224465
 2020-05-27,Melbourne - Inner South,0.3924046999896372
-2020-05-27,Melbourne - North East,0.4809684521646461
+2020-05-27,Melbourne - North East,0.4829052480366174
 2020-05-27,Melbourne - North West,0.4233242615509251
 2020-05-27,Melbourne - Outer East,0.32446155323789394
 2020-05-27,Melbourne - South East,0.4527155497190416
@@ -602,7 +602,7 @@ date,name,mobility_score
 2020-06-03,Melbourne - Inner,0.3709676063687386
 2020-06-03,Melbourne - Inner East,0.44302966584993964
 2020-06-03,Melbourne - Inner South,0.5224120127574013
-2020-06-03,Melbourne - North East,0.47648272172746176
+2020-06-03,Melbourne - North East,0.4784362563588202
 2020-06-03,Melbourne - North West,0.539851183638678
 2020-06-03,Melbourne - Outer East,0.5215841436291982
 2020-06-03,Melbourne - South East,0.569147615203458
@@ -672,7 +672,7 @@ date,name,mobility_score
 2020-06-10,Melbourne - Inner,0.42349587839577857
 2020-06-10,Melbourne - Inner East,0.4477895036125033
 2020-06-10,Melbourne - Inner South,0.5304226534581961
-2020-06-10,Melbourne - North East,0.5377340373375634
+2020-06-10,Melbourne - North East,0.5394590091855588
 2020-06-10,Melbourne - North West,0.5953169882953591
 2020-06-10,Melbourne - Outer East,0.5612397363857788
 2020-06-10,Melbourne - South East,0.5934585470404357
@@ -742,7 +742,7 @@ date,name,mobility_score
 2020-06-17,Melbourne - Inner,0.4353568050069285
 2020-06-17,Melbourne - Inner East,0.4701986564080377
 2020-06-17,Melbourne - Inner South,0.5548452429971996
-2020-06-17,Melbourne - North East,0.5794763196584984
+2020-06-17,Melbourne - North East,0.581045527795361
 2020-06-17,Melbourne - North West,0.6207149859517727
 2020-06-17,Melbourne - Outer East,0.6808164095361222
 2020-06-17,Melbourne - South East,0.7421324858784627
@@ -812,7 +812,7 @@ date,name,mobility_score
 2020-06-24,Melbourne - Inner,0.4544236839935651
 2020-06-24,Melbourne - Inner East,0.5092152447594189
 2020-06-24,Melbourne - Inner South,0.5893383858555035
-2020-06-24,Melbourne - North East,0.5538368033394521
+2020-06-24,Melbourne - North East,0.5555016867961929
 2020-06-24,Melbourne - North West,0.5752575033850851
 2020-06-24,Melbourne - Outer East,0.6197736190004732
 2020-06-24,Melbourne - South East,0.7454431881510879
@@ -882,7 +882,7 @@ date,name,mobility_score
 2020-07-01,Melbourne - Inner,0.420164965658293
 2020-07-01,Melbourne - Inner East,0.4585627704149245
 2020-07-01,Melbourne - Inner South,0.5070749680095622
-2020-07-01,Melbourne - North East,0.4502756238413165
+2020-07-01,Melbourne - North East,0.4523269517555956
 2020-07-01,Melbourne - North West,0.43987057498440874
 2020-07-01,Melbourne - Outer East,0.6213035593284646
 2020-07-01,Melbourne - South East,0.5252763078553937
@@ -952,7 +952,7 @@ date,name,mobility_score
 2020-07-08,Melbourne - Inner,0.4524705499721576
 2020-07-08,Melbourne - Inner East,0.5516859697582738
 2020-07-08,Melbourne - Inner South,0.7133525968672914
-2020-07-08,Melbourne - North East,0.5754528654269679
+2020-07-08,Melbourne - North East,0.5770370873131474
 2020-07-08,Melbourne - North West,0.3512686848868814
 2020-07-08,Melbourne - Outer East,0.857904562469275
 2020-07-08,Melbourne - South East,0.7302378141454124
@@ -1022,7 +1022,7 @@ date,name,mobility_score
 2020-07-15,Melbourne - Inner,0.20932137353875743
 2020-07-15,Melbourne - Inner East,0.1957063599561521
 2020-07-15,Melbourne - Inner South,0.2489173049638801
-2020-07-15,Melbourne - North East,0.2725037595203091
+2020-07-15,Melbourne - North East,0.27521845330204947
 2020-07-15,Melbourne - North West,0.2631690593295729
 2020-07-15,Melbourne - Outer East,0.2236402583092276
 2020-07-15,Melbourne - South East,0.30493003286120784
@@ -1092,7 +1092,7 @@ date,name,mobility_score
 2020-07-22,Melbourne - Inner,0.16383377871619328
 2020-07-22,Melbourne - Inner East,0.13601063403373248
 2020-07-22,Melbourne - Inner South,0.19412808643715043
-2020-07-22,Melbourne - North East,0.18429849531388584
+2020-07-22,Melbourne - North East,0.18734233207800102
 2020-07-22,Melbourne - North West,0.11427567744586646
 2020-07-22,Melbourne - Outer East,0.19547901544847593
 2020-07-22,Melbourne - South East,0.30686605739280925
@@ -1162,7 +1162,7 @@ date,name,mobility_score
 2020-07-29,Melbourne - Inner,0.1585456475580733
 2020-07-29,Melbourne - Inner East,0.10897870393288689
 2020-07-29,Melbourne - Inner South,0.16878258645323116
-2020-07-29,Melbourne - North East,0.14399163204855348
+2020-07-29,Melbourne - North East,0.1471858761755929
 2020-07-29,Melbourne - North West,0.17027001861582516
 2020-07-29,Melbourne - Outer East,0.23262146320239394
 2020-07-29,Melbourne - South East,0.17631966195000665
@@ -1232,7 +1232,7 @@ date,name,mobility_score
 2020-08-05,Melbourne - Inner,0.0674960922288968
 2020-08-05,Melbourne - Inner East,0.059064475747215406
 2020-08-05,Melbourne - Inner South,0.042552386792703706
-2020-08-05,Melbourne - North East,0.10651116520385584
+2020-08-05,Melbourne - North East,0.10984526983410961
 2020-08-05,Melbourne - North West,0.10941379230030478
 2020-08-05,Melbourne - Outer East,0.15838311511444367
 2020-08-05,Melbourne - South East,0.09400597614728896
@@ -1302,7 +1302,7 @@ date,name,mobility_score
 2020-08-12,Melbourne - Inner,-0.051018922344764545
 2020-08-12,Melbourne - Inner East,-0.03622146120416906
 2020-08-12,Melbourne - Inner South,-0.009406073268191267
-2020-08-12,Melbourne - North East,0.008884293355326466
+2020-08-12,Melbourne - North East,0.012582698235108962
 2020-08-12,Melbourne - North West,-0.06106774393890599
 2020-08-12,Melbourne - Outer East,-0.01850716119659024
 2020-08-12,Melbourne - South East,-0.07397744636019321
@@ -1372,7 +1372,7 @@ date,name,mobility_score
 2020-08-19,Melbourne - Inner,-0.06007286308209411
 2020-08-19,Melbourne - Inner East,-0.031773713352017716
 2020-08-19,Melbourne - Inner South,-0.05975331033851131
-2020-08-19,Melbourne - North East,-0.0475155632194392
+2020-08-19,Melbourne - North East,-0.043606699052838115
 2020-08-19,Melbourne - North West,-0.06234223903286263
 2020-08-19,Melbourne - Outer East,-0.02503256764357415
 2020-08-19,Melbourne - South East,-0.13044118387701925
@@ -1442,7 +1442,7 @@ date,name,mobility_score
 2020-08-26,Melbourne - Inner,-0.03811850883908287
 2020-08-26,Melbourne - Inner East,-0.029014030122602442
 2020-08-26,Melbourne - Inner South,-0.03856024605018862
-2020-08-26,Melbourne - North East,0.026471090247203722
+2020-08-26,Melbourne - North East,0.030103868989686002
 2020-08-26,Melbourne - North West,-0.04814030716450977
 2020-08-26,Melbourne - Outer East,0.011833677420801441
 2020-08-26,Melbourne - South East,-0.05271555246403691
@@ -1512,7 +1512,7 @@ date,name,mobility_score
 2020-09-02,Melbourne - Inner,-0.038926939353859054
 2020-09-02,Melbourne - Inner East,0.009188239634015594
 2020-09-02,Melbourne - Inner South,-0.03204232328879795
-2020-09-02,Melbourne - North East,0.0022739365211254235
+2020-09-02,Melbourne - North East,0.005997008325071071
 2020-09-02,Melbourne - North West,-0.004286931337421386
 2020-09-02,Melbourne - Outer East,0.009046452134810623
 2020-09-02,Melbourne - South East,-0.0362876174872472
@@ -1582,7 +1582,7 @@ date,name,mobility_score
 2020-09-09,Melbourne - Inner,-0.009793664801012486
 2020-09-09,Melbourne - Inner East,0.005309125109017511
 2020-09-09,Melbourne - Inner South,0.009406073268191267
-2020-09-09,Melbourne - North East,0.06853071455864129
+2020-09-09,Melbourne - North East,0.07200654541022408
 2020-09-09,Melbourne - North West,0.03656197339235711
 2020-09-09,Melbourne - Outer East,0.0837434426226935
 2020-09-09,Melbourne - South East,-0.031061258852196152
@@ -1652,7 +1652,7 @@ date,name,mobility_score
 2020-09-16,Melbourne - Inner,-0.007507258275093276
 2020-09-16,Melbourne - Inner East,0.03591418579170999
 2020-09-16,Melbourne - Inner South,0.06734136641392305
-2020-09-16,Melbourne - North East,0.10095481482185889
+2020-09-16,Melbourne - North East,0.10430965329098615
 2020-09-16,Melbourne - North West,0.15407114679790912
 2020-09-16,Melbourne - Outer East,0.11845933504285974
 2020-09-16,Melbourne - South East,0.0195883529248952
@@ -1722,7 +1722,7 @@ date,name,mobility_score
 2020-09-23,Melbourne - Inner,0.007507258275093239
 2020-09-23,Melbourne - Inner East,-0.0017582686563186634
 2020-09-23,Melbourne - Inner South,0.034866712340983146
-2020-09-23,Melbourne - North East,0.0915299871145681
+2020-09-23,Melbourne - North East,0.09491999486670648
 2020-09-23,Melbourne - North West,0.08397126093430297
 2020-09-23,Melbourne - Outer East,0.048945918280827526
 2020-09-23,Melbourne - South East,0.014755970427624134
@@ -1792,7 +1792,7 @@ date,name,mobility_score
 2020-09-30,Melbourne - Inner,0.026531202634505452
 2020-09-30,Melbourne - Inner East,0.037425054401747405
 2020-09-30,Melbourne - Inner South,-0.012981842649460841
-2020-09-30,Melbourne - North East,0.08776755318062468
+2020-09-30,Melbourne - North East,0.09117160066992781
 2020-09-30,Melbourne - North West,0.10884731104171859
 2020-09-30,Melbourne - Outer East,0.09322179962940598
 2020-09-30,Melbourne - South East,0.01394027545368899
@@ -1862,7 +1862,7 @@ date,name,mobility_score
 2020-10-07,Melbourne - Inner,0.016967669849723047
 2020-10-07,Melbourne - Inner East,0.01895811217066625
 2020-10-07,Melbourne - Inner South,0.027283532534600377
-2020-10-07,Melbourne - North East,0.043690703313156075
+2020-10-07,Melbourne - North East,0.04725922608576105
 2020-10-07,Melbourne - North West,0.11285936579780968
 2020-10-07,Melbourne - Outer East,0.0058360361625546
 2020-10-07,Melbourne - South East,0.023109865997302536
@@ -1932,7 +1932,7 @@ date,name,mobility_score
 2020-10-14,Melbourne - Inner,0.08161320002066332
 2020-10-14,Melbourne - Inner East,0.10573124364292887
 2020-10-14,Melbourne - Inner South,0.09596416937850727
-2020-10-14,Melbourne - North East,0.11851819426619091
+2020-10-14,Melbourne - North East,0.12180749398156125
 2020-10-14,Melbourne - North West,0.20534686403349128
 2020-10-14,Melbourne - Outer East,0.10277476756154123
 2020-10-14,Melbourne - South East,0.07335298614584598
@@ -2002,7 +2002,7 @@ date,name,mobility_score
 2020-10-21,Melbourne - Inner,0.09442852200669757
 2020-10-21,Melbourne - Inner East,0.12546111004352134
 2020-10-21,Melbourne - Inner South,0.2092571736391317
-2020-10-21,Melbourne - North East,0.18276377505226274
+2020-10-21,Melbourne - North East,0.18581333871270964
 2020-10-21,Melbourne - North West,0.31014856227807003
 2020-10-21,Melbourne - Outer East,0.08904139162584761
 2020-10-21,Melbourne - South East,0.21429110156072248
@@ -2072,7 +2072,7 @@ date,name,mobility_score
 2020-10-28,Melbourne - Inner,0.16127713782072034
 2020-10-28,Melbourne - Inner East,0.2363778487097352
 2020-10-28,Melbourne - Inner South,0.3551733742779812
-2020-10-28,Melbourne - North East,0.3701900200835506
+2020-10-28,Melbourne - North East,0.37254019200338057
 2020-10-28,Melbourne - North West,0.44743513152261083
 2020-10-28,Melbourne - Outer East,0.42276350235335025
 2020-10-28,Melbourne - South East,0.34207927364402224
@@ -2142,7 +2142,7 @@ date,name,mobility_score
 2020-11-04,Melbourne - Inner,0.23594720985722886
 2020-11-04,Melbourne - Inner East,0.22655598703345523
 2020-11-04,Melbourne - Inner South,0.2858660858741851
-2020-11-04,Melbourne - North East,0.3375654961831194
+2020-11-04,Melbourne - North East,0.3400374083776569
 2020-11-04,Melbourne - North West,0.4555532463450108
 2020-11-04,Melbourne - Outer East,0.27493120586191755
 2020-11-04,Melbourne - South East,0.3046204646020948
@@ -2212,7 +2212,7 @@ date,name,mobility_score
 2020-11-11,Melbourne - Inner,0.34077835745313545
 2020-11-11,Melbourne - Inner East,0.38502681225477897
 2020-11-11,Melbourne - Inner South,0.4613302312928565
-2020-11-11,Melbourne - North East,0.41254833607011837
+2020-11-11,Melbourne - North East,0.41474044551399947
 2020-11-11,Melbourne - North West,0.5319539818535546
 2020-11-11,Melbourne - Outer East,0.3879001310600354
 2020-11-11,Melbourne - South East,0.5514768569526318
@@ -2282,7 +2282,7 @@ date,name,mobility_score
 2020-11-18,Melbourne - Inner,0.4379644814667604
 2020-11-18,Melbourne - Inner East,0.45499396880846815
 2020-11-18,Melbourne - Inner South,0.5082331937609547
-2020-11-18,Melbourne - North East,0.5404725427478985
+2020-11-18,Melbourne - North East,0.5421872957065099
 2020-11-18,Melbourne - North West,0.6112915235347155
 2020-11-18,Melbourne - Outer East,0.6690683258000525
 2020-11-18,Melbourne - South East,0.5530999944691463
@@ -2352,7 +2352,7 @@ date,name,mobility_score
 2020-11-25,Melbourne - Inner,0.5969256022615137
 2020-11-25,Melbourne - Inner East,0.6665358953220489
 2020-11-25,Melbourne - Inner South,0.6791009138201805
-2020-11-25,Melbourne - North East,0.7029139695911419
+2020-11-25,Melbourne - North East,0.7040225630855372
 2020-11-25,Melbourne - North West,0.7689322943952812
 2020-11-25,Melbourne - Outer East,0.6548577752518547
 2020-11-25,Melbourne - South East,0.8106267955968335
@@ -2422,7 +2422,7 @@ date,name,mobility_score
 2020-12-02,Melbourne - Inner,0.6762414162088489
 2020-12-02,Melbourne - Inner East,0.6752138331024076
 2020-12-02,Melbourne - Inner South,0.8590679585301992
-2020-12-02,Melbourne - North East,0.7395155534105067
+2020-12-02,Melbourne - North East,0.7404875660039055
 2020-12-02,Melbourne - North West,0.9188879137798446
 2020-12-02,Melbourne - Outer East,1.0096861166412592
 2020-12-02,Melbourne - South East,0.9028550935954491
@@ -2492,7 +2492,7 @@ date,name,mobility_score
 2020-12-09,Melbourne - Inner,0.6031175598271155
 2020-12-09,Melbourne - Inner East,0.5941120047327463
 2020-12-09,Melbourne - Inner South,0.750698810326112
-2020-12-09,Melbourne - North East,0.7872370260874926
+2020-12-09,Melbourne - North East,0.7880309632793658
 2020-12-09,Melbourne - North West,0.7050856057827963
 2020-12-09,Melbourne - Outer East,0.693348000464513
 2020-12-09,Melbourne - South East,0.6777789957856107
@@ -2562,7 +2562,7 @@ date,name,mobility_score
 2020-12-16,Melbourne - Inner,0.6608044914529096
 2020-12-16,Melbourne - Inner East,0.6301544322435674
 2020-12-16,Melbourne - Inner South,0.8407347818928802
-2020-12-16,Melbourne - North East,0.8090828421351667
+2020-12-16,Melbourne - North East,0.8097952604164509
 2020-12-16,Melbourne - North West,0.7667310464328242
 2020-12-16,Melbourne - Outer East,0.8769232123088759
 2020-12-16,Melbourne - South East,0.8252785545515797
@@ -2632,7 +2632,7 @@ date,name,mobility_score
 2020-12-23,Melbourne - Inner,0.6254630922675395
 2020-12-23,Melbourne - Inner East,0.6082408980225357
 2020-12-23,Melbourne - Inner South,0.7497959521612096
-2020-12-23,Melbourne - North East,0.7994823271060776
+2020-12-23,Melbourne - North East,0.8002305702576508
 2020-12-23,Melbourne - North West,0.8667036316540582
 2020-12-23,Melbourne - Outer East,0.9095451897383028
 2020-12-23,Melbourne - South East,0.8752204710012114
@@ -2702,7 +2702,7 @@ date,name,mobility_score
 2020-12-30,Melbourne - Inner,0.3995002355837631
 2020-12-30,Melbourne - Inner East,0.3233140695059884
 2020-12-30,Melbourne - Inner South,0.44137990042065434
-2020-12-30,Melbourne - North East,0.5311299681715347
+2020-12-30,Melbourne - North East,0.5328795834809003
 2020-12-30,Melbourne - North West,0.5190938155720448
 2020-12-30,Melbourne - Outer East,0.3252495406764995
 2020-12-30,Melbourne - South East,0.605708944339525
@@ -2772,7 +2772,7 @@ date,name,mobility_score
 2021-01-06,Melbourne - Inner,0.3949199390426981
 2021-01-06,Melbourne - Inner East,0.19334891675353363
 2021-01-06,Melbourne - Inner South,0.2730688964176889
-2021-01-06,Melbourne - North East,0.3028182652307427
+2021-01-06,Melbourne - North East,0.30541983870261813
 2021-01-06,Melbourne - North West,0.4306054704362578
 2021-01-06,Melbourne - Outer East,0.47691322446221485
 2021-01-06,Melbourne - South East,0.4034356837467596
@@ -2842,7 +2842,7 @@ date,name,mobility_score
 2021-01-13,Melbourne - Inner,0.5194543697760008
 2021-01-13,Melbourne - Inner East,0.4057285021699097
 2021-01-13,Melbourne - Inner South,0.5358819225292691
-2021-01-13,Melbourne - North East,0.49751037189173314
+2021-01-13,Melbourne - North East,0.49938544064523643
 2021-01-13,Melbourne - North West,0.506266182622652
 2021-01-13,Melbourne - Outer East,0.4121874851573026
 2021-01-13,Melbourne - South East,0.4995106041557992
@@ -2912,7 +2912,7 @@ date,name,mobility_score
 2021-01-20,Melbourne - Inner,0.6473637629004034
 2021-01-20,Melbourne - Inner East,0.5856797513331276
 2021-01-20,Melbourne - Inner South,0.633607505012054
-2021-01-20,Melbourne - North East,0.7428717609917878
+2021-01-20,Melbourne - North East,0.7438312497048637
 2021-01-20,Melbourne - North West,0.658748618907815
 2021-01-20,Melbourne - Outer East,0.5861628193654974
 2021-01-20,Melbourne - South East,0.6266726832244824
@@ -2982,7 +2982,7 @@ date,name,mobility_score
 2021-01-27,Melbourne - Inner,0.6508964313127177
 2021-01-27,Melbourne - Inner East,0.5946124805030701
 2021-01-27,Melbourne - Inner South,0.7735377380501731
-2021-01-27,Melbourne - North East,0.7357085365236152
+2021-01-27,Melbourne - North East,0.7366947552180146
 2021-01-27,Melbourne - North West,0.6824167325857191
 2021-01-27,Melbourne - Outer East,0.5560282422449445
 2021-01-27,Melbourne - South East,0.6647990775401851
@@ -3052,7 +3052,7 @@ date,name,mobility_score
 2021-02-03,Melbourne - Inner,0.7769261254580819
 2021-02-03,Melbourne - Inner East,0.7851276174453532
 2021-02-03,Melbourne - Inner South,0.7841640210988938
-2021-02-03,Melbourne - North East,0.8834370221194753
+2021-02-03,Melbourne - North East,0.8838719835304439
 2021-02-03,Melbourne - North West,0.8650630237761958
 2021-02-03,Melbourne - Outer East,0.8668176066814571
 2021-02-03,Melbourne - South East,0.8628364349107487
@@ -3122,7 +3122,7 @@ date,name,mobility_score
 2021-02-10,Melbourne - Inner,0.8302304381023144
 2021-02-10,Melbourne - Inner East,0.594402850749536
 2021-02-10,Melbourne - Inner South,0.5410805042211256
-2021-02-10,Melbourne - North East,0.6395378459854797
+2021-02-10,Melbourne - North East,0.6408829311056595
 2021-02-10,Melbourne - North West,0.7230556454871458
 2021-02-10,Melbourne - Outer East,0.7797594893740082
 2021-02-10,Melbourne - South East,0.7473246568965272
@@ -3192,7 +3192,7 @@ date,name,mobility_score
 2021-02-17,Melbourne - Inner,0.028684919692113477
 2021-02-17,Melbourne - Inner East,0.027167264333557366
 2021-02-17,Melbourne - Inner South,0.0750051267794654
-2021-02-17,Melbourne - North East,-0.0022739365211254027
+2021-02-17,Melbourne - North East,0.0014661059308882015
 2021-02-17,Melbourne - North West,0.05702386080613938
 2021-02-17,Melbourne - Outer East,0.10630049388888055
 2021-02-17,Melbourne - South East,0.025785913390856997
@@ -3262,7 +3262,7 @@ date,name,mobility_score
 2021-02-24,Melbourne - Inner,0.7395131374875904
 2021-02-24,Melbourne - Inner East,0.7576189594701737
 2021-02-24,Melbourne - Inner South,0.827965580588133
-2021-02-24,Melbourne - North East,0.8765354277898895
+2021-02-24,Melbourne - North East,0.8769961428943731
 2021-02-24,Melbourne - North West,0.8995173183789832
 2021-02-24,Melbourne - Outer East,0.7120394389147886
 2021-02-24,Melbourne - South East,0.7630866498245633
@@ -3332,7 +3332,7 @@ date,name,mobility_score
 2021-03-03,Melbourne - Inner,0.8214440524469165
 2021-03-03,Melbourne - Inner East,0.9301844686232478
 2021-03-03,Melbourne - Inner South,0.9490932302897709
-2021-03-03,Melbourne - North East,0.982095631606395
+2021-03-03,Melbourne - North East,0.9821624427798962
 2021-03-03,Melbourne - North West,0.8780126295839519
 2021-03-03,Melbourne - Outer East,0.7894741120354467
 2021-03-03,Melbourne - South East,0.9884833371714985
@@ -3402,7 +3402,7 @@ date,name,mobility_score
 2021-03-10,Melbourne - Inner,0.8574399618429597
 2021-03-10,Melbourne - Inner East,0.862932121406845
 2021-03-10,Melbourne - Inner South,0.9092156112964324
-2021-03-10,Melbourne - North East,0.759348619382091
+2021-03-10,Melbourne - North East,0.7602466237567939
 2021-03-10,Melbourne - North West,0.8755470482010316
 2021-03-10,Melbourne - Outer East,0.791777326851093
 2021-03-10,Melbourne - South East,0.9819626517228218
@@ -3472,7 +3472,7 @@ date,name,mobility_score
 2021-03-17,Melbourne - Inner,0.892924718469669
 2021-03-17,Melbourne - Inner East,0.8466124566319876
 2021-03-17,Melbourne - Inner South,0.9680021536253429
-2021-03-17,Melbourne - North East,0.935380662509501
+2021-03-17,Melbourne - North East,0.935621793258919
 2021-03-17,Melbourne - North West,0.936908803898449
 2021-03-17,Melbourne - Outer East,0.6886157241752522
 2021-03-17,Melbourne - South East,0.9935706986043299
@@ -3542,7 +3542,7 @@ date,name,mobility_score
 2021-03-24,Melbourne - Inner,0.8867768319808359
 2021-03-24,Melbourne - Inner East,0.9902749111453268
 2021-03-24,Melbourne - Inner South,1.007365745392389
-2021-03-24,Melbourne - North East,0.8633898054899705
+2021-03-24,Melbourne - North East,0.863899574235049
 2021-03-24,Melbourne - North West,0.965293860071351
 2021-03-24,Melbourne - Outer East,0.9089802380552789
 2021-03-24,Melbourne - South East,0.9519701353384378
@@ -3612,7 +3612,7 @@ date,name,mobility_score
 2021-03-31,Melbourne - Inner,0.9519561372133051
 2021-03-31,Melbourne - Inner East,1.0097250888546732
 2021-03-31,Melbourne - Inner South,0.9761981099190972
-2021-03-31,Melbourne - North East,1.0179043683936049
+2021-03-31,Melbourne - North East,1.0178375572201037
 2021-03-31,Melbourne - North West,0.9994959044111913
 2021-03-31,Melbourne - Outer East,0.8094153717837783
 2021-03-31,Melbourne - South East,1.0805532381886025
@@ -3682,7 +3682,7 @@ date,name,mobility_score
 2021-04-07,Melbourne - Inner,0.903223295115062
 2021-04-07,Melbourne - Inner East,0.8545409924444821
 2021-04-07,Melbourne - Inner South,0.9926342546076108
-2021-04-07,Melbourne - North East,0.8111165270563109
+2021-04-07,Melbourne - North East,0.8118213565261314
 2021-04-07,Melbourne - North West,0.6694328325508125
 2021-04-07,Melbourne - Outer East,0.7843234828181602
 2021-04-07,Melbourne - South East,0.8335615348490502
@@ -3752,7 +3752,7 @@ date,name,mobility_score
 2021-04-14,Melbourne - Inner,1.098821342840669
 2021-04-14,Melbourne - Inner East,0.7940207997408335
 2021-04-14,Melbourne - Inner South,0.8168837436918054
-2021-04-14,Melbourne - North East,0.7710620168663426
+2021-04-14,Melbourne - North East,0.7719163120291703
 2021-04-14,Melbourne - North West,0.6451754853955618
 2021-04-14,Melbourne - Outer East,0.8656816657790953
 2021-04-14,Melbourne - South East,0.7958707183990632
@@ -3822,7 +3822,7 @@ date,name,mobility_score
 2021-04-21,Melbourne - Inner,1.0480438627866948
 2021-04-21,Melbourne - Inner East,1.1561185482329503
 2021-04-21,Melbourne - Inner South,1.222231677192737
-2021-04-21,Melbourne - North East,1.1133012713503592
+2021-04-21,Melbourne - North East,1.1128784811836427
 2021-04-21,Melbourne - North West,1.0798937921742435
 2021-04-21,Melbourne - Outer East,0.9237079841744061
 2021-04-21,Melbourne - South East,1.0932801225576316
@@ -3892,7 +3892,7 @@ date,name,mobility_score
 2021-04-28,Melbourne - Inner,1.0883316144846773
 2021-04-28,Melbourne - Inner East,1.1153461751395837
 2021-04-28,Melbourne - Inner South,1.2439367534337094
-2021-04-28,Melbourne - North East,1.137193489748525
+2021-04-28,Melbourne - North East,1.1366815444039415
 2021-04-28,Melbourne - North West,1.0813736044824787
 2021-04-28,Melbourne - Outer East,1.0919178487121526
 2021-04-28,Melbourne - South East,1.0447874505474075
@@ -3962,7 +3962,7 @@ date,name,mobility_score
 2021-05-05,Melbourne - Inner,1.084777257725281
 2021-05-05,Melbourne - Inner East,1.1333796908162361
 2021-05-05,Melbourne - Inner South,1.2917896097129247
-2021-05-05,Melbourne - North East,1.151522958900288
+2021-05-05,Melbourne - North East,1.150957542322951
 2021-05-05,Melbourne - North West,1.081701520184099
 2021-05-05,Melbourne - Outer East,1.191804427870431
 2021-05-05,Melbourne - South East,1.0064293013956702
@@ -4032,7 +4032,7 @@ date,name,mobility_score
 2021-05-12,Melbourne - Inner,1.0848687405488784
 2021-05-12,Melbourne - Inner East,1.209163068589455
 2021-05-12,Melbourne - Inner South,1.2476845676497714
-2021-05-12,Melbourne - North East,1.1129889027104918
+2021-05-12,Melbourne - North East,1.1125672781651998
 2021-05-12,Melbourne - North West,1.140741381617711
 2021-05-12,Melbourne - Outer East,1.1472073454834724
 2021-05-12,Melbourne - South East,1.1422339887373423
@@ -4102,7 +4102,7 @@ date,name,mobility_score
 2021-05-19,Melbourne - Inner,1.1035912892709385
 2021-05-19,Melbourne - Inner East,1.177772221627636
 2021-05-19,Melbourne - Inner South,1.2685398129086467
-2021-05-19,Melbourne - North East,1.0937753590898807
+2021-05-19,Melbourne - North East,1.09342543098024
 2021-05-19,Melbourne - North West,1.2016001747408405
 2021-05-19,Melbourne - Outer East,1.0377720711304748
 2021-05-19,Melbourne - South East,1.0859447263184923
@@ -4172,7 +4172,7 @@ date,name,mobility_score
 2021-05-26,Melbourne - Inner,0.7958488985853459
 2021-05-26,Melbourne - Inner East,0.8466585537650057
 2021-05-26,Melbourne - Inner South,0.8617415710667587
-2021-05-26,Melbourne - North East,0.6673344636738002
+2021-05-26,Melbourne - North East,0.6685758241271114
 2021-05-26,Melbourne - North West,1.0005040955888087
 2021-05-26,Melbourne - Outer East,0.7469599308849708
 2021-05-26,Melbourne - South East,0.961919598759115
@@ -4242,7 +4242,7 @@ date,name,mobility_score
 2021-06-02,Melbourne - Inner,0.07744354454916884
 2021-06-02,Melbourne - Inner East,0.06581106678121651
 2021-06-02,Melbourne - Inner South,0.11617435833309778
-2021-06-02,Melbourne - North East,0.019725156028336865
+2021-06-02,Melbourne - North East,0.02338310760973844
 2021-06-02,Melbourne - North West,0.06236975817064471
 2021-06-02,Melbourne - Outer East,0.08362589067639438
 2021-06-02,Melbourne - South East,0.06849428715575821
@@ -4312,7 +4312,7 @@ date,name,mobility_score
 2021-06-09,Melbourne - Inner,0.08620137343544378
 2021-06-09,Melbourne - Inner East,0.01139219629429213
 2021-06-09,Melbourne - Inner South,0.011484466895451642
-2021-06-09,Melbourne - North East,0.044390594173261994
+2021-06-09,Melbourne - North East,0.04795650526313914
 2021-06-09,Melbourne - North West,0.06364519259448066
 2021-06-09,Melbourne - Outer East,-0.0406721826572167
 2021-06-09,Melbourne - South East,0.09214237766045046
@@ -4382,7 +4382,7 @@ date,name,mobility_score
 2021-06-16,Melbourne - Inner,0.5460552366252157
 2021-06-16,Melbourne - Inner East,0.6058969500800973
 2021-06-16,Melbourne - Inner South,0.6432066246693173
-2021-06-16,Melbourne - North East,0.49470066988232375
+2021-06-16,Melbourne - North East,0.4965862231993878
 2021-06-16,Melbourne - North West,0.6153367010592485
 2021-06-16,Melbourne - Outer East,0.6624370937924565
 2021-06-16,Melbourne - South East,0.5840144487335063
@@ -4452,7 +4452,7 @@ date,name,mobility_score
 2021-06-23,Melbourne - Inner,0.7161134739114499
 2021-06-23,Melbourne - Inner East,0.6314718502726394
 2021-06-23,Melbourne - Inner South,0.8056245581084311
-2021-06-23,Melbourne - North East,0.6842461208728877
+2021-06-23,Melbourne - North East,0.6854243745112316
 2021-06-23,Melbourne - North West,0.7411552736522837
 2021-06-23,Melbourne - Outer East,0.7504796375407278
 2021-06-23,Melbourne - South East,0.6997734486510659
@@ -4522,7 +4522,7 @@ date,name,mobility_score
 2021-06-30,Melbourne - Inner,0.82576659915355
 2021-06-30,Melbourne - Inner East,0.6958722492623683
 2021-06-30,Melbourne - Inner South,0.8748584122678743
-2021-06-30,Melbourne - North East,0.659313308903055
+2021-06-30,Melbourne - North East,0.6605846007536255
 2021-06-30,Melbourne - North West,0.5770608500192466
 2021-06-30,Melbourne - Outer East,0.916391019885782
 2021-06-30,Melbourne - South East,0.8081608208063397
@@ -4592,7 +4592,7 @@ date,name,mobility_score
 2021-07-07,Melbourne - Inner,0.8359225167248524
 2021-07-07,Melbourne - Inner East,0.6537984105310518
 2021-07-07,Melbourne - Inner South,0.8570927369146744
-2021-07-07,Melbourne - North East,0.7487661253555165
+2021-07-07,Melbourne - North East,0.749703618911236
 2021-07-07,Melbourne - North West,0.7490312292514386
 2021-07-07,Melbourne - Outer East,0.9725680093482604
 2021-07-07,Melbourne - South East,0.7343275891780159
@@ -4662,7 +4662,7 @@ date,name,mobility_score
 2021-07-14,Melbourne - Inner,0.94200219241547
 2021-07-14,Melbourne - Inner East,0.9288111780509927
 2021-07-14,Melbourne - Inner South,0.990500987472687
-2021-07-14,Melbourne - North East,0.769582117971272
+2021-07-14,Melbourne - North East,0.7704419354613703
 2021-07-14,Melbourne - North West,0.8913900716450469
 2021-07-14,Melbourne - Outer East,1.08534480148751
 2021-07-14,Melbourne - South East,0.9360598662285202
@@ -4732,7 +4732,7 @@ date,name,mobility_score
 2021-07-21,Melbourne - Inner,0.0814918219942951
 2021-07-21,Melbourne - Inner East,0.001758268656318643
 2021-07-21,Melbourne - Inner South,0.06031487588260496
-2021-07-21,Melbourne - North East,-0.013861829844643713
+2021-07-21,Melbourne - North East,-0.010078546506700467
 2021-07-21,Melbourne - North West,0.0996956575514605
 2021-07-21,Melbourne - Outer East,0.10607729983480652
 2021-07-21,Melbourne - South East,0.07160008833438829
@@ -4802,7 +4802,7 @@ date,name,mobility_score
 2021-07-28,Melbourne - Inner,0.47854699317596455
 2021-07-28,Melbourne - Inner East,0.47271469560310914
 2021-07-28,Melbourne - Inner South,0.5757199919450662
-2021-07-28,Melbourne - North East,0.5461025626899508
+2021-07-28,Melbourne - North East,0.5477963069075169
 2021-07-28,Melbourne - North West,0.7119219844766221
 2021-07-28,Melbourne - Outer East,0.7218461010462741
 2021-07-28,Melbourne - South East,0.7155331677055389
@@ -4872,7 +4872,7 @@ date,name,mobility_score
 2021-08-04,Melbourne - Inner,0.6786067344054315
 2021-08-04,Melbourne - Inner East,0.6189843953301383
 2021-08-04,Melbourne - Inner South,0.8172608407844745
-2021-08-04,Melbourne - North East,0.701747084306569
+2021-08-04,Melbourne - North East,0.7028600321000654
 2021-08-04,Melbourne - North West,0.8009757040956412
 2021-08-04,Melbourne - Outer East,0.8105206662522199
 2021-08-04,Melbourne - South East,0.8521203401207661
@@ -4942,7 +4942,7 @@ date,name,mobility_score
 2021-08-11,Melbourne - Inner,0.10166354958769187
 2021-08-11,Melbourne - Inner East,0.049929911302361955
 2021-08-11,Melbourne - Inner South,0.07249738115891322
-2021-08-11,Melbourne - North East,0.10040410197408735
+2021-08-11,Melbourne - North East,0.10376099545966717
 2021-08-11,Melbourne - North West,0.07913621891355578
 2021-08-11,Melbourne - Outer East,0.055545442754091734
 2021-08-11,Melbourne - South East,0.09019482239840862
@@ -5012,7 +5012,7 @@ date,name,mobility_score
 2021-08-18,Melbourne - Inner,0.06395036981796721
 2021-08-18,Melbourne - Inner East,0.015615617565087798
 2021-08-18,Melbourne - Inner South,-0.011225066040344938
-2021-08-18,Melbourne - North East,-0.005217131081542762
+2021-08-18,Melbourne - North East,-0.0014661059308882015
 2021-08-18,Melbourne - North West,0.07014045557057942
 2021-08-18,Melbourne - Outer East,0.12944098702697665
 2021-08-18,Melbourne - South East,0.056714021882247015
@@ -5082,7 +5082,7 @@ date,name,mobility_score
 2021-08-25,Melbourne - Inner,0.05548313279256566
 2021-08-25,Melbourne - Inner East,0.007359480233525514
 2021-08-25,Melbourne - Inner South,0.0680697496729486
-2021-08-25,Melbourne - North East,0.07577756098688017
+2021-08-25,Melbourne - North East,0.07922634981701829
 2021-08-25,Melbourne - North West,-0.026182246396559906
 2021-08-25,Melbourne - Outer East,0.07673483762590026
 2021-08-25,Melbourne - South East,-0.013940275453688939
@@ -5152,7 +5152,7 @@ date,name,mobility_score
 2021-09-01,Melbourne - Inner,0.11752666340042903
 2021-09-01,Melbourne - Inner East,0.02296811181224484
 2021-09-01,Melbourne - Inner South,0.09970793704058095
-2021-09-01,Melbourne - North East,0.07420520572489034
+2021-09-01,Melbourne - North East,0.07765986188851406
 2021-09-01,Melbourne - North West,0.1345465063329569
 2021-09-01,Melbourne - Outer East,-0.005836036162554621
 2021-09-01,Melbourne - South East,0.08366647956224735
@@ -5222,7 +5222,7 @@ date,name,mobility_score
 2021-09-08,Melbourne - Inner,0.10231111449759138
 2021-09-08,Melbourne - Inner East,0.05179384006501373
 2021-09-08,Melbourne - Inner South,0.015316555618858666
-2021-09-08,Melbourne - North East,0.07765477416433339
+2021-09-08,Melbourne - North East,0.08109655806625846
 2021-09-08,Melbourne - North West,0.1058000976474724
 2021-09-08,Melbourne - Outer East,-0.047946961235259114
 2021-09-08,Melbourne - South East,0.08363631546076565
@@ -5292,7 +5292,7 @@ date,name,mobility_score
 2021-09-15,Melbourne - Inner,0.09406227444320249
 2021-09-15,Melbourne - Inner East,-0.013101744604940133
 2021-09-15,Melbourne - Inner South,0.10186751531646844
-2021-09-15,Melbourne - North East,0.009428538061547998
+2021-09-15,Melbourne - North East,0.013124912061117626
 2021-09-15,Melbourne - North West,0.0011559104836550513
 2021-09-15,Melbourne - Outer East,0.05505130482388804
 2021-09-15,Melbourne - South East,0.08414032204549339
@@ -5362,7 +5362,7 @@ date,name,mobility_score
 2021-09-22,Melbourne - Inner,0.07281360466150578
 2021-09-22,Melbourne - Inner East,-0.004481220226692873
 2021-09-22,Melbourne - Inner South,0.0501013768389709
-2021-09-22,Melbourne - North East,0.004690582041964479
+2021-09-22,Melbourne - North East,0.008404635995091038
 2021-09-22,Melbourne - North West,0.003306875869569727
 2021-09-22,Melbourne - Outer East,0.020118696486267948
 2021-09-22,Melbourne - South East,0.04092769213966395
@@ -5432,7 +5432,7 @@ date,name,mobility_score
 2021-09-29,Melbourne - Inner,0.0540316685413999
 2021-09-29,Melbourne - Inner East,0.023373280880554445
 2021-09-29,Melbourne - Inner South,0.0840570858623392
-2021-09-29,Melbourne - North East,0.008398912831039447
+2021-09-29,Melbourne - North East,0.012099128935977128
 2021-09-29,Melbourne - North West,-0.0011559104836550513
 2021-09-29,Melbourne - Outer East,0.10859576891883232
 2021-09-29,Melbourne - South East,0.023300669691219952
@@ -5502,7 +5502,7 @@ date,name,mobility_score
 2021-10-06,Melbourne - Inner,0.09892097837134328
 2021-10-06,Melbourne - Inner East,0.01380648478550807
 2021-10-06,Melbourne - Inner South,0.08061863959747491
-2021-10-06,Melbourne - North East,-0.026608094103764055
+2021-10-06,Melbourne - North East,-0.022777247352569578
 2021-10-06,Melbourne - North West,0.051352704424450495
 2021-10-06,Melbourne - Outer East,0.10965340091683841
 2021-10-06,Melbourne - South East,0.0813885894343888
@@ -5572,7 +5572,7 @@ date,name,mobility_score
 2021-10-13,Melbourne - Inner,0.08579239893623973
 2021-10-13,Melbourne - Inner East,0.08360674628224393
 2021-10-13,Melbourne - Inner South,0.09766148332271903
-2021-10-13,Melbourne - North East,-0.014113136963430578
+2021-10-13,Melbourne - North East,-0.010328915858616911
 2021-10-13,Melbourne - North West,0.03644041960401139
 2021-10-13,Melbourne - Outer East,-0.015672843282761653
 2021-10-13,Melbourne - South East,0.029091494104804713
@@ -5642,7 +5642,7 @@ date,name,mobility_score
 2021-10-20,Melbourne - Inner,0.15424270135983384
 2021-10-20,Melbourne - Inner East,0.06690051051243437
 2021-10-20,Melbourne - Inner South,0.10160089531594481
-2021-10-20,Melbourne - North East,0.06413289406952116
+2021-10-20,Melbourne - North East,0.06762513563949771
 2021-10-20,Melbourne - North West,0.10028015553459133
 2021-10-20,Melbourne - Outer East,0.06685331585776094
 2021-10-20,Melbourne - South East,0.07292224780133154
@@ -5712,7 +5712,7 @@ date,name,mobility_score
 2021-10-27,Melbourne - Inner,0.33382709320861426
 2021-10-27,Melbourne - Inner East,0.3194158000539853
 2021-10-27,Melbourne - Inner South,0.3167077151585247
-2021-10-27,Melbourne - North East,0.2590583485345535
+2021-10-27,Melbourne - North East,0.2618232146354964
 2021-10-27,Melbourne - North West,0.295479029518691
 2021-10-27,Melbourne - Outer East,0.2851540492999146
 2021-10-27,Melbourne - South East,0.27119453937848204
@@ -5782,7 +5782,7 @@ date,name,mobility_score
 2021-11-03,Melbourne - Inner,0.3884053506796993
 2021-11-03,Melbourne - Inner East,0.35000939893548116
 2021-11-03,Melbourne - Inner South,0.5118933735790712
-2021-11-03,Melbourne - North East,0.30523564188004737
+2021-11-03,Melbourne - North East,0.3078281947728561
 2021-11-03,Melbourne - North West,0.4319800549375092
 2021-11-03,Melbourne - Outer East,0.3593336339282694
 2021-11-03,Melbourne - South East,0.3623659583073659
@@ -5852,7 +5852,7 @@ date,name,mobility_score
 2021-11-10,Melbourne - Inner,0.5292514093994807
 2021-11-10,Melbourne - Inner East,0.4771229665579015
 2021-11-10,Melbourne - Inner South,0.5318105729709681
-2021-11-10,Melbourne - North East,0.40663754510423633
+2021-11-10,Melbourne - North East,0.4088517110022781
 2021-11-10,Melbourne - North West,0.42886836422185654
 2021-11-10,Melbourne - Outer East,0.5073458001976314
 2021-11-10,Melbourne - South East,0.4495788560375062
@@ -5922,7 +5922,7 @@ date,name,mobility_score
 2021-11-17,Melbourne - Inner,0.4386002622700019
 2021-11-17,Melbourne - Inner East,0.5082955145419634
 2021-11-17,Melbourne - Inner South,0.67535692152604
-2021-11-17,Melbourne - North East,0.3779866392581351
+2021-11-17,Melbourne - North East,0.3803077176481099
 2021-11-17,Melbourne - North West,0.45400342943450367
 2021-11-17,Melbourne - Outer East,0.24550592737252283
 2021-11-17,Melbourne - South East,0.27627603552226615
@@ -6052,7 +6052,7 @@ date,name,mobility_score
 2021-12-01,Melbourne - Inner,0.6915685537375108
 2021-12-01,Melbourne - Inner East,0.43506765834560046
 2021-12-01,Melbourne - Inner South,0.6357713999915853
-2021-12-01,Melbourne - North East,0.37430994698763637
+2021-12-01,Melbourne - North East,0.3766447451648606
 2021-12-01,Melbourne - North West,0.4669688033746396
 2021-12-01,Melbourne - Outer East,0.3161196591641464
 2021-12-01,Melbourne - South East,0.4280580913469499
@@ -6122,7 +6122,7 @@ date,name,mobility_score
 2021-12-08,Melbourne - Inner,0.7855867588206303
 2021-12-08,Melbourne - Inner East,0.6983187902405259
 2021-12-08,Melbourne - Inner South,0.921379886795482
-2021-12-08,Melbourne - North East,0.6167168357777438
+2021-12-08,Melbourne - North East,0.6181470788012319
 2021-12-08,Melbourne - North West,0.6274725712403194
 2021-12-08,Melbourne - Outer East,0.6879394576880566
 2021-12-08,Melbourne - South East,0.6473498970505025
@@ -6192,7 +6192,7 @@ date,name,mobility_score
 2021-12-15,Melbourne - Inner,0.8449244908865149
 2021-12-15,Melbourne - Inner East,0.6691453226790788
 2021-12-15,Melbourne - Inner South,0.8586083878208417
-2021-12-15,Melbourne - North East,0.7270361593646364
+2021-12-15,Melbourne - North East,0.7280547395298399
 2021-12-15,Melbourne - North West,0.6528481036233856
 2021-12-15,Melbourne - Outer East,0.6784503506296774
 2021-12-15,Melbourne - South East,0.5687253340960156
@@ -6262,7 +6262,7 @@ date,name,mobility_score
 2021-12-22,Melbourne - Inner,0.6850522051247389
 2021-12-22,Melbourne - Inner East,0.6073460793467647
 2021-12-22,Melbourne - Inner South,0.6932516228897134
-2021-12-22,Melbourne - North East,0.6251044835813911
+2021-12-22,Melbourne - North East,0.6265034276179305
 2021-12-22,Melbourne - North West,0.6951060026306778
 2021-12-22,Melbourne - Outer East,0.9903138833587409
 2021-12-22,Melbourne - South East,0.6523617877513953
@@ -6332,7 +6332,7 @@ date,name,mobility_score
 2021-12-29,Melbourne - Inner,0.3560363040568083
 2021-12-29,Melbourne - Inner East,0.2592647409754553
 2021-12-29,Melbourne - Inner South,0.316401770847315
-2021-12-29,Melbourne - North East,0.26151493659996555
+2021-12-29,Melbourne - North East,0.26427063580220245
 2021-12-29,Melbourne - North West,0.23535209410814445
 2021-12-29,Melbourne - Outer East,0.27221850592128555
 2021-12-29,Melbourne - South East,0.15149012521202418
@@ -6402,7 +6402,7 @@ date,name,mobility_score
 2022-01-05,Melbourne - Inner,0.20686990910802858
 2022-01-05,Melbourne - Inner East,0.1334776269108601
 2022-01-05,Melbourne - Inner South,0.1268177092046159
-2022-01-05,Melbourne - North East,0.16024247298685956
+2022-01-05,Melbourne - North East,0.16337607617256
 2022-01-05,Melbourne - North West,0.16536026831355258
 2022-01-05,Melbourne - Outer East,0.06546750458835056
 2022-01-05,Melbourne - South East,0.1567317028339146
@@ -6472,7 +6472,7 @@ date,name,mobility_score
 2022-01-12,Melbourne - Inner,0.27885172125242214
 2022-01-12,Melbourne - Inner East,0.0787818053399602
 2022-01-12,Melbourne - Inner South,0.23493951474418853
-2022-01-12,Melbourne - North East,0.11225831278337964
+2022-01-12,Melbourne - North East,0.11557097160411749
 2022-01-12,Melbourne - North West,0.13565176794261077
 2022-01-12,Melbourne - Outer East,0.10013315551358506
 2022-01-12,Melbourne - South East,0.1197781790663993
@@ -6542,7 +6542,7 @@ date,name,mobility_score
 2022-01-19,Melbourne - Inner,0.4814652779512788
 2022-01-19,Melbourne - Inner East,0.3385567306729255
 2022-01-19,Melbourne - Inner South,0.38573729020818703
-2022-01-19,Melbourne - North East,0.16402413373784946
+2022-01-19,Melbourne - North East,0.16714362544041894
 2022-01-19,Melbourne - North West,0.20263633943670842
 2022-01-19,Melbourne - Outer East,0.2994011067839058
 2022-01-19,Melbourne - South East,0.2252584451383238
@@ -6609,3 +6609,13 @@ date,name,mobility_score
 2022-01-25,Melbourne - West,0.2829063157541001
 2022-01-25,Mornington Peninsula,0.5379623844443105
 2022-01-25,all,0.41721869710753656
+2022-01-26,Melbourne - Inner,0.2928712967454425
+2022-01-26,Melbourne - Inner East,0.12878820944525735
+2022-01-26,Melbourne - Inner South,0.2234877749689857
+2022-01-26,Melbourne - North East,-0.022125420341334225
+2022-01-26,Melbourne - North West,0.0019818764079756832
+2022-01-26,Melbourne - Outer East,0.022515927729340655
+2022-01-26,Melbourne - South East,0.02812119658493463
+2022-01-26,Melbourne - West,0.06677768800280999
+2022-01-26,Mornington Peninsula,0.10584692071002928
+2022-01-26,all,0.17277736331311006
